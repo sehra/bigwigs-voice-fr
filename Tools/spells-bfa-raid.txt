@@ -1,0 +1,455 @@
+; Type: Battle for Azeroth Raid
+
+; -------------------------------------
+;    Zone: Uldir, Halls of Control
+; -------------------------------------
+
+; Boss: Trash
+277047y	Regard corrupteur
+276540	Bouclier de sang
+
+; Boss: Taloc the Corrupted
+271224y	Décharge de plasma
+270290	Tempête de sang
+271296	Broyeur de sang
+271728	Récupérer le broyeur
+271895y	Sang statique
+275270	Fixer
+275432	Rayon défensif d’Uldir
+275189y	Artères durcies
+275205y	Cœur hypertrophié
+
+; Boss: MOTHER
+268198	Corruption tenace
+274205	Énergie épuisée
+269051	Purification
+267787	Frappe assainissante
+267795	Flamme purificatrice
+267878	Tunnel de vent
+268253	Rayon défensif d’Uldir
+279662y	Virus endémique
+
+; Boss: Fetid Devourer
+262277	Terrible rossée
+breath	Régurgitation putride
+262288	Piétinement de choc
+262313y	Miasme malodorant
+262314y	Paroxysme putride
+262364	Essence attirante
+262378	Frénésie fétide
+
+; Boss: Zek'voz, Herald of N'zoth
+265530	Déferlante ténébreuse
+265231	Fouet du Vide
+265248	Fracasser
+264382y	Rayon accablant
+-18390	Guerrier silithide
+265360y	Tromperie frémissante
+-18397	Tisse-Vide nérubien
+267180	Éclair de Vide
+267239	Orbe de corruption
+265662y	Pacte du corrupteur
+265646	Volonté du Corrupteur
+
+; Boss: Vectis
+265143	Vecteur Oméga
+265127	Infection rémanente
+265178	Affliction évolutive
+267242	Contagion
+265212	Gestation
+265206	Immunosuppression
+265217	Liquéfaction
+266459	Bombe de peste
+274990	Lésions explosives
+
+; Boss: Zul, Reborn
+269936y	Fixer
+-18530	Séide de Zul
+273365y	Sombre révélation
+273360	Nappe de ténèbres
+273889	Appel du sang
+; TODO crusher	Crusher spawning soon
+; TODO bloodhexer	Blood Hexer spawning soon
+; TODO crawg	Crawg spawning soon
+273288	Pouls grondant
+273451	Figer le sang
+273350	Éclat de sang
+276299	Jaillissement congestionné
+274358	Dégorgement sanguin
+274271	Désir de mort
+
+; Boss: Mythrax the Unraveler
+272146	Annihilation
+273282	Cisaille d’essence
+273538	Choc oblitérateur
+272404	Sphère d’oubli
+272536y	Ruine imminente
+279013	Pulvérisation d’essence
+273810	Réveil de Xalzaix
+274230	Voile de l’oubli
+272115	Rayon d’oblitération
+273949	Visions de folie
+276922	Arme vivante
+279157	Échos du Vide
+
+; Boss: G'huun
+-18109	Matrice de puissance
+263482	Explosion de réorigination
+272506y	Corruption explosive
+270287	Terre chancreuse
+267509	Les mille gueules
+267427	Tourment
+267412	Choc massif
+267409	Sombre marché
+267462	Éruption putréfiée
+270447	Corruption croissante
+270373	Vague de corruption
+263235	Festin sanglant
+263307	Bavardage assommant
+274582	Croissance malveillante
+275160	Regard de G’huun
+263321	Masse ondulante
+277007	Bouillonnement explosif
+268074	Noir dessein
+
+
+; -------------------------------------
+;    Zone: Battle of Dazar'alor
+; -------------------------------------
+
+; Boss: Trash
+288815	Souffle de feu
+289772y	Empaler
+289937	Heurt tonitruant
+289917	Pacte de Bwonsamdi
+290578	Couteau de Bwonsamdi
+
+; Boss: Champion of the Light
+283573	Lame sacrée
+283598	Onde de lumière
+284469	Sceau de vindicte
+283933	Jugement : Piété
+284436	Sceau de rétribution
+284474	Jugement : Rétribution
+283662	Appel aux armes
+282113	Courroux vengeur
+284595	Pénitence
+283628	Soins
+283650	Foi aveuglante
+287469	Prière pour les défunts
+
+; Boss: Jadefire Masters
+286436	Tempête tourbillonnante de jade
+282030	Frappe plurilatérale
+285645	Esprits de Xuen
+285632	Traque
+282037	Levée de flammes
+286379	Explosion pyrotechnique
+286425	Bouclier de feu
+286988	Braises brûlantes
+284374	Piège de magma
+285428	Feu des brumes
+284656	Cercle d’hostilité
+282040	Phénix flamboyant
+286396	Souffle du dragon
+
+; Boss: Grong
+285671	Écrasé
+285875	Morsure tranchante
+289401y	Lancer bestial
+285994	Grondement féroce
+; Alliance
+282399	Glas
+286450	Combo nécrotique
+282543	Heurt mortel
+282471	Explosion vaudou
+286373	Frisson de la mort
+282526	Spectre de la mort
+282533	Renforcement par la mort
+286434	Cœur nécrotique
+286435	Décharge du cœur nécrotique
+; Horde
+281936	Crise de colère
+282082	Combo bestial
+282179	Heurt retentissant
+282215	Missile traqueur mégatomique
+283069	Feu mégatomique
+282247	Primatraqueur 3000
+282243	Primatraquage
+285659	Cœur du primatraqueur
+285660	Décharge du cœur du primatraqueur
+
+; Boss: Opulence
+286541	Flamme consumante
+-19494	Les joyaux de la couronne zandalari
+284645y	Topaze de soleil brillant
+283606	Écrasement
+289383	Déplacement chaotique
+283507y	Projection explosive
+282939	Flammes du châtiment
+285479	Flot de flammes
+284424	Sol brûlant
+284493	Toxine tachycardique
+284519	Tachycardie
+284470y	Maléfice de léthargie
+287070	Accumulation de puissance
+287072y	Or liquide
+287074	Or en fusion
+285995	Esprits d’or
+286026	Canalisation d’or
+285014y	Pluie de pièces
+284941	Lamentation de cupidité
+287037	Balayage de pièces
+289155	Éruption d’or
+
+; Boss: Conclave of the Chosen
+282079	Pacte des Loas
+282098	Don du vent
+285945	Vents de hâte
+282107	Courroux de Pa’ku
+282135y	Maléfice rampant
+285893	Mutilation brutale
+282155	Courroux de Gonk
+282209y	Marque de la proie
+282444	Griffes lacérantes
+282447y	Courroux de Kimbul
+282411	Tempête tonitruante
+285879	Confusion mentale
+286811y	Courroux d’Akunda
+282636	Courroux de Krag’wa
+
+; Boss: King Rastakhan
+284831	Détonation brûlante
+284933	Invasion de crapauds
+285172	Totem du serpent supérieur
+290450y	Sceau de purification
+284686	Bond météoritique
+284719	Bond écrasant
+284781	Hache effroyable
+285346y	Déferlement de feu
+285003	Totem de poudre zombie
+285213	Caresse de mort
+288449y	Porte de la mort
+287333	Fin inéluctable
+286742	Choc nécrotique
+
+; Boss: High Tinker Mekkatorque
+282153	Canon désintégrant
+282205	Décollage
+286646y	Décharge de gigavolts
+287952	Générateur de tunnel spatiotemporel
+288410	Déploiement de robot étourdisseur
+286693	Agrandisseur de monde
+284168	Rétrécissement
+287929	Signal au mouton détonant
+
+; Boss: Stormwall Blockade
+287995	Voile électrique
+284262	Éclair voltaïque
+284106	Éclair crépitant
+286558	Voile des marées
+284362	Tempête des mers
+284383	Tentation de la mer
+284406	Chant tentateur
+288696	Vague calamiteuse
+285000	Bardé de varech
+285118	Houle de mer
+285017	Ire des profondeurs
+285350y	Complainte de la tempête
+
+; Boss: Lady Jaina Proudmoore
+287993	Toucher glacial
+287490	Congelé
+288038	Cible marquée
+285725	Allumer une charge
+287365	Poix brûlante
+285253	Éclat de glace
+285254y	Avalanche
+287925	Distorsion temporelle
+287626	Poigne du givre
+285177	Déflagration givrante
+285459	Anneau de glace
+288297	Sol arctique
+288212y	Bordée
+288374y	Explosion de brise-siège
+288345	Rayon glacial
+288441	Chute de glace
+289220	Cœur de givre
+289219	Nova de givre
+290084	Salve de traits d’eau
+289940	Poussière cristalline
+288619	Orbe de givre
+288747	Image prismatique
+289387	Sang givrant
+289488	Bloc glacial
+288169	Vents hurlants
+-19825	Image glaciale
+
+
+; -------------------------------------
+;    Zone: Crucible of Storms
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: The Restless Cabal
+282738	Étreinte du Vide
+282741	Carapace ombreuse
+282750	Protection des océans
+282742	Tempête d’annihilation
+282914	Puissance accablante
+282675	Pacte des tourmentés
+282386	Déflagration aphotique
+282540	Agent du trépas
+282589	Assaut cérébral
+282561	Sombre héraut
+282562	Promesses de pouvoir
+282517	Écho terrifiant
+282384	Fraction d’esprit
+282407	Déferlante du Vide
+282432y	Doute écrasant
+287876	Linceul de ténèbres
+
+; Boss: Uu'nat, Harbinger of the Void
+284722	Carapace ombreuse
+284804	Protection des océans
+284583	Tempête d’annihilation
+284851	Toucher de fin de vie
+285185	Déchirure de l’oubli
+285416	Déferlante du Vide
+285376	Yeux de N’Zoth
+285345	Yeux de N’Zoth plongeant dans la folie
+285367	Regard perçant de N’Zoth
+285453	Don de N’Zoth : obscurité
+285820	Appel de gardien immortel
+285638	Don de N’Zoth : hystérie
+-19118	Torve-esprit primordial
+285427	Consommer l’essence
+285562	Terreur inexplicable
+285652y	Tourment insatiable
+285685	Don de N’Zoth : démence
+285307	Nourrir
+
+
+; -------------------------------------
+;    Zone: The Eternal Palace
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Blackwater Behemoth
+292127	Profondeurs obscures
+292205	Nuage bioluminescent
+292133	Bioluminescence
+292307	Guetteurs des abysses
+292138	Biomasse rayonnante
+298428	Frénésie dévorante
+292159	Épine toxique
+292270	Remous électriques
+301494y	Barbelure perforante
+292083	Cavitation
+301180	Sillage
+
+; Boss: Za'qul, Harbinger of Ny'alotha
+298192	Sombre au-delà
+292971	Hystérie
+295444	Longe mentale
+294535	Portail vers la folie
+301141	Étreinte broyeuse
+292963	Effroi
+293509y	Cauchemars manifestes
+292996	Éruption aliénante
+295099	Ponction des ténèbres
+304733	Descente dans l’aliénation
+303971	Impulsion noire
+299702	Passage sombre
+296018	Effroi irrépressible
+295814	Division psychotique
+
+; Boss: Orgozoa
+298156	Piqûre insensibilisante
+298103	Ichor suintant
+298242	Fluide d’incubation
+305048	Arc conducteur
+298465	Projection amniotique
+298548	Incubateur immense
+295779y	Lance d’eau
+295822	Impulsion conductrice
+296691	Choc puissant
+
+; Boss: Abyssal Commander Sivara
+294726	Marques chimériques
+295332	Réverbération écrasante
+-20300y	Pointe givre-venin
+296551	Barrage accablant
+-20006y	Débordement
+295601y	Traits gelés et empoisonnés
+295791y	Inversion
+
+; Boss Radiance of Azshara
+296546	Poing des flots
+296428	Explosion arcanique
+296459	Piège de vent
+296737y	Bombe des Arcanes
+296894	Déchaînement de puissance
+295916	Tempête ancienne
+296701	Fureur des vents
+
+; Boss: Lady Ashvane
+296569	Excroissance de corail
+296662	Vague ondulante
+297397y	Bulle saumâtre
+298056	Giclée
+296725	Frappe des balanes
+-20096	Arc d’azérite
+
+; Boss: The Queen's Court
+300088	Mesures désespérées
+296716	Séparation des pouvoirs
+298050	En formation
+301244	Répétition de la performance
+297656	Isolez-vous
+297566	Peine ajournée
+297585	Obéissez ou souffrez
+
+; Boss: Silivaz the Zealous
+299914y	Charge frénétique
+300545	Rupture puissante
+301807	Éruption zélée
+
+; Boss: Pashmar the Fanatical
+301830	Toucher de Pashmar
+296851y	Verdict radical
+297325	Onde violente
+301947	Étincelle puissante
+
+; Boss: Queen Azshara
+300074	Surpression
+298569	Âme drainée
+297937	Souvenirs douloureux
+297934	Désir éperdu
+297912	Tourment
+297907	Cœur maudit
+298121	Orbes de foudre
+297972	Chaîne d’éclairs
+298014	Trait algide
+298021	Éclat de glace
+298756	Tranchant dentelé
+301078y	Lance chargée
+-20480	Séide colossal
+298531	Sol martelé
+300428	Furieux
+298787	Orbes arcaniques
+299094	Appel
+299250	Décret de la reine
+302999	Vulnérabilité aux Arcanes
+304475	Convulsion des Arcanes
+300519	Détonation arcanique
+297371	Revers de fortune
+303657y	Jaillissement des Arcanes
+300492y	Horion statique
+300620	Bouclier cristallin
+297372	Revers de fortune supérieur
+300743	Touché par le Vide
+303980	Portail de Néant
+300807	Surcharge
