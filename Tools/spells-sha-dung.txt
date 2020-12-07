@@ -1,0 +1,282 @@
+; Type: Shadowlands Dungeon
+
+; -------------------------------------
+;    Zone: De Other Side
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Hakkar the Soulflayer
+322746	Sang vicié
+322759	Barrière de sang
+
+; Boss: The Manastorms
+320787	Invocation de cristal de puissance
+323877	Laser digital X-trême Echo
+320823	Bombe-écureuil expérimentale
+321061	Barrage aérien de poulet-fusée
+
+; Boss: Dealer Xy'exa
+321948	Dispositif explosif localisé
+320230	Dispositif explosif
+323687	Foudre arcanique
+
+; Boss: Mueh'zala
+325725	Artifice cosmique
+325258	Maître de la mort
+326171	Destruction de la réalité
+334970	Coalescence
+
+
+; -------------------------------------
+;    Zone: Halls of Atonement
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Halkias, the Sin-Stained Goliath
+323001	Éclats de verre
+322936	Heurt destructeur
+322943	Projection de débris
+322711	Lumière viciée réfractée
+322977	Visions de lumière viciée
+
+; Boss: Echelon
+319733	Appel des pierres
+328206	Malédiction de pierre
+319941	Bond fracasse-pierre
+326389	Torrent de sang
+
+; Boss: High Adjudicator Aleez
+323538	Trait de pouvoir
+323552	Salve de puissance
+323650	Fixation obsessive
+329340	Fontaine d’anima
+
+; Boss: Lord Chamberlain
+329104	Porte des ombres
+328791	Rituel de malheur
+323150	Lancer télékinétique
+323236	Souffrance déchaînée
+323437	Stigmate d’orgueil
+
+
+; -------------------------------------
+;    Zone: Mists of Tirna Scithe
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Ingra Maloch
+323057	Éclair spirituel
+328756	Visage repoussant
+323149	Étreinte ténébreuse
+323137	Pollen stupéfiant
+323177	Larmes de la forêt
+323059	Courroux de la dromane
+
+; Boss: Mistcaller
+336499	Devinettes
+321834	Balle aux prisonniers
+321828	Trois petits chats
+326180	Loup glacé
+
+; Boss: Tred'ova
+322450	Consommation
+322550	Incubation accélérée
+322614	Lien de l’esprit
+322563	Proie marquée
+322651	Expulsion d’acide
+parasitic	Parasitic
+
+
+; -------------------------------------
+;    Zone: Plaguefall
+; -------------------------------------
+
+; Boss: Trash
+323572	Peste roulante
+327515	Dard des tourbières
+329239	Bestioles grouillantes
+330403	Frappe des ailes
+327882	Chancrebec
+327233	Vomissement de peste
+320512	Griffes corrodées
+318949	Renvoi putride
+320517	Pointes déchirantes
+328180	Infection enveloppante
+321935	Crasse flétrissante
+336451	Rempart de Maldraxxus
+328395	Perce-venin
+328475	Entoilage enveloppant
+330786	Carcasse suintante
+330816	Foulée spectrale
+328016	Croissance miraculeuse
+327995	Champignon funeste
+328177	Tempête fongique
+
+; Boss: Globgrog
+324490	Appel de gelée
+324527	Piétinement pestiféré
+324667	Vague de gelée
+
+; Boss: Doctor Ickus
+322358	Souche brûlante
+67382	Bondir
+329217	Impulsion visqueuse
+329110	Injection de gelée
+332617	Afflux pestilentiel
+321406	Explosion virulente
+
+; Boss: Domina Vendomblade
+332313	Assassins de la couvée
+325552	Entaille cytotoxique
+325245	Embuscade de l’ombre
+336258	Proie solitaire
+
+; Boss: Margrave Stradama
+322232	Pluie contagieuse
+322304	Croissance malveillante
+322475	Éruption de peste
+
+
+; -------------------------------------
+;    Zone: Sanguine Depths
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kryxis the Voracious
+319650	Coup de tête vicieux
+319654	Drain dévorant
+319713	Ruée de mastodonte
+319685	Coup sectionnant
+
+; Boss: Executor Tarvold
+322554	Châtier
+322573	Coalescence d’une manifestation
+328494	Anima touché par le vice
+323551	Résidu
+
+; Boss: Grand Proctor Beryllia
+325254	Pointes en fer
+325360	Rite de suprématie
+328737	Fragment de radiance
+326039	Tourment sans fin
+
+; Boss: General Kaal
+323845	Ruée funeste
+323821	Flou perçant
+322903	Rafale lugubre
+324086	Radiance éclatante
+
+
+; -------------------------------------
+;    Zone: Spires of Ascension
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kin-Tara
+320966	Entaille écrasante
+327481	Lance noire
+321009	Lance chargée
+324368	Barrage atténué
+
+; Boss: Ventunax
+324146	Foulée sombre
+324205	Éclair aveuglant
+334485	Recharge
+
+; Boss: Oryphrion
+323878	Drainé
+324046	Recharger l’anima
+324427	Munition empyréenne
+334053	Déflagration purificatrice
+324608	Piétinement chargé
+
+; Boss: Devos, Paragon of Doubt
+334625	Détonation abyssale
+322818	Perte de confiance
+323943	Percée
+
+; -------------------------------------
+;    Zone: The Necrotic Wake
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Blightbone
+320596	Relent écœurant
+320630	Gavage de sang
+320637	Gaz fétide
+320655	Crac
+
+; Boss: Amarth, The Harvester
+321226	Royaume des morts
+321247	Ultime moisson
+333488	Souffle nécrotique
+320012	Frénésie impie
+320171	Trait nécrotique
+
+; Boss: Surgeon Stichflesh
+320358	Réveil de création
+322681	Crochet à viande
+320376	Mutilation
+334476	Ichor d’embaumement
+320200	Aiguille de suture
+334488	Tranche chair
+320359	Fuite
+
+; Boss: Nalthor the Rimebinder
+320772	Tempête de comètes
+321368	Égide glaciale
+320788	Étau du froid
+321894	Sombre exil
+
+
+; -------------------------------------
+;    Zone: Theater of Pain
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: An Affront of Challengers
+320063	Heurtoir
+320069	Frappe mortelle
+326892	Fixer
+324085	Enrager
+320248	Transformation génétique
+333231	Mort incendiaire
+320293	Harmonie avec la mort
+320272	Transfert spectral
+333540	Frappes d’opportunité
+
+; Boss: Gorechop
+323515	Frappe haineuse
+322795	Crochets à viande
+318406	Choc attendrisseur
+
+; Boss: Xav the Unfallen
+320644	Combo violent
+320102	Sang et gloire
+331618	Bannière oppressante
+320050	Puissance de Maldraxxus
+320729	Gigantesque fendoir
+317231	Heurt écrasant
+339415	Choc assourdissant
+
+; Boss: Kul'tharok
+319521	Attirer l’âme
+319637	Âme réappropriée
+319626	Parasite fantasmatique
+319669	Portée spectrale
+
+; Boss: Mordretha, the Endless Empress
+324079	Faux ravageuse
+323608	Sombre dévastation
+323683	Faille aspirante
+324449	Manifestation de la mort
+339573	Échos du carnage
+339706	Charge fantôme
+339550	Écho de bataille
