@@ -15,6 +15,7 @@
 343005	Balayage aveugle
 328857	Morsure d’exsanguination
 328897	Exsanguiné
+345936	Cri assourdissant
 328921	Voile de sang
 329362	Sonar résonnant
 341684	Lanterne de sang
@@ -93,9 +94,14 @@
 ; Boss: The Council of Blood
 346690	Riposte du duelliste
 346698	Invocation d’un domestique dévoué
+330978	Serviteurs purotins
+330965	Arroi du castellan
+346790	Lame touchée par le vice
 346651	Drain d’essence
 337110	Volée de traits d’effroi
 346657	Éruption d’orgueil
+346945	Souffrance manifeste
+346681	Pointes à âmes
 327497	Fente d’évitement
 331634	Sombre récital
 346800	Valse de sang
@@ -106,7 +112,6 @@
 ; Boss: Sludgefist
 331209	Regard haineux
 331314	Impact destructeur
-341102	Rocher fracturé
 335293	Lien de chaîne
 332318	Piétinement destructeur
 335361	Tremblement de pierre
@@ -149,6 +154,7 @@
 328276	Marche du pénitent
 329906	Carnage
 329951	Empaler
+-22131	Cabaliste cramoisi
 335873	Rancune
 329181	Douleur insupportable
 333932	Main de la destruction
@@ -157,6 +163,5 @@
 332619	Souffrance destructrice
 332794	Finesse fatale
 336008	Courroux fumant
-333979	Reflet sinistre
-332937	Ravage
-333111	Massacre
+332849	Reflet : Ravage
+333980	Reflet : Massacre

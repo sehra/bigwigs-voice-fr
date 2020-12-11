@@ -22,6 +22,7 @@
 323687	Foudre arcanique
 
 ; Boss: Mueh'zala
+327646	Écraseur d’âme
 325725	Artifice cosmique
 325258	Maître de la mort
 326171	Destruction de la réalité
