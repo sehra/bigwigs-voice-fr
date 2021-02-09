@@ -5,11 +5,27 @@
 ; -------------------------------------
 
 ; Boss: Trash
+343322	Malédiction de Moldovaak
+343320	Malédiction de Caramain
+343325	Malédiction de Sindrel
+343316	Malédiction d’Hargitas
+343155	Peau de pierre
+343302	Ailes de granit
+329989	Enrager
+341441	Onde de choc
+341352	Piège magnifique du garde-chasse
+341735	Pierre de restauration
+340630	Nécrose
+329298	Miasme glouton
+339553	Anima rémanent
+339557	Anima en bouteille
+339528	Désirs déformés
+339525	Concentration d’anima
 
 ; Boss: Shriekwing
 330711	Cri assourdissant
 340324	Ichor sanguin
-342074	Écholocalisation
+342074y	Écholocalisation
 342863	Hurlement résonnant
 345397	Vague sanglante
 343005	Balayage aveugle
@@ -30,7 +46,7 @@
 334884	Assimilation d’âme
 334757	Ombres de Bargast
 334860	Pierre écrasante
-334852	Hurlement pétrifiant
+334852y	Hurlement pétrifiant
 334893	Éclats de pierre
 
 ; Boss: Sun King's Salvation
@@ -39,13 +55,13 @@
 325877	Éclair de braise
 329518	Geyser incendiaire
 328579	Vestiges fumants
-328479	Rivé sur la cible
+328479y	Rivé sur la cible
 -21954	Vainqueur pierre-lié
 325440	Frappe de victoire
 325442	Vaincu
 325506	Choc commotionnant
 -21993	Assassin aile-morne
-326583	Rafale cramoisie
+326583y	Rafale cramoisie
 333145	Retour à la pierre
 -21952	Occultiste infâme
 333002	Marque grossière
@@ -55,15 +71,16 @@
 339251	Âme drainée
 328889	Fustigation supérieure
 337859	Cape des flammes
+343026	Cape des flammes
 
 ; Boss: Artificer Xy'mox
-328437	Déchirure dimensionnelle
+328437y	Déchirure dimensionnelle
 325236	Glyphe de destruction
 326271	Piège de stase
 335013	Faille explosive
 325399	Étincelle hyperluminique
 340758	Esprits fugaces
-327902	Fixer
+327902y	Fixer
 327414	Possession
 340788	Graines d’extinction
 329107	Extinction
@@ -71,10 +88,10 @@
 328789	Annihilation
 
 ; Boss: Hungering Destroyer
-329298	Miasme glouton
+329298y	Miasme glouton
 334522	Consommer
 329725	Éliminer
-334266	Expulsion instable
+334266y	Expulsion instable
 329455	Désolation
 329774	Accabler
 332295	Faim grandissante
@@ -83,11 +100,12 @@
 331870	Focalisation d’anima
 341621	Dévoiler les désirs
 325382	Désirs déformés
+340452y	Volte-face
 325936	Cognition partagée
 325769	Anima en bouteille
 325713	Anima rémanent
-324983	Souffrance partagée
-332664	Anima concentré
+324983y	Souffrance partagée
+332664y	Anima concentré
 331573	Culpabilité inconcevable
 331550	Blâme
 
@@ -103,31 +121,38 @@
 346945	Souffrance manifeste
 346681	Pointes à âmes
 327497	Fente d’évitement
-331634	Sombre récital
+331634y	Sombre récital
 346800	Valse de sang
+346303	Violent tumulte
 330959	Danse macabre
 330848	Faux pas
-347350	Fièvre dansante
+-22433	Image rémanente de la baronne Frieda
+347350y	Fièvre dansante
 
 ; Boss: Sludgefist
 331209	Regard haineux
 331314	Impact destructeur
-335293	Lien de chaîne
+335293y	Lien de chaîne
 332318	Piétinement destructeur
+341193	Chute de débris
 335361	Tremblement de pierre
 332687	Rugissement colossal
 335470	Heurt à la chaîne
+341102	Rocher fracturé
 340817	Transfert sismique
 341250	Rage atroce
 
 ; Boss: Stone Legion Generals
 329636	Forme de pierre durcie
-333387	Lame pernicieuse
+333387y	Lame pernicieuse
+333913	Lacération pernicieuse
 334765	Lacération du cœur
 334929	Balayage dentelé
 339690	Cristallisation
 342544	Météore destructeur
 343063	Pointe de pierre
+342733	Festin féroce
+342985	Effigie pierrevent
 332406	Infusion d’anima
 339885	Infection d’anima
 342722	Émanation de fureur rocheuse
@@ -140,21 +165,22 @@
 342655	Imprégnation d’anima volatil
 340037	Carcan de pierre instable
 342698	Infection d’anima volatil
-342733	Festin féroce
-342985	Effigie pierrevent
 
 ; Boss: Sire Denathrius
 328936	Inévitable
 326699	Fardeau du péché
 326707	Souffrance purificatrice
 326851	Prix du sang
+327039y	Festin
 327796	Chasseur nocturne
+327227	Ordre : Ravage
 327122	Ravage
 327992	Désolation
 328276	Marche du pénitent
 329906	Carnage
 329951	Empaler
 -22131	Cabaliste cramoisi
+336162	Crescendo
 335873	Rancune
 329181	Douleur insupportable
 333932	Main de la destruction
@@ -165,3 +191,6 @@
 336008	Courroux fumant
 332849	Reflet : Ravage
 333980	Reflet : Massacre
+344776	Gémissement vengeur
+338738	À travers le miroir
+333979	Reflet sinistre
