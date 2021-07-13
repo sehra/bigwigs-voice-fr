@@ -16,7 +16,6 @@
 341352	Piège magnifique du garde-chasse
 341735	Pierre de restauration
 340630	Nécrose
-329298	Miasme glouton
 339553	Anima rémanent
 339557	Anima en bouteille
 339528	Désirs déformés
@@ -61,7 +60,7 @@
 325442	Vaincu
 325506	Choc commotionnant
 -21993	Assassin aile-morne
-326583y	Rafale cramoisie
+326583	Rafale cramoisie
 333145	Retour à la pierre
 -21952	Occultiste infâme
 333002	Marque grossière
@@ -88,7 +87,7 @@
 328789	Annihilation
 
 ; Boss: Hungering Destroyer
-329298y	Miasme glouton
+329298	Miasme glouton
 334522	Consommer
 329725	Éliminer
 334266y	Expulsion instable
@@ -106,7 +105,7 @@
 325713	Anima rémanent
 324983y	Souffrance partagée
 332664y	Anima concentré
-331573	Culpabilité inconcevable
+331573y	Culpabilité inconcevable
 331550	Blâme
 
 ; Boss: The Council of Blood
@@ -115,7 +114,7 @@
 330978	Serviteurs purotins
 330965	Arroi du castellan
 346790	Lame touchée par le vice
-346651	Drain d’essence
+346651y	Drain d’essence
 337110	Volée de traits d’effroi
 346657	Éruption d’orgueil
 346945	Souffrance manifeste
@@ -125,12 +124,12 @@
 346800	Valse de sang
 346303	Violent tumulte
 330959	Danse macabre
-330848	Faux pas
+330848y	Faux pas
 -22433	Image rémanente de la baronne Frieda
 347350y	Fièvre dansante
 
 ; Boss: Sludgefist
-331209	Regard haineux
+331209y	Regard haineux
 331314	Impact destructeur
 335293y	Lien de chaîne
 332318	Piétinement destructeur
@@ -144,11 +143,11 @@
 
 ; Boss: Stone Legion Generals
 329636	Forme de pierre durcie
-333387y	Lame pernicieuse
+333387	Lame pernicieuse
 333913	Lacération pernicieuse
 334765	Lacération du cœur
 334929	Balayage dentelé
-339690	Cristallisation
+339690y	Cristallisation
 342544	Météore destructeur
 343063	Pointe de pierre
 342733	Festin féroce
@@ -159,7 +158,7 @@
 332683	Explosion destructrice
 329808	Forme de pierre durcie
 342425	Poing en pierre
-334009	Bond retentissant
+344496y	Éruption réverbérante
 334498	Soulèvement sismique
 342256	Appel des troupes de l’ombre
 342655	Imprégnation d’anima volatil
@@ -172,13 +171,13 @@
 326707	Souffrance purificatrice
 326851	Prix du sang
 327039y	Festin
-327796	Chasseur nocturne
+327796y	Chasseur nocturne
 327227	Ordre : Ravage
 327122	Ravage
 327992	Désolation
 328276	Marche du pénitent
 329906	Carnage
-329951	Empaler
+329951y	Empaler
 -22131	Cabaliste cramoisi
 336162	Crescendo
 335873	Rancune
@@ -194,3 +193,180 @@
 344776	Gémissement vengeur
 338738	À travers le miroir
 333979	Reflet sinistre
+
+
+; -------------------------------------
+;    Zone: Sanctum of Domination
+; -------------------------------------
+
+; Boss: The Tarragrue
+346985	Fulgurance
+346986	Armure écrasée
+347269y	Chaînes d’éternité
+347274	Choc annihilant
+347283y	Hurlement prédateur
+347286	Effroi lancinant
+347679	Brume affamée
+352368	Vestiges de tourments oubliés
+352382	Vestige : Puissance des étages supérieurs
+352389	Vestige : Échos de Mort’regar
+352398	Vestige : Chaleur de la forge des Âmes
+347668	Emprise de la mort
+347490	Fureur des âges
+347369	Regard du Geôlier
+
+; Boss: The Eye of the Jailer
+350828	Lien mortel
+349979	Chaînes de halage
+348074	Lance d’assaut
+349028	Regard de mort titanesque
+350847y	Rayon de désolation
+350022y	Fracture d’âme
+351825	Souffrance partagée
+350713	Corruption paresseuse
+351827y	Malheur contagieux
+348974	Extermination immédiate
+351413	Regard annihilant
+350604y	Léthargie désespérée
+355232	Dédain et ire
+
+; Boss: The Nine
+350542	Fragments du destin
+350555	Éclat du destin
+350202	Frappe sans fin
+350342	Masse informe
+350339	Siphonner la vitalité
+350365	Ailes de rage
+350286	Chant de dissolution
+350385	Refrain résonnant
+350467	Appel des Val’kyrs
+350031	Lame éternelle d’Agatha
+350184y	Impact majeur de Daschla
+350158	Égide brillante d’Annhylde
+350098	Frappe descendante d’Aradne
+350109y	Chant éploré de Brynja
+350039	Regard écrasant d’Arthura
+350475	Perce-âme
+351399	Ressentiment
+350482	Lien d’essence
+350687	Mot de rappel
+
+; Boss: Soulrender Dormazain
+350217	Tourment
+349985	Éruptions tourmentées
+350647y	Marque du tourment
+350422	Ruinelame
+350615	Invocation d’antrelige
+351779	Nova d’agonie
+350650	Résistance
+350411	Hurlenfer
+354231	Entraves d’âme
+351229	Âme disloquée
+
+; Boss: Remnant of Ner'zhul
+350676	Orbe de tourment
+350073	Tourment
+350388	Procession endeuillée
+350469y	Malveillance
+350489	Malveillance persistante
+349890	Souffrance
+355123	Emprise de la malveillance
+351066	Démanteler
+
+; Boss: Painsmith Raznal
+348508	Marteau réverbérant
+355568	Hache crucifix
+355778	Faux à double lame
+355786	Armure noircie
+352052	Balles cloutées
+348456	Piège serre-flamme
+355505y	Chaînes en ombre-acier
+355534	Braises d’ombre-acier
+
+; Boss: Guardian of the First Ones
+352385	Lien énergisant
+350455	Énergie instable
+352394	Énergie rayonnante
+352589	Fusion
+352538	Protocole de purge
+350735	Motif d’élimination
+355352	Oblitération
+350732	Fracassement
+352833	Désintégration
+352660	Création de sentinelle
+347359	Champ de suppression
+350496y	Neutralisation de la menace
+
+; Boss: Fatescribe Roh-Kalo
+351680y	Invocation du destin
+353432	Fardeau du destin
+353398	Déflagration anormale
+353603	Sonde du devin
+353931	Destin déformé
+350421	Conjonction fatidique
+350568y	Appel d’éternité
+357739	Réalignement du destin
+357144	Désespoir
+353122	Sombre destin
+353195	Destin improvisé
+354367	Sombre présage
+354964	Affinité runique
+
+; Boss: Kel'Thuzad
+354198	Blizzard hurlant
+352530	Sombre conjuration
+355389	Hantise implacable
+348071	Fracture d’âme
+348978	Épuisement d’âme
+348428	Geignement perçant
+346459	Colère glaciaire
+346530y	Destruction gelée
+347292y	Écho de l’oubli
+348760y	Trait de givre
+354289	Miasme sinistre
+352051	Afflux nécrotique
+352293	Destruction vengeresse
+355137	Bassin d’ombre
+352379	Déflagration givrante
+355055	Vents glaciaires
+355127	Vents infects
+352355	Courroux éternel
+352141	Hurlement de la banshee
+354639	Congélation
+352348	Assaut des damnés
+
+; Boss: Sylvanas Windrunner
+347504	Coursevent
+347807	Flèche barbelée
+356377	Tir profanateur
+347670	Dague de l’ombre
+349458y	Chaînes de domination
+347704	Voile des ténèbres
+347609y	Flèche gémissante
+352650	Tracœur de forestier
+347607	Marque de la banshee
+353417	Dislocation
+348109	Complainte de la banshee
+350857	Voile de la banshee
+355540	Ruine
+352271	Vague de hantise
+351180	Blessure lacérante
+351117	Effroi écrasant
+351353	Invocation d’orbes décrépits
+351939	Malédiction de léthargie
+351672	Fureur
+353929	Fléau de la banshee
+354011	Flèches du fléau
+353965	Tracœur de la banshee
+354068	Furie de la banshee
+353952	Cri de la banshee
+354147	Destruction massive
+358704y	Flèche noire
+358711	Rage
+356021	Sombre communion
+351591	Crasse
+351562	Expulsion
+358185	Armes de la banshee
+358181	Lames de la banshee
+358434	Poignards mortels
+358588	Sans pitié

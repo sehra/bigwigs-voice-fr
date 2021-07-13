@@ -63,6 +63,7 @@
 326409	Rosser
 326607	Pétrification
 326997	Puissant balayage
+326891	Angoisse
 
 ; Boss: Halkias, the Sin-Stained Goliath
 323001	Éclats de verre
@@ -122,25 +123,27 @@
 322486	Lacis
 
 ; Boss: Ingra Maloch
-323057	Éclair spirituel
-328756	Visage repoussant
-323149	Étreinte ténébreuse
 323137	Pollen stupéfiant
 323177	Larmes de la forêt
 323059	Courroux de la dromane
+323057	Éclair spirituel
+328756	Visage repoussant
+323149	Étreinte ténébreuse
 
 ; Boss: Mistcaller
 336499	Devinettes
 321834	Balle aux prisonniers
 321828	Trois petits chats
 326180	Loup glacé
+321891y	Fixation de loup glacé
 
 ; Boss: Tred'ova
+322651	Expulsion d’acide
 322450	Consommation
 322550	Incubation accélérée
+322563y	Proie marquée
+326309	Acide de décomposition
 322614	Lien de l’esprit
-322563	Proie marquée
-322651	Expulsion d’acide
 337235	Pacification parasitaire
 337249	Incapacité parasitaire
 337255	Domination parasitaire
@@ -165,6 +168,7 @@
 321935	Crasse flétrissante
 336451	Rempart de Maldraxxus
 328475	Entoilage enveloppant
+summon_stealthlings	Stealthlings
 330786	Carcasse suintante
 330816	Foulée spectrale
 328016	Croissance miraculeuse
@@ -201,6 +205,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+341321	Invocation du traqueur du collecteur d’anima
+328170	Crevasse rocheuse
+322429	Taillade tranchante
+322433	Peau de pierre
+335305	Entraves barbelées
+335308	Attaque écrasante
+334558	Piège volatil
+324103	Rafale lugubre
+326827	Entraves d’effroi
+334329	Entaille circulaire
+334326	Attaque assommante
+321178	Heurtoir
+334918	Impact ombreux
+320991	Élan retentissant
+334377	Vélin explosif
+326836	Malédiction de suppression
 
 ; Boss: Kryxis the Voracious
 319650	Coup de tête vicieux
@@ -232,6 +252,18 @@
 ; -------------------------------------
 
 ; Boss: Trash
+317661	Venin insidieux
+317963	Fardeau de connaissance
+327655	Imprégnation d’arme
+327413	Poing rebelle
+327648	Lutte interne
+317936	Doctrine désavouée
+327332	Imprégnation d’arme
+317985	Frappe déferlante
+328295	Guérison supérieure
+328288	Bénédiction d’arme
+328458	Diminuendo
+328462	Lance chargée
 
 ; Boss: Kin-Tara
 320966	Entaille écrasante
@@ -275,7 +307,7 @@
 324387	Pointes glaciales
 324372	Vents ravageurs
 338353	Projection d’entrailles
-338456	Mutilation
+338456	Estropier
 338357	Attendrir
 327130	Réparation de la chair
 323496	Lancer de fendoir
@@ -297,7 +329,7 @@
 ; Boss: Surgeon Stichflesh
 320358	Réveil de création
 322681	Crochet à viande
-320376	Mutilation
+320376	Estropier
 334476	Ichor d’embaumement
 320200y	Aiguille de suture
 334488	Tranche chair
@@ -361,3 +393,67 @@
 339573	Échos du carnage
 339706	Charge fantôme
 339550	Écho de bataille
+
+
+; -------------------------------------
+;	Zone: Tazavesh the Veiled Market
+; -------------------------------------
+
+; Boss: Zo'phex the Sentinel
+347949	Interrogatoire
+345990	Cellule de confinement
+345770	Confisquer la contrebande
+346204	Sécurité armée
+
+; Boss: Myza's Oasis
+350922	Cri d’intimidation
+350919	Contrôle des foules
+355438	Étincelle exterminatrice
+350916	Heurtoir de sécurité
+356482	Nourriture pourrie
+
+; Boss: Mailroom Mayhem
+346286	Liquides dangereux
+346742	Courrier de fan
+346962	Mandat postal
+346947	Marchandise instable
+
+; Boss: The Grand Menagerie
+349627	Gloutonnerie
+350010y	Anima dévoré
+349663	Emprise de la faim
+349797	Festin final
+349954	Protocole de purification
+349934	Protocole de flagellation
+349987	Protocole de vidange
+350101	Chaînes de damnation
+350086	Annihilation tourbillonnante
+
+; Boss: So'azmi
+357188	Technique double
+347610	Shuri
+347249	Division
+347623	Prestelame
+
+; Boss: Hylbrande
+;346971	[DNT] Summon Vault Defender
+346116	Frappes tranchantes
+347094	Fracas titanesque
+346957	Purification par le feu
+346766	Cycle d’assainissement
+
+; Boss: Timecap'n Hooktail
+347149	Souffle infini
+347151	Coup de crochet
+354334	Embroché !
+352345y	Tir d’ancre
+347371	Tir de mitraille
+350517	Chronodoublement
+
+; Boss: So'leah
+351124	Invocation d’assassins
+353635	Effondrement d’étoile
+350804	Énergie d’effondrement
+350796	Étincelle hyperluminique
+351086	Puissance accablante
+351096	Fragmentation énergétique
