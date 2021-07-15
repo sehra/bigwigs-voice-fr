@@ -221,7 +221,7 @@
 348074	Lance d’assaut
 349028	Regard de mort titanesque
 350847y	Rayon de désolation
-350022y	Fracture d’âme
+350022	Fracture d’âme
 351825	Souffrance partagée
 350713	Corruption paresseuse
 351827y	Malheur contagieux
@@ -247,7 +247,7 @@
 350109y	Chant éploré de Brynja
 350039	Regard écrasant d’Arthura
 350475	Perce-âme
-351399	Ressentiment
+355294	Ressentiment
 350482	Lien d’essence
 350687	Mot de rappel
 
@@ -257,6 +257,7 @@
 350647y	Marque du tourment
 350422	Ruinelame
 350615	Invocation d’antrelige
+-23517	Suzerain antrelige
 351779	Nova d’agonie
 350650	Résistance
 350411	Hurlenfer
