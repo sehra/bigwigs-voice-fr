@@ -286,6 +286,7 @@
 
 ; Boss: Guardian of the First Ones
 352385	Lien énergisant
+356093	Absorption d’énergie
 350455	Énergie instable
 352394	Énergie rayonnante
 352589	Fusion
@@ -293,6 +294,7 @@
 350735	Motif d’élimination
 355352	Oblitération
 350732	Fracassement
+358301	Perte d’énergie
 352833	Désintégration
 352660	Création de sentinelle
 347359	Champ de suppression
@@ -371,3 +373,110 @@
 358181	Lames de la banshee
 358434	Poignards mortels
 358588	Sans pitié
+
+
+; -------------------------------------
+;    Zone: Sepulcher of the First Ones
+; -------------------------------------
+
+; Boss: Vigilant Guardian
+360403	Champ de force
+360458	Noyau instable
+360658	Sentinelle préfabriquée
+361001	Vague de désintégration
+364447	Dissonance
+365315	Matérium instable
+360906	Rafale réfractée
+359610	Dérésolution
+360412	Noyau exposé
+364881	Désintégration de la matière
+360162	Résolution fragmentée
+360414	Impact pneumatique
+364962	Surcharge de noyau
+
+; Boss: Skolex, the Insatiable Ravener
+359770	Fouissage vorace
+359829	Fléau de poussière
+360451	Vomissure
+359979	Pourfendre
+359975	Mâche-faille
+364778	Détruire
+
+; Boss: Artificer Xy'mox
+364465	Anneaux de Précurseur
+364040	Ascension hyperluminique
+364030	Rayon affaiblissant
+362721	Déchirure dimensionnelle
+362803	Glyphe de transfert
+362849	Nova éclair hyperluminique
+362885	Piège de stase
+363485	Élite du cartel
+365681	Déflagration violente
+365701	Ordres du surveillant
+
+; Boss: Dausegne, the Fallen Oracle
+361966	Frappes imprégnées
+361018	Barrage ahurissant
+359483	Noyau de domination
+361225	Domination conquérante
+361513	Arc d’oblitération
+363200	Halo de désintégration
+361630	Téléportation
+361651	Barrière siphonnée
+365418	Domination absolue
+
+; Boss: Prototype Pantheon
+360295	Rituel nécrotique
+360687	Toucher de la mort du runomancien
+360259	Éclair de mélancolie
+364941	Rafale d’ailes
+361067	Protection du Bastion
+365269	Frappes d’humilité
+361304	Ruée sauvage
+361568	Graines desséchées
+366234	Tempête d’anima
+361789	Main de la destruction
+364839	Projection impie
+361689	Douleur insupportable
+361608	Fardeau du péché
+361745	Chasseur nocturne
+
+; Boss: Lihuvim, Principal Architech
+368027	Résonance
+364652	Cascade protoformelle
+363088	Transfert cosmique
+362622	Granule instable
+363795	Énergie déconstructrice
+363130	Synthétiser
+360869	Réquisitionné
+366012	Ultime granule
+
+; Boss: Halondrus the Reclaimer
+360115	Réappropriation
+367079	Secousses sismiques
+361676	Projectiles brise-terre
+369207	Rayon brise-planète
+360977	Rayon de lumière désintégrante
+365297	Prisme écrasant
+364979	Désintégration
+368529	Surmultiplicateur de l’éternité
+
+; Boss: Anduin Wrynn
+362405	Faim de Deuilleroi
+361989	Blasphème
+365295	Barrière souillée
+365021	Étoile malfaisante
+361815	Brisespoir
+366849	Mot de domination : Douleur
+364248	Sombre zèle
+362771	Faucheur d’âme
+362862	Armée des morts
+363024	Explosion nécrotique
+365120	Sombres reflets
+363233	Marche des damnés
+365872	Signal d’espoir
+365958	Abattement
+
+; Boss: Lords of Dread
+; Boss: Rygelon
+; Boss: The Jailer
