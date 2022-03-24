@@ -20,6 +20,11 @@
 339557	Anima en bouteille
 339528	Désirs déformés
 339525	Concentration d’anima
+342770	Graines d’éradication
+339975	Frappe effroyable
+342752	Fardeau larmoyant
+341146	Salve de trait de vice
+343271	Festin féroce
 
 ; Boss: Shriekwing
 330711	Cri assourdissant
@@ -37,7 +42,7 @@
 341489	Lumière sanglante
 
 ; Boss: Huntsman Altimor
-335114	Cherche-vice
+335114y	Cherche-vice
 334404	Tir à dispersion
 334971	Griffes dentelées
 334945	Fente vicieuse
@@ -45,7 +50,7 @@
 334884	Assimilation d’âme
 334757	Ombres de Bargast
 334860	Pierre écrasante
-334852y	Hurlement pétrifiant
+334852	Hurlement pétrifiant
 334893	Éclats de pierre
 
 ; Boss: Sun King's Salvation
@@ -60,7 +65,7 @@
 325442	Vaincu
 325506	Choc commotionnant
 -21993	Assassin aile-morne
-326583	Rafale cramoisie
+341473	Rafale cramoisie
 333145	Retour à la pierre
 -21952	Occultiste infâme
 333002	Marque grossière
@@ -104,7 +109,7 @@
 325769	Anima en bouteille
 325713	Anima rémanent
 324983y	Souffrance partagée
-332664y	Anima concentré
+332664	Anima concentré
 331573y	Culpabilité inconcevable
 331550	Blâme
 
@@ -126,7 +131,7 @@
 330959	Danse macabre
 330848y	Faux pas
 -22433	Image rémanente de la baronne Frieda
-347350y	Fièvre dansante
+347350	Fièvre dansante
 
 ; Boss: Sludgefist
 331209y	Regard haineux
@@ -151,7 +156,7 @@
 342544	Météore destructeur
 343063	Pointe de pierre
 342733	Festin féroce
-342985	Effigie pierrevent
+343898	Effigie âme-souillée
 332406	Infusion d’anima
 339885	Infection d’anima
 342722	Émanation de fureur rocheuse
@@ -221,7 +226,7 @@
 348074	Lance d’assaut
 349028	Regard de mort titanesque
 350847y	Rayon de désolation
-350022	Fracture d’âme
+350022y	Fracture d’âme
 351825	Souffrance partagée
 350713	Corruption paresseuse
 351827y	Malheur contagieux
@@ -283,6 +288,8 @@
 348456	Piège serre-flamme
 355505y	Chaînes en ombre-acier
 355534	Braises d’ombre-acier
+355536	Invocation d’une horreur en ombre-acier
+357735	Dernier cri
 
 ; Boss: Guardian of the First Ones
 352385	Lien énergisant
@@ -323,7 +330,7 @@
 348978	Épuisement d’âme
 348428	Geignement perçant
 346459	Colère glaciaire
-346530y	Destruction gelée
+346530	Destruction gelée
 347292y	Écho de l’oubli
 348760y	Trait de givre
 354289	Miasme sinistre
@@ -400,19 +407,21 @@
 360451	Vomissure
 359979	Pourfendre
 359975	Mâche-faille
+364522	Sang dévorant
 364778	Détruire
+359778	Poussière d’éphémère
+366070	Résidu instable
 
 ; Boss: Artificer Xy'mox
 364465	Anneaux de Précurseur
-364040	Ascension hyperluminique
-364030	Rayon affaiblissant
 362721	Déchirure dimensionnelle
 362803	Glyphe de transfert
-362849	Nova éclair hyperluminique
 362885	Piège de stase
-363485	Élite du cartel
+362849	Nova éclair hyperluminique
 365681	Déflagration violente
-365701	Ordres du surveillant
+364040	Ascension hyperluminique
+364030	Rayon affaiblissant
+363485	Élite du cartel
 
 ; Boss: Dausegne, the Fallen Oracle
 361966	Frappes imprégnées
@@ -446,23 +455,29 @@
 364652	Cascade protoformelle
 363088	Transfert cosmique
 362622	Granule instable
+360159	Granule instable
 363795	Énergie déconstructrice
 363130	Synthétiser
 360869	Réquisitionné
 366012	Ultime granule
+362659	Transfert d’alignement
 
 ; Boss: Halondrus the Reclaimer
+368969	Charge instable
 360115	Réappropriation
 367079	Secousses sismiques
+360114	Fissure éphémère
 361676	Projectiles brise-terre
 369207	Rayon brise-planète
 360977	Rayon de lumière désintégrante
 365297	Prisme écrasant
+368363	Prisme brisé
 364979	Désintégration
 368529	Surmultiplicateur de l’éternité
 
 ; Boss: Anduin Wrynn
 362405	Faim de Deuilleroi
+362055	Âme égarée
 361989	Blasphème
 365295	Barrière souillée
 365021	Étoile malfaisante
@@ -478,5 +493,55 @@
 365958	Abattement
 
 ; Boss: Lords of Dread
+360374	Essaim ravageur
+360319	Dans les ténèbres
+360012	Nuée de charognards
+361913	Manifestation d’ombres
+361934	Forme incomplète
+359960	Griffes sangsues
+359963	Veines ouvertes
+360717	Infiltration d’effroi
+360146	Appréhension effroyable
+360229	Nuage léthargique
+360284	Frappe angoissante
+
 ; Boss: Rygelon
+362806	Sombre éclipse
+362275	Effondrement céleste
+362206	Horizon des évènements
+362390	Cosmos manifeste
+362184	Frappes corrompues
+362172	Blessure corrompue
+363533	Fracas retentissant
+364386	Effondrement gravitationnel
+366606	Plasma radieux
+362207	Singularité
+364114	Fracasse-sphère
+362088	Irrégularité cosmique
+366379	Suaire stellaire
+362798	Radiation cosmique
+368080	Quasar sombre
+
 ; Boss: The Jailer
+362028	Domination implacable
+362075	Domination
+366132	Tyrannie
+359809	Chaînes d’oppression
+363893	Martyre
+366545	Persécution
+365436	Tourment
+360281	Rune de damnation
+360373	Harmonisation impie
+363332	Poigne inébranlable
+359856	Explosion destructrice
+366285	Rune de contrainte
+360562	Décimateur
+365033	Désolation
+365150	Rune de domination
+365212	Chaînes d’angoisse
+365169	Profanation
+362012	Fin de l’éternité
+366377	Broyeur de mondes
+366776	Fendeur de mondes
+367053	Disloqueur de mondes
+365810	Éboulement de débris

@@ -176,7 +176,7 @@ summon_stealthlings	Stealthlings
 328177	Tempête fongique
 
 ; Boss: Globgrog
-324490	Appel de gelée
+324490	Invocation de gelée vivante
 324527	Piétinement pestiféré
 324667	Vague de gelée
 
@@ -398,6 +398,34 @@ summon_stealthlings	Stealthlings
 ; -------------------------------------
 ;	Zone: Tazavesh the Veiled Market
 ; -------------------------------------
+
+; Boss: Trash
+356031	Rayon de stase
+356001	Faisceau segmenteur
+356929	Chaîne de garde à vue
+356942	Clouage
+356404	Souffle de lave
+356407	Terreur ancienne
+357512	Charge frénétique
+356967	Revers hyperluminique
+357029	Bombe hyperluminique
+355980	Bouclier réfracteur
+355934	Barrière de lumière opaque
+347721	Ouverture de la cage
+355637	Frappe de refoulement
+355782	Multiplicateur de force
+355477	Puissant coup de pied
+355480	Force létale
+355132	Bâton-poisson revigorant
+355057	Cri de Mrrggllrrgg
+355429	Martèlement des marées
+355584	Impulsion chargée
+355577	Crépitement
+356133	Super cuvée
+357226	Étoile à la dérive
+357238	Pulsar errant
+357260	Faille instable
+357284	Revigorer
 
 ; Boss: Zo'phex the Sentinel
 347949	Interrogatoire
