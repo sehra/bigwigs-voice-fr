@@ -523,6 +523,7 @@
 368080	Quasar sombre
 
 ; Boss: The Jailer
+362012	Fin de l’éternité
 362028	Domination implacable
 362075	Domination
 366132	Tyrannie
@@ -530,7 +531,7 @@
 363893	Martyre
 366545	Persécution
 365436	Tourment
-360281	Rune de damnation
+360281y	Rune de damnation
 360373	Harmonisation impie
 363332	Poigne inébranlable
 359856	Explosion destructrice
@@ -540,8 +541,9 @@
 365150	Rune de domination
 365212	Chaînes d’angoisse
 365169	Profanation
-362012	Fin de l’éternité
-366377	Broyeur de mondes
-366776	Fendeur de mondes
-367053	Disloqueur de mondes
-365810	Éboulement de débris
+366374	Broyeur de mondes
+366678	Fendeur de mondes
+367051	Disloqueur de mondes
+368383	Bouclier de vie déviée
+360378	Enchaînement de météores
+368591	Peine capitale
