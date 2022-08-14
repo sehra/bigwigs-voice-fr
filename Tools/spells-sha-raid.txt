@@ -547,3 +547,11 @@
 368383	Bouclier de vie déviée
 360378	Enchaînement de météores
 368591	Peine capitale
+
+
+; Zone: Season 4
+; Boss: Affixes
+372634	Essence chaotique
+369505	Étincelle de création
+371447	Barrière protoformelle
+371254	Émetteur de reconfiguration

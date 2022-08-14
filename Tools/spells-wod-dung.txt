@@ -1,0 +1,79 @@
+; Type: Warlords of Draenor Dungeon
+
+; -------------------------------------
+;    Zone: Grimrail Depot
+; -------------------------------------
+
+; Boss: Trash
+163966	Activation
+164192	50 000 volts
+164168	Célérité
+166675	Pétoire à mitraille
+176032	Langue de feu
+156301	Mortier rochenoire
+176127	Barrage au canon
+166335	Bouclier des tempêtes
+166341	Zone de tonnerre
+166380	Entaille téméraire
+166397	Attaque arcanique éclair
+
+; Boss: Railmaster Rocketspark
+162407	Barrage de projectiles X21-01A
+163947	Récupérer
+162171	Meilleure position
+162500	Eliminateur de cible VX18-B
+161091	Nouveau plan !
+161090	Course effrénée
+162617	Heurtoir
+161092	Agressivité débridée
+
+; Boss: Nitrogg Thundertower
+161073	Grenade rochenoire
+160965	Éclats de mortier rochenoire
+160681	Feu répressif
+166570	Déflagration de scories
+
+; Boss: Skylord Tovra
+161801	Souffle tonnant
+162058	Lance tournoyante
+161588	Énergie diffusée
+162066	Ralentissement givrant
+163447	Marque du chasseur
+
+
+; -------------------------------------
+;    Zone: Iron Docks
+; -------------------------------------
+
+; Boss: Trash
+167233	Tempête de lames
+173148	Flèches enflammées
+172636	Graisse glissante
+172982	Frappe brisante
+172952	Lancer l’enfonce-porte
+172963	Enfonce-porte
+172943	Inspiration brutale
+173135	Piétinement tonitruant
+173105	Chaînes tourbillonnantes
+167815	Enchaînement tranchant
+173324	Chausse-trapes dentelées
+173384	Ruée écrasante
+158337	Frénésie
+173514	Déflagration de lave
+173480	Barrage de magma
+
+; Boss: Fleshrender Nok'gar
+164426	Provocation téméraire
+164632	Flèches enflammées
+164837	Lacération sauvage
+164835	Hurlement de carnage
+
+; Boss: Ahri'ok Dugru
+sphere	Sanguine Sphere
+
+; Boss: Oshir
+162415	Heure du repas
+
+; Boss: Skulloc
+168227	Frappe de gronn
+168929	Barrage au canon

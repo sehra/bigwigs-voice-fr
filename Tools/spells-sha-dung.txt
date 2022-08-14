@@ -176,7 +176,7 @@ summon_stealthlings	Stealthlings
 328177	Tempête fongique
 
 ; Boss: Globgrog
-324490	Invocation de gelée vivante
+324490	Appel de gelée
 324527	Piétinement pestiféré
 324667	Vague de gelée
 
@@ -312,6 +312,8 @@ summon_stealthlings	Stealthlings
 327130	Réparation de la chair
 323496	Lancer de fendoir
 338606	Fixation morbide
+333477	Étripailles
+333479	Crachat septique
 
 ; Boss: Blightbone
 320596	Relent écœurant
@@ -401,6 +403,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Trash
 356031	Rayon de stase
+356324	Glyphe d’entrave renforcé
 356001	Faisceau segmenteur
 356929	Chaîne de garde à vue
 356942	Clouage
@@ -413,6 +416,7 @@ summon_stealthlings	Stealthlings
 355934	Barrière de lumière opaque
 347721	Ouverture de la cage
 355637	Frappe de refoulement
+355642	Salve hyperluminique
 355782	Multiplicateur de force
 355477	Puissant coup de pied
 355480	Force létale
@@ -434,11 +438,15 @@ summon_stealthlings	Stealthlings
 346204	Sécurité armée
 
 ; Boss: Myza's Oasis
+356482	Nourriture pourrie
+353783	Téléportation
+353835	Suppression
+350916	Heurtoir de sécurité
+353706	Bagarreur
 350922	Cri d’intimidation
 350919	Contrôle des foules
 355438	Étincelle exterminatrice
-350916	Heurtoir de sécurité
-356482	Nourriture pourrie
+359028	Heurtoir de sécurité
 
 ; Boss: Mailroom Mayhem
 346286	Liquides dangereux
@@ -465,6 +473,7 @@ summon_stealthlings	Stealthlings
 
 ; Boss: Hylbrande
 ;346971	[DNT] Summon Vault Defender
+353312	Explosion purifiante
 346116	Frappes tranchantes
 347094	Fracas titanesque
 346957	Purification par le feu
@@ -485,3 +494,4 @@ summon_stealthlings	Stealthlings
 350796	Étincelle hyperluminique
 351086	Puissance accablante
 351096	Fragmentation énergétique
+351119	Shurikens éclairs
