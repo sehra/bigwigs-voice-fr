@@ -1,0 +1,126 @@
+; Type: Dragonflight Raid
+
+; -------------------------------------
+;	Zone: Vault of the Incarnates
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Eranog
+390715	Faille enflammée
+370649	Flux de lave
+370615	Frappe en fusion
+396023	Hurlement incinérant
+396022	Pointes en fusion
+394906	Blessure brûlante
+370597	Ordre de tuer
+370307	Armée de flammes
+396094	Faille enflammée supérieure
+394917	Flammes bondissantes
+393780	Explosion pyrotechnique
+
+; Boss: Terros
+380487	Éjection rocailleuse
+381315	Terre éveillée
+377166	Résonance annihilatrice
+382458	Répercussions résonnantes
+383073	Impact fracturant
+376279	Commotion violente
+377505	Dévastation frénétique
+388393	Barrage tectonique
+391592	Retombée imprégnée
+
+; Boss: The Primal Council
+391599	Blizzard primordial
+386661	Convocation glaciale
+371624	Marque conductrice
+372275	Chaîne d’éclairs
+386375	Convocation foudroyante
+370991	Pilier terrestre
+372056	Écraser
+386370	Convocation sismique
+374043	Hache météorique
+372027	Entaille de lave
+386289	Convocation brûlante
+
+; Boss: Sennarth, the Cold Breath
+371976	Explosion glaciale
+371979	Expulsion de givre
+372030	Entoilage collant
+372044	Victime entoilée
+372238	Appel de jeunes araignées
+372082	Toiles collantes
+373405	Explosion de toiles d’araignée
+385083	Jet de toile
+-24899	Arachnidé souffle-de-givre
+374112	Souffle givrant
+372539	Sommet de glace
+373048	Toiles suffocantes
+371983	Explosion repoussante
+
+; Boss: Dathea, Ascended
+387849	Tempête coalescente
+395501	Renvoi
+387943	Essence détournée
+385812	Entaille aérienne
+384273	Éclair de tempête
+390450	Adhérence statique
+388302	Bourrasque déchaînée
+391686	Marque conductrice
+376943	Cyclone
+388410	Vents de travers
+375580	Heurt de zéphyr
+376851	Frappe aérienne
+
+; Boss: Kurog Grimtotem
+371981	Afflux élémentaire
+374861	Variation élémentaire
+372158	Frappe fracturante
+382563	Explosion de magma
+373329	Rupture en fusion
+374023	Carnage incendiaire
+373678	Frisson mordant
+391019	Torrent glacé
+372458	Zéro absolu
+391056	Enveloppe terreuse
+395893	Roche mère en éruption
+374691	Rupture sismique
+373487	Coup de foudre
+390920	Explosion électrisante
+374215	Frappe de la foudre
+374321	Gravier morcelant
+374427	Éclatement du sol
+374430	Soulèvement violent
+374623	Liens glaciaux
+374624	Tempête givrante
+391696	Courant mortel
+396241	Communion primordiale
+
+; Boss: Broodkeeper Diurna
+375809	Lien de la garde-couvée
+380175	Grand bâton de la garde-couvée
+375889	Courroux du grand bâton
+375829	Fureur de la Mère-de-la-Nichée
+376073	Incubation rapide
+389049	Graine en incubation
+375871	Flambée
+388716	Voile glacial
+375870	Griffes de pierre mortelles
+378782	Blessures mortelles
+375716	Barrage de glace
+376266	Frappe fouisseuse
+376257	Tremblements
+375485	Flammes éclair cautérisantes
+375575	Sentinelle de flammes
+375475	Morsure tranchante
+375457	Colère glaçante
+375653	Décharge statique
+375630	Charge ionisante
+375879	Fureur de la garde-couvée
+392194	Grand bâton renforcé
+380483	Courroux du grand bâton renforcé
+388918	Voile gelé
+
+; Boss: Raszageth the Storm Eater
+; TODO

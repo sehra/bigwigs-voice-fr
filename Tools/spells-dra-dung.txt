@@ -1,0 +1,343 @@
+; Type: Dragonflight Dungeon
+
+; -------------------------------------
+; Zone: Algeth'ar Academy
+; -------------------------------------
+
+; Boss: Trash
+389516	Insigne d’engagement du Vol draconique noir
+389512	Insigne d’engagement du Vol draconique de bronze
+389521	Insigne d’engagement du Vol draconique bleu
+389536	Insigne d’engagement du Vol draconique vert
+389501	Insigne d’engagement du Vol draconique rouge
+388863	Vide de mana
+396812	Déflagration mystique
+388886	Pluie arcanique
+388976	Soufflefaille
+388984	Embuscade vicieuse
+388392	Cours monotone
+377912	Expulsion des intrus
+377389	Appel de la nuée
+390912	Graines explosives
+387862	Impulsion disruptive
+387910	Tourbillon astral
+387843	Bombe astrale
+387955	Bouclier céleste
+
+; Boss: Vexamus
+386544	Orbes arcaniques
+391977	Surtension
+388537	Fissure arcanique
+386173	Bombes de mana
+385958	Expulsion arcanique
+
+; Boss: Overgrown Ancient
+388796	Germination
+388923	Déracinement
+388623	Lancer de branche
+388544	Écorce écrasante
+389033	Toxine de flagellant
+396640	Toucher guérisseur
+396721	Abondance
+
+; Boss: Crawth
+377182	Engagement !
+389481	But du brasier incandescent
+376448	Tempête de feu
+389483	But des vents impétueux
+376467	Puissante trombe
+377034	Bourrasque surpuissante
+377004	Hurlement assourdissant
+376997	Coup de bec sauvage
+
+; Boss: Echo of Dorogosa
+389011	Puissance accablante
+388901	Faille arcanique
+374361	Souffle astral
+388822	Aspiration de puissance
+374352	Bombe d’énergie
+
+
+; -------------------------------------
+;	Zone: Brackenhide Hollow
+; -------------------------------------
+
+; Boss: Trash
+367500	Ricanement ignoble
+388060	Haleine puante
+
+; Boss: Hackclaw's War-Band
+381444	Charge sauvage
+377827	Tempête de lames
+381694	Facultés putréfiées
+378029	Frénésie d’entailles
+381470	Totem sorceruse
+377950	Rapides de soins supérieurs
+377965	Frénésie sanguinaire
+
+; Boss: Treemouth
+376934	Lianes avides
+378022	Consommation
+376811	Jet de putréfaction
+377859	Crachat infectieux
+377559	Fouet en liane
+
+; Boss: Gutshot
+384827	Appel de hyènes
+385359	Piège d’enracinement
+384416	Lancer de viande
+384633	Appel du maître
+384353	Tir aux boyaux
+
+; Boss: Decatriarch Wratheye
+373960	Débilitation
+373944	Totem putrexplosif
+376170	Nuage miasmatique asphyxiant
+373917	Frappe putréfiante
+
+
+; -------------------------------------
+;	Zone: Halls of Infusion
+; -------------------------------------
+; Boss: Trash
+374080	Bourrasque explosive
+374045	Expulsion
+374339	Cri démoralisant
+374563	Éblouissement
+374724	Subduction magmatique
+375384	Terre grondante
+375348	Souffle tumultueux
+375351	Souffle océanique
+375327	Souffle tectonique
+377402	Barrière aqueuse
+390290	Crue subite
+
+; Boss: Watcher Irideus
+389179	Surcharge de puissance
+384351	Volée d’étincelles
+384014	Déferlement statique
+384524	Poing titanesque
+389446	Pulsation annulatrice
+383840	Barrière ablative
+
+; Boss: Gulping Goliath
+385551	Gobage
+385187	Coassement dominant
+385531	Coup de bedaine
+385442	Effluve toxique
+374389	Toxine de bufflouille gobeuse
+
+; Boss: Khajin the Unyielding
+386757	Averse de grêle
+386559	Afflux glacial
+385963	Horion de givre
+
+; Boss: Primal Tsunami
+387559	Globules imprégnés
+388424	Fureur de la tempête
+387504	Frappe en rafales
+388882	Inondation du maelström
+
+
+; -------------------------------------
+;	Zone: Neltharus
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Chargath, Bane of Scales
+373424	Lance d’immobilisation
+388523	Fers
+375056	Concentration flamboyante
+373733	Frappe draconique
+373742	Vague de magma
+
+; Boss: Forgemaster Gorek
+374635	Puissance de la forge
+374839	Égide flamboyante
+374969	Forgetempête
+374533	Frappes brûlantes
+
+; Boss: Magmatusk
+374365	Mutation instable
+375890	Éruption de magma
+375068	Lancer de magma
+375251	Projection de lave
+375439	Charge flamboyante
+
+; Boss: Warlord Sargha
+376780	Bouclier de magma
+377014	Retour de flamme
+377477	Braise ardente
+377204	Four du Dragon
+377018	Or en fusion
+377522	Poursuite ardente
+
+
+; -------------------------------------
+;	Zone: Ruby Life Pools
+; -------------------------------------
+
+; Boss: Trash
+372696	Déflagration extractrice
+372743	Bouclier de glace
+372087	Poussée flamboyante
+372047	Barrage d’acier
+373693	Bombe vivante
+373692	Inferno
+373614	Incandescence
+385313	Frappe malchanceuse
+392640	Tonnerre grondant
+391726	Souffle de l’orage
+392395	Gueule électrique
+391723	Souffle de flammes
+
+; Boss: Melidrussa Chillworn
+373046	Éveil des Dragonnets
+372682	Frisson primordial
+373680	Surcharge de givre
+372851	Tempête glaçante
+396044	Bombes de grêle
+
+; Boss: Kokia Blazehoof
+372863	Rituel de lien de feu
+372107	Rocher en fusion
+372858	Coups incendiaires
+373017	Brasier rugissant
+373087	Incandescence
+
+; Boss: Kyrakka and Erkhart Stormvein
+381862	Cœur infernal
+381525	Souffle de feu rugissant
+381517	Vents du changement
+381516	Interruption d’explosion nuageuse
+381512	Frappement de la tempête
+
+
+; -------------------------------------
+;	Zone: The Azure Vault
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Leymor
+374364	Pousses telluriques
+374567	Marque explosive
+374720	Piétinement dévorant
+386660	Fissure en éruption
+374789	Frappe imprégnée
+
+; Boss: Azureblade
+384132	Énergie accablante
+384223	Invocation d’image draconique
+385578	Orbe ancien
+372222	Enchaînement des Arcanes
+
+; Boss: Telash Greywing
+388008	Zéro absolu
+386781	Bombe de givre
+387151	Dévastation glaciale
+
+; Boss: Umbrelskul
+386746	Fragile
+385331	Fracture
+385399	Destruction déchaînée
+385075	Éruption des arcanes
+384699	Rugissement cristallin
+384978	Frappe draconique
+
+
+; -------------------------------------
+;	Zone: The Nokhud Offensive
+; -------------------------------------
+
+; Boss: Trash
+; TODO
+
+; Boss: Granyth
+388283	Éruption
+388817	Éclats de pierre
+385916	Piétinement tectonique
+386320	Invocation de saboteur
+386530	Baliste tueuse de Dragons
+386490	Démantèlement
+
+; Boss: The Raging Tempest
+382628	Afflux de puissance
+394875	Afflux de puissance
+384620	Orage électrique
+384316	Foudre
+384686	Vague d’énergie
+
+; Boss: Teera and Maruuk
+382670	Flèche de vent
+386547	Repoussement
+384808	Vent protecteur
+385434	Bond spirituel
+385339	Scinde-terre
+386063	Rugissement effrayant
+382836	Brutalisation
+392198	Lien ancestral
+
+; Boss: Balakar Khan
+376660	Lance de fer
+376683	Cavalcade de fer
+375943	Soulèvement
+375937	Frappe lacérante
+376727	Absorption de la puissance
+376864	Lance statique
+376892	Soulèvement crépitant
+376827	Frappe conductrice
+
+
+; -------------------------------------
+;	Zone: Uldaman: Legacy of Tyr
+; -------------------------------------
+
+; Boss: Trash
+369811	Coup brutal
+369823	Carapace épineuse
+369400	Protection terrestre
+369365	Malédiction de pierre
+369366	En proie à la pierre
+369411	Explosion sonore
+369337	Terrain accidenté
+
+; Boss: The Lost Dwarves
+369573	Flèche lourde
+369563	Tranchant sauvage
+369791	Brise-crâne
+369677	Bouclier à ricochets
+369602	Rempart défensif
+375924	Attaque de chaloupe !
+375286	Tir de canon incendiaire
+
+; Boss: Bromach
+369605	Appel des profondeurs
+369700	Totem sismique
+369754	Furie sanguinaire
+369703	Heurt tonitruant
+369675	Chaîne d’éclairs
+369660	Secousse
+
+; Boss: Sentinel Talondras
+372600	Inexorable
+372719	Renforcement titanesque
+372623	Orbe de résonance
+372701	Piétinement écrasant
+372718	Éclats terrestres
+
+; Boss: Emberon
+368990	Flammes purificatrices
+369043	Imprégnation
+369110	Braises instables
+369061	Coup incendiaire
+
+; Boss: Chrono-Lord Deios
+376325	Zone d’éternité
+376208	Inverser le cours du temps
+376049	Frappe des ailes
+377405	Puits temporel
+375727	Souffle de sable
