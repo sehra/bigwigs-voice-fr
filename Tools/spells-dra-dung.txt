@@ -220,13 +220,18 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+375596	Croissance erratique
+386546	Fléau en éveil
+371358	Savoir interdit
+377488	Liens de glace
+370766	Rupture cristalline
+387067	Coup des arcanes
 
 ; Boss: Leymor
 374364	Pousses telluriques
 374567	Marque explosive
-374720	Piétinement dévorant
 386660	Fissure en éruption
+374720	Piétinement dévorant
 374789	Frappe imprégnée
 
 ; Boss: Azureblade
@@ -254,7 +259,13 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+384365	Cri de déconcentration
+384336	Choc martial
+383823	Rallier le clan
+395035	Destruction d’âme
+387411	Salve de traits de mort
+373395	Cri à glacer le sang
+397394	Tonnerre mortel
 
 ; Boss: Granyth
 388283	Éruption

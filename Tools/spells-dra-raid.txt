@@ -32,15 +32,15 @@
 391592	Retombée imprégnée
 
 ; Boss: The Primal Council
-391599	Blizzard primordial
+373059	Blizzard primordial
 386661	Convocation glaciale
 371624	Marque conductrice
-372275	Chaîne d’éclairs
+372279	Chaîne d’éclairs
 386375	Convocation foudroyante
-370991	Pilier terrestre
+397134	Pilier terrestre
 372056	Écraser
 386370	Convocation sismique
-374043	Hache météorique
+374038	Haches météoriques
 372027	Entaille de lave
 386289	Convocation brûlante
 
@@ -103,11 +103,11 @@
 375889	Courroux du grand bâton
 375829	Fureur de la Mère-de-la-Nichée
 376073	Incubation rapide
-389049	Graine en incubation
 375871	Flambée
 388716	Voile glacial
 375870	Griffes de pierre mortelles
 378782	Blessures mortelles
+-25129	Renforts primalistes
 375716	Barrage de glace
 376266	Frappe fouisseuse
 376257	Tremblements
@@ -116,7 +116,7 @@
 375475	Morsure tranchante
 375457	Colère glaçante
 375653	Décharge statique
-375630	Charge ionisante
+375620	Charge ionisante
 375879	Fureur de la garde-couvée
 392194	Grand bâton renforcé
 380483	Courroux du grand bâton renforcé
