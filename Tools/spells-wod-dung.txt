@@ -77,3 +77,38 @@ sphere	Sanguine Sphere
 ; Boss: Skulloc
 168227	Frappe de gronn
 168929	Barrage au canon
+
+
+; -------------------------------------
+;    Zone: Shadowmoon Burial Grounds
+; -------------------------------------
+
+; Boss: Trash
+152818	Guérison de l’ombre
+152964	Impulsion de vide
+394512	Éruptions du Vide
+398151	Focalisation sinistre
+153268	Exhumation de cryptes
+398206	Déflagration de mort
+156718	Explosion nécrotique
+153395	Plaquage
+
+; Boss: Sadana Bloodfury
+164974	Sombre éclipse
+153240	Tire-Dague
+153153	Sombre communion
+
+; Boss: Nhallish
+153623	Transfert planaire
+152801	Vortex du Vide
+152979	Voile de l’âme
+153067	Dévastation du Vide
+
+; Boss: Bonemaw
+153804	Inhalation
+154175	Plaquage
+
+; Boss: Ner'zhul
+154442	Malice
+154350	Présage de mort
+-9680	Rituel des ossements

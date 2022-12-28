@@ -61,9 +61,9 @@
 
 ; Boss: Dathea, Ascended
 387849	Tempête coalescente
-395501	Renvoi
 387943	Essence détournée
 385812	Entaille aérienne
+395501	Renvoi
 384273	Éclair de tempête
 390450	Adhérence statique
 388302	Bourrasque déchaînée
@@ -93,9 +93,18 @@
 374427	Éclatement du sol
 374430	Soulèvement violent
 374623	Liens glaciaux
+374622	Tempête voyageuse
 374624	Tempête givrante
 391696	Courant mortel
 396241	Communion primordiale
+400473	Rage élémentaire
+393309	Châtiment des flammes
+394416	Brasier infernal
+393296	Châtiment du givre
+391425	Tempête de glace
+391268	Châtiment de la terre
+393429	Châtiment de l’orage
+394719	Foudre en boule
 
 ; Boss: Broodkeeper Diurna
 375809	Lien de la garde-couvée
@@ -121,6 +130,36 @@
 392194	Grand bâton renforcé
 380483	Courroux du grand bâton renforcé
 388918	Voile gelé
+396269	Coup rocailleux mortel
+396266	Souffrance mortelle
+396264	Coup rocailleux explosif
 
 ; Boss: Raszageth the Storm Eater
-; TODO
+377612	Aile ouragan
+381615	Charge statique
+388643	Courant instable
+395906	Mâchoire électrifiée
+377594	Souffle de foudre
+381251	Fouet électrique
+382434	Nova de tempête
+385065	Dévastation de foudre
+396037	Explosion déferlante
+385553	Éclair de tempête
+397382	Voile fissuré
+397387	Bouclier de flammes
+387261	Éruption de tempête
+391989	Charge tempétueuse
+394582	Charge concentrée
+394583	Charge dispersée
+385574	Aile-tempête
+377467	Charge fulminante
+389870	Tempête voyageuse
+389878	Fusion
+385068	Foudre en boule
+385569	Orage déchaîné
+395929	Rancune de la tempête
+399713	Charge magnétique
+386410	Explosion tonitruante
+391285	Armure fondue
+394584	Inversion
+395885	Mange-tempêtes

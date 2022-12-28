@@ -144,7 +144,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
+382708	Défense volcanique
+395427	Rugissement brûlant
+376186	Broyage éruptif
+372223	Argile réparatrice
+372201	Souffle de brûlure
+372296	Batterie déflagrante
+373084	Fusillade brûlante
+376200	Détonation brûlante
+378282	Cœur du Magma
+381663	Tempête incandescente
+383651	Armée de la fournaise
 
 ; Boss: Chargath, Bane of Scales
 373424	Lance d’immobilisation
@@ -184,6 +194,7 @@
 372743	Bouclier de glace
 372087	Poussée flamboyante
 372047	Barrage d’acier
+385536	Danse du feu
 373693	Bombe vivante
 373692	Inferno
 373614	Incandescence
@@ -192,7 +203,10 @@
 391726	Souffle de l’orage
 392395	Gueule électrique
 391723	Souffle de flammes
-
+392569	Sang en fusion
+392486	Tempête de foudre
+392451	Flamméclair
+		
 ; Boss: Melidrussa Chillworn
 373046	Éveil des Dragonnets
 372682	Frisson primordial
@@ -220,10 +234,14 @@
 ; -------------------------------------
 
 ; Boss: Trash
+397726	Cri perçant
+387564	Vapeurs mystiques
 375596	Croissance erratique
+375649	Terre imprégnée
 386546	Fléau en éveil
 371358	Savoir interdit
 377488	Liens de glace
+370764	Éclats perforants
 370766	Rupture cristalline
 387067	Coup des arcanes
 
@@ -262,6 +280,18 @@
 384365	Cri de déconcentration
 384336	Choc martial
 383823	Rallier le clan
+334610	Chasser la proie
+386223	Bouclier des tempêtes
+386024	Tempête
+386015	Invocation d’une rafale
+386694	Éruption de tempête
+387127	Chaîne d’éclairs
+387125	Frappe-tonnerre
+386028	Coup de tonnerre
+387629	Vent putréfiant
+387614	Chant des morts
+387596	Vent léger
+387440	Rugissement profanateur
 395035	Destruction d’âme
 387411	Salve de traits de mort
 373395	Cri à glacer le sang
@@ -313,8 +343,10 @@
 369400	Protection terrestre
 369365	Malédiction de pierre
 369366	En proie à la pierre
+369465	Déluge de pierres
 369411	Explosion sonore
 369337	Terrain accidenté
+381593	Coup de tonnerre
 
 ; Boss: The Lost Dwarves
 369573	Flèche lourde

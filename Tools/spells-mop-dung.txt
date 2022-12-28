@@ -1,0 +1,38 @@
+; Type: Mists of Pandaria Dungeon
+
+; -------------------------------------
+;    Zone: Temple of the Jade Serpent
+; -------------------------------------
+
+; Boss: Trash
+397881	Déluge déferlant
+397889	Jaillissement de flots
+395859	Hurlement hanté
+395872	Soliloque soporifique
+396001	Démonstration territoriale
+396018	Crise de rage
+396073	Sieste féline
+396020	Barrière dorée
+397899	Balayage de jambe
+397914	Brume profanatrice
+398300	Flammes du doute
+
+; Boss: Wise Mari
+397785	Déferlante
+397797	Vortex corrompu
+-6327	Appel de l’eau
+106653	Résidu de sha
+115167	Eaux corrompues
+
+; Boss: Lorewalker Stonestep
+-5549	Intensité
+
+; Boss: Liu Flameheart
+106823	Frappe de serpent
+106841	Frappe du dragon de jade
+118540	Onde du Serpent de jade
+107110	Feu de jade
+
+; Boss: Sha of Doubt
+106113	Toucher de néant
+117665	Aux frontières du réel
