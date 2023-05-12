@@ -1,7 +1,7 @@
 ; Type: Warlords of Draenor Dungeon
 
 ; -------------------------------------
-;    Zone: Grimrail Depot
+; Zone: Grimrail Depot
 ; -------------------------------------
 
 ; Boss: Trash
@@ -12,12 +12,13 @@
 176032	Langue de feu
 156301	Mortier rochenoire
 176127	Barrage au canon
+176023	Enervement
 166335	Bouclier des tempêtes
 166341	Zone de tonnerre
 166380	Entaille téméraire
 166397	Attaque arcanique éclair
 
-; Boss: Railmaster Rocketspark
+; Boss: Rocketspark and Borka
 162407	Barrage de projectiles X21-01A
 163947	Récupérer
 162171	Meilleure position
@@ -28,10 +29,12 @@
 161092	Agressivité débridée
 
 ; Boss: Nitrogg Thundertower
-161073	Grenade rochenoire
-160965	Éclats de mortier rochenoire
+163550	Mortier rochenoire
 160681	Feu répressif
 166570	Déflagration de scories
+160965	Éclats de mortier rochenoire
+156357	Mitraille rochenoire
+161073	Grenade rochenoire
 
 ; Boss: Skylord Tovra
 161801	Souffle tonnant
@@ -42,12 +45,12 @@
 
 
 ; -------------------------------------
-;    Zone: Iron Docks
+; Zone: Iron Docks
 ; -------------------------------------
 
 ; Boss: Trash
 167233	Tempête de lames
-173148	Flèches enflammées
+164632	Flèches enflammées
 172636	Graisse glissante
 172982	Frappe brisante
 172952	Lancer l’enfonce-porte
@@ -64,51 +67,74 @@
 
 ; Boss: Fleshrender Nok'gar
 164426	Provocation téméraire
-164632	Flèches enflammées
+;164632	Flèches enflammées
+166923	Barrage de flèches barbelées
 164837	Lacération sauvage
 164835	Hurlement de carnage
+164734	Balayages lacérants
 
-; Boss: Ahri'ok Dugru
-sphere	Sanguine Sphere
+; Boss: Grimrail Enforcers
+163689	Sphère sanglante
+163705	Restauration soudaine
+163740	Corruption sanguine
+163665	Entaille enflammée
+165152	Coup de lave circulaire
+163376	Défibrillateur 9000-XL défectueux
+163390	Pièges ogres
+163379	Gros boum
 
 ; Boss: Oshir
 162415	Heure du repas
+178124	Cavale
+161256	Assaut primordial
 
 ; Boss: Skulloc
 168227	Frappe de gronn
 168929	Barrage au canon
+168965	Bond de berserker
+168348	Tir rapide
 
 
 ; -------------------------------------
-;    Zone: Shadowmoon Burial Grounds
+; Zone: Shadowmoon Burial Grounds
 ; -------------------------------------
 
 ; Boss: Trash
 152818	Guérison de l’ombre
+152819	Mot de l’ombre : Fragilité
+164907	Entaille du Vide
 152964	Impulsion de vide
 394512	Éruptions du Vide
 398151	Focalisation sinistre
+398154	Cri d’angoisse
+398150	Domination
 153268	Exhumation de cryptes
 398206	Déflagration de mort
 156718	Explosion nécrotique
 153395	Plaquage
 
 ; Boss: Sadana Bloodfury
-164974	Sombre éclipse
-153240	Tire-Dague
 153153	Sombre communion
+153240	Tire-Dague
+153224	Brûlure d’ombre
+153094	Murmures de l’Étoile noire
+164974	Sombre éclipse
 
 ; Boss: Nhallish
 153623	Transfert planaire
 152801	Vortex du Vide
-152979	Voile de l’âme
+152792	Trait de Vide
 153067	Dévastation du Vide
+152979	Voile de l’âme
 
 ; Boss: Bonemaw
-153804	Inhalation
+165578	Souffle cadavérique
 154175	Plaquage
+153804	Inhalation
 
 ; Boss: Ner'zhul
 154442	Malice
 154350	Présage de mort
--9680	Rituel des ossements
+154469	Rituel des ossements
+
+

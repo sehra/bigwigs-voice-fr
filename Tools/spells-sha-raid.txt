@@ -1,7 +1,45 @@
 ; Type: Shadowlands Raid
 
 ; -------------------------------------
-;    Zone: Castle Nathria
+; Zone: Shadowlands
+; -------------------------------------
+
+; Boss: Valinor, the Light of Eons
+327274	Anima déchaîné
+327246	Charge d’anima
+327280	Recharger l’anima
+327262	Déflagration d’anima chargé
+327255	Marque de pénitence
+
+; Boss: Mortanis
+338848	Échine rampante
+338847	Frénésie impie
+338851	Crâne hurlant
+338846	Enchaînement osseux
+338849	Ossements incontrôlables
+338850	Seigneur des déchus
+
+; Boss: Oranomonos the Everbranching
+338855	Graines de chagrin
+338856	Complainte du sanctum déchu
+338853	Croissance rapide
+338852	Implantation
+338857	Rétablissement
+
+; Boss: Nurgash Muckformed
+338867	Déluge de pierres
+338868	Profonde torpeur
+338864	Déflagration rocheuse
+338863	Martèlement de pierre
+338858	Poing en pierre
+
+; Boss: Mor'geth, Tormentor of the Damned
+
+; Boss: Antros
+
+
+; -------------------------------------
+; Zone: Castle Nathria
 ; -------------------------------------
 
 ; Boss: Trash
@@ -16,6 +54,7 @@
 341352	Piège magnifique du garde-chasse
 341735	Pierre de restauration
 340630	Nécrose
+329298	Miasme glouton
 339553	Anima rémanent
 339557	Anima en bouteille
 339528	Désirs déformés
@@ -29,7 +68,7 @@
 ; Boss: Shriekwing
 330711	Cri assourdissant
 340324	Ichor sanguin
-342074y	Écholocalisation
+342074	Écholocalisation
 342863	Hurlement résonnant
 345397	Vague sanglante
 343005	Balayage aveugle
@@ -42,7 +81,7 @@
 341489	Lumière sanglante
 
 ; Boss: Huntsman Altimor
-335114y	Cherche-vice
+335114	Cherche-vice
 334404	Tir à dispersion
 334971	Griffes dentelées
 334945	Fente vicieuse
@@ -59,7 +98,7 @@
 325877	Éclair de braise
 329518	Geyser incendiaire
 328579	Vestiges fumants
-328479y	Rivé sur la cible
+328479	Rivé sur la cible
 -21954	Vainqueur pierre-lié
 325440	Frappe de victoire
 325442	Vaincu
@@ -78,13 +117,13 @@
 343026	Cape des flammes
 
 ; Boss: Artificer Xy'mox
-328437y	Déchirure dimensionnelle
+328437	Déchirure dimensionnelle
 325236	Glyphe de destruction
 326271	Piège de stase
 335013	Faille explosive
 325399	Étincelle hyperluminique
 340758	Esprits fugaces
-327902y	Fixer
+327902	Fixer
 327414	Possession
 340788	Graines d’extinction
 329107	Extinction
@@ -92,10 +131,10 @@
 328789	Annihilation
 
 ; Boss: Hungering Destroyer
-329298	Miasme glouton
+;329298	Miasme glouton
 334522	Consommer
 329725	Éliminer
-334266y	Expulsion instable
+334266	Expulsion instable
 329455	Désolation
 329774	Accabler
 332295	Faim grandissante
@@ -104,13 +143,13 @@
 331870	Focalisation d’anima
 341621	Dévoiler les désirs
 325382	Désirs déformés
-340452y	Volte-face
+340452	Volte-face
 325936	Cognition partagée
 325769	Anima en bouteille
 325713	Anima rémanent
-324983y	Souffrance partagée
+324983	Souffrance partagée
 332664	Anima concentré
-331573y	Culpabilité inconcevable
+331573	Culpabilité inconcevable
 331550	Blâme
 
 ; Boss: The Council of Blood
@@ -119,24 +158,24 @@
 330978	Serviteurs purotins
 330965	Arroi du castellan
 346790	Lame touchée par le vice
-346651y	Drain d’essence
+346651	Drain d’essence
 337110	Volée de traits d’effroi
 346657	Éruption d’orgueil
 346945	Souffrance manifeste
 346681	Pointes à âmes
 327497	Fente d’évitement
-331634y	Sombre récital
+331634	Sombre récital
 346800	Valse de sang
 346303	Violent tumulte
 330959	Danse macabre
-330848y	Faux pas
+330848	Faux pas
 -22433	Image rémanente de la baronne Frieda
 347350	Fièvre dansante
 
 ; Boss: Sludgefist
-331209y	Regard haineux
+331209	Regard haineux
 331314	Impact destructeur
-335293y	Lien de chaîne
+335293	Lien de chaîne
 332318	Piétinement destructeur
 341193	Chute de débris
 335361	Tremblement de pierre
@@ -152,7 +191,7 @@
 333913	Lacération pernicieuse
 334765	Lacération du cœur
 334929	Balayage dentelé
-339690y	Cristallisation
+339690	Cristallisation
 342544	Météore destructeur
 343063	Pointe de pierre
 342733	Festin féroce
@@ -163,7 +202,7 @@
 332683	Explosion destructrice
 329808	Forme de pierre durcie
 342425	Poing en pierre
-344496y	Éruption réverbérante
+344496	Éruption réverbérante
 334498	Soulèvement sismique
 342256	Appel des troupes de l’ombre
 342655	Imprégnation d’anima volatil
@@ -175,14 +214,14 @@
 326699	Fardeau du péché
 326707	Souffrance purificatrice
 326851	Prix du sang
-327039y	Festin
-327796y	Chasseur nocturne
+327039	Festin
+327796	Chasseur nocturne
 327227	Ordre : Ravage
 327122	Ravage
 327992	Désolation
 328276	Marche du pénitent
 329906	Carnage
-329951y	Empaler
+329951	Empaler
 -22131	Cabaliste cramoisi
 336162	Crescendo
 335873	Rancune
@@ -201,15 +240,17 @@
 
 
 ; -------------------------------------
-;    Zone: Sanctum of Domination
+; Zone: Sanctum of Domination
 ; -------------------------------------
+
+; Boss: Trash
 
 ; Boss: The Tarragrue
 346985	Fulgurance
 346986	Armure écrasée
-347269y	Chaînes d’éternité
+347269	Chaînes d’éternité
 347274	Choc annihilant
-347283y	Hurlement prédateur
+347283	Hurlement prédateur
 347286	Effroi lancinant
 347679	Brume affamée
 352368	Vestiges de tourments oubliés
@@ -225,14 +266,13 @@
 349979	Chaînes de halage
 348074	Lance d’assaut
 349028	Regard de mort titanesque
-350847y	Rayon de désolation
-350022y	Fracture d’âme
+350847	Rayon de désolation
+350022	Fracture d’âme
 351825	Souffrance partagée
 350713	Corruption paresseuse
-351827y	Malheur contagieux
-348974	Extermination immédiate
+351827	Malheur contagieux
 351413	Regard annihilant
-350604y	Léthargie désespérée
+350604	Léthargie désespérée
 355232	Dédain et ire
 
 ; Boss: The Nine
@@ -246,20 +286,30 @@
 350385	Refrain résonnant
 350467	Appel des Val’kyrs
 350031	Lame éternelle d’Agatha
-350184y	Impact majeur de Daschla
+350184	Impact majeur de Daschla
 350158	Égide brillante d’Annhylde
 350098	Frappe descendante d’Aradne
-350109y	Chant éploré de Brynja
+350109	Chant éploré de Brynja
 350039	Regard écrasant d’Arthura
 350475	Perce-âme
 355294	Ressentiment
 350482	Lien d’essence
 350687	Mot de rappel
 
+; Boss: Remnant of Ner'zhul
+350676	Orbe de tourment
+350073	Tourment
+350388	Procession endeuillée
+350469	Malveillance
+350489	Malveillance persistante
+349890	Souffrance
+355123	Emprise de la malveillance
+351066	Démanteler
+
 ; Boss: Soulrender Dormazain
 350217	Tourment
 349985	Éruptions tourmentées
-350647y	Marque du tourment
+350647	Marque du tourment
 350422	Ruinelame
 350615	Invocation d’antrelige
 -23517	Suzerain antrelige
@@ -269,16 +319,6 @@
 354231	Entraves d’âme
 351229	Âme disloquée
 
-; Boss: Remnant of Ner'zhul
-350676	Orbe de tourment
-350073	Tourment
-350388	Procession endeuillée
-350469y	Malveillance
-350489	Malveillance persistante
-349890	Souffrance
-355123	Emprise de la malveillance
-351066	Démanteler
-
 ; Boss: Painsmith Raznal
 348508	Marteau réverbérant
 355568	Hache crucifix
@@ -286,7 +326,7 @@
 355786	Armure noircie
 352052	Balles cloutées
 348456	Piège serre-flamme
-355505y	Chaînes en ombre-acier
+355505	Chaînes en ombre-acier
 355534	Braises d’ombre-acier
 355536	Invocation d’une horreur en ombre-acier
 357735	Dernier cri
@@ -305,16 +345,16 @@
 352833	Désintégration
 352660	Création de sentinelle
 347359	Champ de suppression
-350496y	Neutralisation de la menace
+350496	Neutralisation de la menace
 
 ; Boss: Fatescribe Roh-Kalo
-351680y	Invocation du destin
+351680	Invocation du destin
 353432	Fardeau du destin
 353398	Déflagration anormale
 353603	Sonde du devin
 353931	Destin déformé
 350421	Conjonction fatidique
-350568y	Appel d’éternité
+350568	Appel d’éternité
 357739	Réalignement du destin
 357144	Désespoir
 353122	Sombre destin
@@ -331,8 +371,8 @@
 348428	Geignement perçant
 346459	Colère glaciaire
 346530	Destruction gelée
-347292y	Écho de l’oubli
-348760y	Trait de givre
+347292	Écho de l’oubli
+348760	Trait de givre
 354289	Miasme sinistre
 352051	Afflux nécrotique
 352293	Destruction vengeresse
@@ -350,9 +390,9 @@
 347807	Flèche barbelée
 356377	Tir profanateur
 347670	Dague de l’ombre
-349458y	Chaînes de domination
+349458	Chaînes de domination
 347704	Voile des ténèbres
-347609y	Flèche gémissante
+347609	Flèche gémissante
 352650	Tracœur de forestier
 347607	Marque de la banshee
 353417	Dislocation
@@ -371,7 +411,7 @@
 354068	Furie de la banshee
 353952	Cri de la banshee
 354147	Destruction massive
-358704y	Flèche noire
+358704	Flèche noire
 358711	Rage
 356021	Sombre communion
 351591	Crasse
@@ -383,8 +423,10 @@
 
 
 ; -------------------------------------
-;    Zone: Sepulcher of the First Ones
+; Zone: Sepulcher of the First Ones
 ; -------------------------------------
+
+; Boss: Trash
 
 ; Boss: Vigilant Guardian
 360403	Champ de force
@@ -450,7 +492,7 @@
 361608	Fardeau du péché
 361745	Chasseur nocturne
 
-; Boss: Lihuvim, Principal Architech
+; Boss: Lihuvim, Principal Architect
 368027	Résonance
 364652	Cascade protoformelle
 363088	Transfert cosmique
@@ -463,7 +505,6 @@
 362659	Transfert d’alignement
 
 ; Boss: Halondrus the Reclaimer
-368969	Charge instable
 360115	Réappropriation
 367079	Secousses sismiques
 360114	Fissure éphémère
@@ -474,6 +515,7 @@
 368363	Prisme brisé
 364979	Désintégration
 368529	Surmultiplicateur de l’éternité
+368969	Charge instable
 
 ; Boss: Anduin Wrynn
 362405	Faim de Deuilleroi
@@ -531,7 +573,7 @@
 363893	Martyre
 366545	Persécution
 365436	Tourment
-360281y	Rune de damnation
+360281	Rune de damnation
 360373	Harmonisation impie
 363332	Poigne inébranlable
 359856	Explosion destructrice
@@ -549,9 +591,3 @@
 368591	Peine capitale
 
 
-; Zone: Season 4
-; Boss: Affixes
-372634	Essence chaotique
-369505	Étincelle de création
-371447	Barrière protoformelle
-371254	Émetteur de reconfiguration

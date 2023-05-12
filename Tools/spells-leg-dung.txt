@@ -1,12 +1,71 @@
 ; Type: Legion Dungeon
 
 ; -------------------------------------
-;   Zone: Black Rook Hold
+; Zone: Assault on Violet Hold
+; -------------------------------------
+
+; Boss: Trash
+204901	Sombre essaim
+204876	Destruction gangrenée
+204140	Bouclier d’yeux
+204608	Prison gangrenée
+205088	Flammes infernales
+
+; Boss: Festerface
+201598	Vomissement gélifiant
+201729	Oh, oh…
+
+; Boss: Shivermaw
+201379	Souffle de givre
+201672	Tempête incessante
+201354	Coup de queue
+201355	Frappe des ailes
+202062	Vents algides
+201960	Bombe de glace
+
+; Boss: Blood-Princess Thal'ena
+202779	Essence de la princesse de sang
+203381	Appel de sang
+202947	Essaim de sang
+
+; Boss: Mindflayer Kaahrj
+201148	Destin funeste
+201146	Hystérie
+201153	Ténèbres éternelles
+
+; Boss: Millificent Manastorm
+201159	Laser digital X-trême Delta
+201240	Bombe-écureuil en élémentium
+201392	Poulet-fusée en thorium
+201572	Rage de Millificent
+
+; Boss: Anub'esset
+202217	Frappe de mandibule
+202341	Empaler
+201863	Appel de l’essaim
+202480	Fixé
+202485	Limon caustique
+
+; Boss: Sael'orn
+202414	Vaporisation de venin
+202306	Massacre rampant
+202473	Gangredétonation
+
+; Boss: Fel Lord Betrug
+203641	Entaille gangrenée
+202328	Impact puissant
+205233	Exécution
+210879	Graine de destruction
+
+
+; -------------------------------------
+; Zone: Black Rook Hold
 ; -------------------------------------
 
 ; Boss: Trash
 200248	Attaque arcanique éclair
 200261	Frappe briseuse d’os
+197974	Frappe broyeuse d’os
 214003	Achèvement
 200343	Barrage de flèches
 200291	Danse des couteaux
@@ -14,26 +73,26 @@
 203163	Lâcher les gangroptères
 227913	Frénésie gangrenée
 
-; Boss: Amalgam of Souls
+; Boss: The Amalgam of Souls
 196078	Appel des âmes
 194956	Fauchage d’âme
 196587	Explosion d’âmes
-194966y	Échos d’âme
+194966	Échos d’âme
 195254	Faux tourbillonnante
 196930	Gorgé d’âmes
 
 ; Boss: Illysanna Ravencrest
 197418	Cisaille vengeresse
-197478y	Ruée sombre
+197478	Ruée sombre
 197546	Glaive brutal
-197696y	Rayons accablants
+197696	Rayons accablants
 197797	Attaque arcanique éclair
-197974	Frappe broyeuse d’os
+;197974	Frappe broyeuse d’os
 
 ; Boss: Smashspite the Hateful
 198073	Piétinement trembleterre
 198245	Coup brutal
-198079y	Regard haineux
+198079	Regard haineux
 198446	Gangrevomi
 
 ; Boss: Lord Kur'talos Ravencrest
@@ -42,17 +101,17 @@
 198641	Lame tourbillonnante
 199193	Fourberie de seigneur de l’effroi
 202019	Salve de traits de l’ombre
-201733y	Essaim d’insectes
+201733	Essaim d’insectes
 199143	Nuage hypnotique
 
 
 ; -------------------------------------
-;    Zone: Cathedral of Eternal Night
+; Zone: Cathedral of Eternal Night
 ; -------------------------------------
 
 ; Boss: Trash
 238653	Vague de l'ombre
-236737y	Frappe gangrenée
+236737	Frappe gangrenée
 241598	Mur d'ombre
 238543	Guérison démoniaque
 237565	Pluie caustique
@@ -70,16 +129,17 @@
 235751	Choc sylvestre
 236650	Lianes asphyxiantes
 236527	Flagellants fulminants
-238674y	Fixer
+238674	Fixer
 236639	Flagellants à épines
 236640	Sève toxique
 
 ; Boss: Thrashbite the Scornful
 237276	Gourdin pulvérisateur
-237726y	Regard teigneux
+237726	Regard teigneux
 243124	Lancer de gourdin
 
 ; Boss: Domatrax
+238410	Égide d'Aggramar
 236543	Enchaînement gangrâme
 234107	Énergie chaotique
 -15076	Gardien de gangreportail
@@ -93,10 +153,12 @@
 
 
 ; -------------------------------------
-;    Zone: Court of Stars
+; Zone: Court of Stars
 ; -------------------------------------
 
 ; Boss: Trash
+210261	Sonner l’alarme
+212773	Soumettre
 209027	Frappe de refoulement
 209033	Fortification
 225100	Station de recharge
@@ -105,11 +167,17 @@
 209413	Supprimer
 211464	Gangredétonation
 211391	Flaque du Brasier infernal
+211470	Ensorcellement
+211473	Entaille de l’ombre
 214692	Salve de traits de l’ombre
 214688	Sombre essaim
+214690	Faiblesse
 207979	Onde de choc
+397897	Bond écrasant
 209378	Lames tourbillonnantes
+397892	Cri de douleur
 207980	Rayon de désintégration
+397907	Malédiction imminente
 211299	Regard embrasé
 212784	Tempête d’yeux
 211401	Braises mouvantes
@@ -131,6 +199,7 @@
 207278	Entrave des Arcanes
 207806	Avertir le relais
 207815	Flacon de la nuit solennelle
+215204	Contretemps
 
 ; Boss: Talixae Flamewreath
 207881	Éruption infernale
@@ -145,7 +214,7 @@
 
 
 ; -------------------------------------
-;    Zone: Darkheart Thicket
+; Zone: Darkheart Thicket
 ; -------------------------------------
 
 ; Boss: Trash
@@ -165,7 +234,7 @@
 196376	Lacération cruelle
 
 ; Boss: Oakheart
-204646y	Poigne écrasante
+204646	Poigne écrasante
 204574	Racines étrangleuses
 204667	Souffle cauchemardesque
 204666	Terre brisée
@@ -177,13 +246,13 @@
 
 ; Boss: Shade of Xavius
 200050	Cauchemar apocalyptique
-200289y	Paranoïa croissante
-200185y	Éclair de cauchemar
+200289	Paranoïa croissante
+200185	Éclair de cauchemar
 200238	Nourri par les faibles
 
 
 ; -------------------------------------
-;    Zone: Eye of Azshara
+; Zone: Eye of Azshara
 ; -------------------------------------
 
 ; Boss: Trash
@@ -213,88 +282,101 @@
 193698	Malédiction de la sorcière
 196610	Mousson
 
-; Boss: Serpentrix
-191873	Submerger
-191855y	Blessure toxique
-
 ; Boss: King Deepbeard
 193051	Appel des mers
 193018	Bulles gazeuses
 193093	Heurt terrestre
 193152	Secousse
 
+; Boss: Serpentrix
+191873	Submerger
+191855	Blessure toxique
+
 ; Boss: Wrath of Azshara
 192706	Bombe des Arcanes
 192617	Déluge torrentiel
 192675	Tornade mystique
 192985	Cri courroucé
-197365y	Profondeurs écrasantes
+197365	Profondeurs écrasantes
 
 
 ; -------------------------------------
-;    Zone: Halls of Valor
+; Zone: Halls of Valor
 ; -------------------------------------
 
 ; Boss: Trash
+202298	Chope d’hydromel
 215430	Frappe-tonnerre
 198888	Souffle de foudre
+198892	Tempête crépitante
 210875	Impulsion chargée
 198745	Lumière protectrice
 199805	Crépitement
+198959	Gravure
 198931	Lumière guérisseuse
 198934	Rune de soins
 215433	Radiance sacrée
 192563	Flammes de la purification
 199050	Equarrissage mortel
 191508	Décharge de lumière
+199034	Avancée de Valkyra
+200901	Œil du cyclone
 192158	Sanctifier
+192288	Lumière incendiaire
 199210	Tir pénétrant
+199146	Ruade et charge
 199090	Piétinement grondant
 199341	Piège à ours
 199726	Hurlement indiscipliné
 200969	Appel d’ancêtre
 
 ; Boss: Hymdall
+193092	Balayage sanglant
 193235	Lame dansante
 191284	Cor de vaillance
-193092	Balayage sanglant
 
 ; Boss: Hyrja
-200901	Œil du cyclone
+;200901	Œil du cyclone
+191976	Arc d’éclairs
 192307	Sanctifier
-192048y	Projection de lumière
+192048	Projection de lumière
 192018	Bouclier de lumière
 
 ; Boss: Fenryr
-196543	Hurlement déroutant
-197556y	Bond vorace
 196512	Frénésie de griffes
-196838y	Odeur du sang
+196543	Hurlement déroutant
+197558	Bond vorace
+196838	Odeur du sang
 
 ; Boss: God-King Skovald
+193783	Égide d’Aggramar
 193668	Lame sauvage
 193826	Ragnarok
-193659y	Ruée du Brasier infernal
+193659	Ruée du Brasier infernal
 193702	Flammes de l’enfer
 
 ; Boss: Odyn
 197961	Marque runique
-198263	Tempête radieuse
 200988	Lance de Lumière
 198077	Fracasser les lances
+198263	Tempête radieuse
+201215	Invocation d’oblitérateur forge-foudre
 
 
 ; -------------------------------------
-;    Zone: Maw of Souls
+; Zone: Maw of Souls
 ; -------------------------------------
 
 ; Boss: Trash
+194657	Siphon d’âme
 198405	Cri à glacer les sangs
 192019	Lanterne des ténèbres
+194615	Pied marin
 199514	Torrent d’âmes
 199589	Tourbillon d’âmes
 216197	Eaux déferlantes
 195293	Cri débilitant
+198324	Pas de quartier
 
 ; Boss: Ymiron, the Fallen King
 193977	Vents du Norfendre
@@ -307,12 +389,11 @@
 194216	Faux cosmique
 194231	Invocation de serviteur enchaîné
 194668	Déchirure du Néant
-194325y	Fragmentation
+194325	Fragmentation
 
 ; Boss: Helya
-197262y	Souillure de la mer
+197262	Souillure de la mer
 202088	Barrage d’eaux stagnantes
-destructor_tentacle	Destructor Tentacle
 185539	Rupture rapide
 196947	Submergé
 198495	Torrent
@@ -320,14 +401,26 @@ destructor_tentacle	Destructor Tentacle
 
 
 ; -------------------------------------
-;    Zone: Neltharion's Lair
+; Zone: Neltharion's Lair
 ; -------------------------------------
 
 ; Boss: Trash
-183088	Avalanche
-226296	Éclats perforants
+183465	Bile visqueuse
 202181	Regard de pierre
+226296	Éclats perforants
+193505	Fracture
+226287	Écraser
+183526	Tambours de guerre
+183088	Avalanche
+202108	Totem pétrifiant
+186576	Nuage pétrifiant
+186616	Pétrifié
+183548	Appel de ver
+193803	Métamorphose
+183539	Langue barbelée
 193585	Lié
+226406	Balayage de braise
+201983	Frénésie
 
 ; Boss: Rokmora
 188169	Éclats tranchants
@@ -336,55 +429,67 @@ destructor_tentacle	Destructor Tentacle
 
 ; Boss: Ularogg Cragshaper
 198564	Posture de la montagne
-198496	Fracassement
+193375	Rugissement des profondeurs
 198428	Frappe de la montagne
+198496	Fracassement
 
 ; Boss: Naraxas
-199775	Frénésie
-199178	Langue à pointes
 205549	Gueule rance
 210150	Vomi toxique
+199178	Langue à pointes
+199775	Frénésie
 -12527	Dévot parlever
+199246	Vorace
 
-; Boss: Dargrul
-200732	Choc de magma
+; Boss: Dargrul the Underking
 200700	Glissement de terrain
-200154	Haine ardente
+200732	Choc de magma
+200637	Sculpteur de magma
 200404	Vague de magma
 200551	Pointes de cristal
+216407	Geyser de lave
+200154	Haine ardente
+200672	Cristal fissuré
 
 
 ; -------------------------------------
-;    Zone: Return to Karazhan
+; Zone: Return to Karazhan
 ; -------------------------------------
 
 ; Boss: Trash
+227999	Déluge de pièces
 227966	Lampe torche
 228279	Récupération de l'ombre
+228278	Cri démoralisant
+228280	Serment de vassalité
 228575	Aura séductrice
+228576	Séduit
 228625	Complainte de la banshee
-227999	Déluge de pièces
 228528	Bourreau des cœurs
-241774	Frappe de bouclier
+241828	Piétinement broyant
+228603	Charge
+229489	Royauté
+
+; Boss: Opera Hall: Wikket
+227477	Invocation d'assistants
+227447	Défi à la gravité
+227410	Sublime éclat
+227776	Fantasmagique !
+
+; Boss: Opera Hall: Westfall Story
+227568	Coup de pied ardent
+227453	Trombe de flamme audacieuse
+227777	Rituel du tonnerre
+227783	Lessivage
 
 ; Boss: Opera Hall: Beautiful Beast
 228025	Vague de chaleur
 228019	Restes
-228221y	Époussetage brutal
+228221	Époussetage brutal
+228225	Chaud devant !
 227985	Cabossage d’armure
 227987	Cloche de dîner !
 232153	Kara Kazham !
-
-; Boss: Opera Hall: Westfall Story
-227568	Coup de pied ardent
-227777	Rituel du tonnerre
-227783	Lessivage
-
-; Boss: Opera Hall: Wikket
-227447	Défi à la gravité
-227410	Sublime éclat
-227776	Fantasmagique !
-227477	Invocation d'assistants
 
 ; Boss: Maiden of Virtue
 227817	Rempart sacré
@@ -392,7 +497,14 @@ destructor_tentacle	Destructor Tentacle
 227800	Horion sacré
 227809	Éclair sacré
 227508	Repentir de masse
-227789y	Terre sacrée
+227789	Terre sacrée
+
+; Boss: Attumen the Huntsman
+228895	Enrager
+227363	Piétinement puissant
+227365	Charge spectrale
+227493	Frappe mortelle
+228852	Souffrance partagée
 
 ; Boss: Moroes
 227736	Disparition
@@ -403,15 +515,8 @@ destructor_tentacle	Destructor Tentacle
 227578	Guérisseur
 227646	Tourbillon de métal
 227616	Armes surpuissantes
-227463y	Tranchant tourbillonnant
+227463	Tranchant tourbillonnant
 227672	Brise-volonté
-
-; Boss: Attumen the Huntsman
-227404	Présence immatérielle
-227493	Frappe mortelle
-228852	Souffrance partagée
-227365	Charge spectrale
-228895	Enrager
 
 ; Boss: The Curator
 227267	Invocation d'énergie volatile
@@ -423,10 +528,11 @@ destructor_tentacle	Destructor Tentacle
 227615	Éclair flamboyant
 227628	Projectiles perforants
 228334	Image du Gardien
-228269y	Couronne de flammes
+228269	Couronne de flammes
 227779	Hiver incessant
 
 ; Boss: Mana Devourer
+227457	Décharge d'énergie
 227618	Bombe des Arcanes
 227523	Vide d’énergie
 227502	Mana instable
@@ -434,64 +540,22 @@ destructor_tentacle	Destructor Tentacle
 
 ; Boss: Viz'aduum the Watcher
 229151	Désintégration
-229248y	Gangrerayon
-229159y	Ombres chaotiques
-229610	Portail démoniaque
-230084	Stabilisation de la faille
+229159	Ombres chaotiques
 229083	Explosion brûlante
+229284	Ordre : Bombardement
+229248	Gangrerayon
+229905	Récolte d’âmes
+230084	Stabilisation de la faille
+230066	Mucus des ombres
 
 
 ; -------------------------------------
-;    Zone: The Arcway
-; -------------------------------------
-
-; Boss: Trash
-211217	Tranchoir des Arcanes
-226206	Reconstitution des Arcanes
-211115	Brèche de phase
-210750	Effondrement de faille
-211745	Frappe gangrenée
-226285	Ascension démoniaque
-211632	Marque de la Légion
-211757	Portail : Argus
-
-; Boss: Corstilax
-195804	Quarantaine
-196068	Protocole de suppression
-196115	Force de purification
-220481	Orbe déstabilisé
-
-; Boss: Ivanyr
-196805	Lien du Néant
-196562	Magie volatile
-196392	Surcharge de mana
-
-; Boss: General Xakal
-197776	Fissure gangrenée
-197810	Choc pernicieux
-212030	Entaille de l’ombre
-dread_felbat	Dread Felbat
-
-; Boss: Nal'tira
--12687	Section 1
-200040	Venin du Néant
-200284	Toile enchevêtrée
-211543	Dévorer
-
-; Boss: Advisor Vandros
-203176	Déflagration accélérée
-202974	Bombe de force
-220871	Mana instable
-203882	Bannissement dans le temps
-
-
-; -------------------------------------
-;    Zone: The Seat of the Triumvirate
+; Zone: Seat of the Triumvirate
 ; -------------------------------------
 
 ; Boss: Trash
-249081y	Champ de suppression
-245510y	Vide corrupteur
+249081	Champ de suppression
+245510	Vide corrupteur
 249078	Diffusion du Vide
 248227	Matière noire
 
@@ -500,13 +564,13 @@ dread_felbat	Dread Felbat
 244579	Décimation
 244602	Vide amalgamé
 244433	Corruption ombreuse
-244653y	Fixer
+244653	Fixer
 244621	Déchirure du Vide
 
 ; Boss: Saprish
 245873	Piège du Vide
 247206	Surcharge de piège
-247245y	Ruées ombreuses
+247245	Ruées ombreuses
 245802	Ténèbres ravageuses
 248831	Hurlement d'effroi
 
@@ -528,7 +592,50 @@ dread_felbat	Dread Felbat
 
 
 ; -------------------------------------
-;    Zone: Vault of the Wardens
+; Zone: The Arcway
+; -------------------------------------
+
+; Boss: Trash
+211217	Tranchoir des Arcanes
+226206	Reconstitution des Arcanes
+211115	Brèche de phase
+210750	Effondrement de faille
+211745	Frappe gangrenée
+226285	Ascension démoniaque
+211632	Marque de la Légion
+211757	Portail : Argus
+
+; Boss: Ivanyr
+196805	Lien du Néant
+196562	Magie volatile
+196392	Surcharge de mana
+
+; Boss: Corstilax
+195804	Quarantaine
+196068	Protocole de suppression
+196115	Force de purification
+220481	Orbe déstabilisé
+
+; Boss: General Xakal
+197776	Fissure gangrenée
+197810	Choc pernicieux
+212030	Entaille de l’ombre
+
+; Boss: Nal'tira
+-12687	Section 1
+200040	Venin du Néant
+200284	Toile enchevêtrée
+211543	Dévorer
+
+; Boss: Advisor Vandros
+203176	Déflagration accélérée
+202974	Bombe de force
+220871	Mana instable
+203882	Bannissement dans le temps
+
+
+; -------------------------------------
+; Zone: Vault of the Wardens
 ; -------------------------------------
 
 ; Boss: Trash
@@ -562,18 +669,18 @@ dread_felbat	Dread Felbat
 199918	Déferlante d’ombre
 203685	Statufication
 
-; Boss: Glazer
-194945	Regard persistant
-194323	Focalisation
-202046	Rayon
-194333	Irradié
-
-; Boss: Ash'Golm
+; Boss: Ash'golm
 192522	Fissure
 192520	Volcan
 192517	Fragile
 192519	Lave
 -12727	Contre-mesures
+
+; Boss: Glazer
+194945	Regard persistant
+194323	Focalisation
+202046	Rayon
+194333	Irradié
 
 ; Boss: Cordana Felsong
 197333	Glaive gangrené
@@ -584,59 +691,3 @@ dread_felbat	Dread Felbat
 213583	Ombres croissantes
 
 
-; -------------------------------------
-;    Zone: Violet Hold
-; -------------------------------------
-
-; Boss: Trash
-204901	Sombre essaim
-204876	Destruction gangrenée
-204140	Bouclier d’yeux
-204608	Prison gangrenée
-205088	Flammes infernales
-
-; Boss: Mindflayer Kaahrj
-201148	Destin funeste
-201146	Hystérie
-201153	Ténèbres éternelles
-
-; Boss: Millificent Manastorm
-201159	Laser digital X-trême Delta
-201240	Bombe-écureuil en élémentium
-201392	Poulet-fusée en thorium
-201572	Rage de Millificent
-
-; Boss: Festerface
-201598	Vomissement gélifiant
-201729	Oh, oh…
-
-; Boss: Shivermaw
-201379	Souffle de givre
-201672	Tempête incessante
-201354	Coup de queue
-201355	Frappe des ailes
-202062	Vents algides
-201960	Bombe de glace
-
-; Boss: Anub'esset
-202217	Frappe de mandibule
-202341	Empaler
-201863	Appel de l’essaim
-202480	Fixé
-202485	Limon caustique
-
-; Boss: Sael'orn
-202414	Vaporisation de venin
-202306	Massacre rampant
-202473	Gangredétonation
-
-; Boss: Blood-Princess Thal'ena
-202779y	Essence de la princesse de sang
-203381	Appel de sang
-202947	Essaim de sang
-
-; Boss: Fel Lord Betrug
-203641	Entaille gangrenée
-202328	Impact puissant
-205233	Exécution
-210879	Graine de destruction

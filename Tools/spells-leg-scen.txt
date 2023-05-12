@@ -1,0 +1,62 @@
+; Type: Legion Scenario
+
+; -------------------------------------
+; Zone: Mage Tower
+; -------------------------------------
+
+; Boss: An Impossible Foe
+236161	Zone de peste
+243027	Bouclier de l'ombre
+243111	Fureur sombre
+242989	Transposition
+
+; Boss: Closing the Eye
+242015	Transfert
+234728	Annihilation des Arcanes
+231443	Barrage d’ombre
+231522	Extraire la puissance
+232672	Ombres rampantes
+233248	Graine de ténèbres
+
+; Boss: End of the Risen Threat
+235984	Piqûre de mana
+235833	Attaque arcanique éclair
+235823	Danse des couteaux
+236720	Assaut frénétique
+237188	Embrasement d'âme
+237191	Piétinement gangrené
+
+; Boss: Feltotem's Fall
+242733	Décharge gangrenée
+243224	Totem de vague gangrenée
+241687	Cri sonore
+238471	Écailles corrompues durcies
+
+; Boss: The God-Queen's Fury
+237945	Sang du père
+237730	Ailes sombres
+238694	Jeter une lance
+238691	Lance de vengeance
+237949	Savoir ancestral
+237914	Détonation de rune
+237947	Rage du berserker
+237857	Tempête de lames
+
+; Boss: The Highlord's Return
+240790	Tempête du Néant
+233473	Protection sacrée
+234423	Drain de vie
+234422	Aura décomposée
+234428	Invocation d'un œil tourmenteur
+234631	Choc
+236572	Annihilation
+234920	Balayage de l'ombre
+234673	Foule-Néant
+234676	Reflet tordu
+
+; Boss: Thwarting the Twins
+202081	Fixer
+235308	Purgatoire
+235578	Emprise de l'Au-delà
+
+

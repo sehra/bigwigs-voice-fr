@@ -1,14 +1,14 @@
 ; Type: Battle for Azeroth Dungeon
 
 ; -------------------------------------
-;    Zone: Atal'Dazar
+; Zone: Atal'Dazar
 ; -------------------------------------
 
 ; Boss: Trash
 255041	Hurlement terrifiant
 255567	Charge frénétique
 253721	Rempart de juju
-252781y	Maléfice instable
+252781	Maléfice instable
 256849	Puissance de dinosaure
 260666	Transfusion
 252687	Frappe croc-venin
@@ -31,11 +31,11 @@
 
 ; Boss: Rezan
 255371	Visage terrifiant
-257407y	Poursuite
+257407	Poursuite
 255434	Dents de scie
 
 ; Boss: Yazma
-249923	Déchiqueter l’âme
+259187	Déchiqueter l’âme
 250096	Douleur insupportable
 250050	Échos de Shadra
 250036	Restes ténébreux
@@ -43,7 +43,7 @@
 
 
 ; -------------------------------------
-;    Zone: Freehold
+; Zone: Freehold
 ; -------------------------------------
 
 ; Boss: Trash
@@ -52,10 +52,11 @@
 257397	Baume de soin
 258323	Blessure infectée
 258672	Grenade d’azérite
-257437	Frappe empoisonnante
+257436	Frappe empoisonnante
 274400	Fente de duelliste
 258777	Jet d’eau de mer
 272402	Jet à ricochets
+257784	Trait de givre
 257739	Rage aveugle
 257732	Beuglement fracassant
 274507	Mousse glissante
@@ -72,96 +73,60 @@
 
 ; Boss: Skycap'n Kragg
 255952	Charrrrrge
-272046	Bombardement en piqué
-256106	Tir de poudre d’azérite
-256060	Breuvage revitalisant
+256005	Bombardement répugnant
 256016	Vil enduit
+272046	Bombardement en piqué
+256060	Breuvage revitalisant
+256106	Tir de poudre d’azérite
 
 ; Boss: Council o' Captains
+256979	Tir de poudre
+258381	Tir de mitraille
+272902	Tirs à la chaîne
 258338	Tonneau du voile noir
 256589	Choc de tonneau
-258381	Tir de mitraille
+267522	Vague tranchante
+267533	Tourbillonnement de lames
+265088	Breuvage de Port-Liberté de confiance en soi
+264608	Breuvage de Port-Liberté vivifiant
+265168	Breuvage de Port-Liberté caustique
 
 ; Boss: Ring of Booty
 257829	Graisseux
 257904	Carapace rebondissante
 256405	Tornade de requins
 256358	Lancer de requin
+256552	Requin frénétique
 256489	Réarmer
+256363	Coup de poing éventreur
 
 ; Boss: Harlan Sweete
 257278	Sabre vent-vif
-257305y	Barrage au canon
+257305	Barrage au canon
+413136	Dague tourbillonnante
 257316	Halte là !
-257314y	Bombe de poudre noire
+257314	Bombe de poudre noire
 
 
 ; -------------------------------------
-;    Zone: Underrot
-; -------------------------------------
-
-; Boss: Trash
-265568y	Sombre présage
-265089	Sombre régénération
-265091	Don de G’huun
-265540	Bile pourrie
-265019	Enchaînement sauvage
-265081	Cri de guerre
-278961	Esprit déliquescent
-266107	Soif de sang
-266106	Hurlement sonore
-265668	Vague de putréfaction
-272183	Réanimation morbide
-266209	Frénésie pernicieuse
-265487	Salve de traits de l’ombre
-265433	Malédiction flétrissante
-265523	Invocation de totem de drain d’esprit
-272592	Emprise abyssale
-272609	Regard aliénant
-
-; Boss: Elder Leaxa
-260879	Trait de sang
-260894	Putréfaction insidieuse
-264603	Miroir de sang
-264757	Festin sanguin
-
-; Boss: Cragmaw the Infested
-260292	Charge
-260793	Indigestion
-260333	Crise de colère
-
-; Boss: Sporecaller Zancha
-259732	Récolte purulente
-259830	Pourriture infinie
-272457	Onde de choc
-259718y	Soulèvement
-273285	Bogues volatiles
-
-; Boss: Unbound Abomination
-269301	Sanie
-269843	Expulsion vile
-269310	Lumière purifiante
-
-
-; -------------------------------------
-;    Zone: Kings' Rest
+; Zone: Kings' Rest
 ; -------------------------------------
 
 ; Boss: Trash
 270003	Heurt de suppression
 270016	Inhibiteurs libérés
-;269936y	Fixate on you (duplicate)
+269936	Fixer
 269976	Fureur ancestrale
-269972	Salve de Traits de l’ombre
+269972	Salve de traits de l’ombre
 269931	Grain tranchant
-270928y	Tempête de lames
+270928	Tempête de lames
 270920	Séduction
 270891	Canalisation de foudre
 270084	Barrage de haches
 270901	Régénération induite
 270931	Tir sombre
 270503	Bond de prédateur
-270865y	Lame secrète
+270865	Lame secrète
 270872	Tourbillon de l’ombre
 270284	Rayon purificateur
 271564	Fluide d’embaumement
@@ -169,14 +134,14 @@
 270492	Maléfice
 270487	Lame sectionnante
 270482	Bond saignant
-healing_tide_totem	Totem de marée de soins
 270499	Horion de givre
 270507	Barrage de poison
+270506	Tir perçant
 270514	Sol écrasé
-271640y	Sombre révélation
+271640	Sombre révélation
 
 ; Boss: The Golden Serpent
-265773y	Crachat d’or
+265773	Crachat d’or
 265923	Appel du lucre
 265781	Bourrasque serpentine
 265910	Battement de queue
@@ -187,261 +152,23 @@ healing_tide_totem	Totem de marée de soins
 267702	Enfermer
 
 ; Boss: The Council of Tribes
-267273	Nova de poison
-267060	Appel des éléments
 266206	Haches tourbillonnantes
 266231	Hache tranchante
 266951	Débarouler
 266237	Revers débilitant
+267273	Nova de poison
+267060	Appel des éléments
 
 ; Boss: Dazar, The First King
 268586	Combo de lames
-268932y	Bond sismique
+268932	Bond sismique
 268403	Bourrasque tranchante
 269231	Bond de prédateur
 269369	Rugissement mortel
 
-; -------------------------------------
-;    Zone: Waycrest Manor
-; -------------------------------------
-
-; Boss: Trash
-265407	Cloche de dîner
-271174	Vomissure
-264456	Explosif autoguidé
-263943	Gravure
-263905	Enchaînement marquant
-263891	Épines avides
-264525	Piège à mitraille
-264520	Sectionnement du serpent
-265759	Pointe fracturée
-265760	Salve épineuse
-265741	Drain d’essence d’âme
-264050	Épine infectée
-264038	Déracinement
-264556	Frappe déchirante
-264150	Fracasser
-265352	Chancre de crapaud
-265346	Regard blafard
-263959	Salve d’âmes
-263961	Bougies de protection
-265368	Défense fougueuse
-264396	Talisman spectral
-264390	Sort-lié
-264105y	Marque runique
-265876	Volée ruineuse
-265880y	Marque de l’effroi
-265881	Toucher putréfié
-
-; Boss: Heartsbane Triad
-260805	Iris de focalisation
-260773	Rituel redoutable
-260741	Orties acérées
-260703y	Marque runique instable
-268086	Aura d’effroi
-260907	Manipulation d’âme
-
-; Boss: Soulbound Goliath
-260508	Écrasement
-260512	Récolte d’âmes
-260551	Épines de l’âme
-260541	Broussailles ardentes
-260569	Feu de brousse
-
-; Boss: Raal the Gluttonous
-264734	Tout consumer
-264931	Appel de serviteur
-265002	Consumer le serviteur
-264923	Attendrir
-264694	Expulsion putride
-
-; Boss: Lord and Lady Waycrest
-268306	Cadence discordante
-261438	Frappe terrassante
-261440y	Pathogène virulent
-261447	Vitalité putride
-
-; Boss: Gorak Tul
-266181	Essence d’effroi
-266266	Invocation d’esclavagiste touché par la mort
-266225	Foudre assombrie
-266198	Feu alchimique
-
 
 ; -------------------------------------
-;    Zone: Shrine of the Storm
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Aqu'sirr
-265001	Explosion marine
-264560	Eau salée asphyxiante
-264101	Charge déferlante
-264166	Ressac
-264903	Eaux en éruption
-
-; Boss: Tidesage Coucil
-267891	Espace de rapidité
-267818	Déflagration tranchante
-267905	Espace de renforcement
-267899	Enchaînement entravant
-
-; Boss: Lord Stormsong
-268347	Éclair de Vide
-269097	Éveil du Vide
-269131	Ancien torve-esprit
-
-; Boss: Vol'zith the Whisperer
-267037	Murmures de puissance
-269399	Porte béante
-267385	Frappe tentaculaire
-267360	Étreinte de la cité engloutie
-
-
-; -------------------------------------
-;    Zone: Siege of Boralus
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Chopper Redhook
-257459	Au crochet
-257348y	Crochet à viande
-257326	Fracas empalant
-257585	Barrage au canon
-273721	Munition lourde
-
-; Boss: Sergeant Bainbridge
-260954	Regard de fer
-261428	Corde de potence
-260924	Tempête d’acier
-;257585	Cannon Barrage (duplicate)
-277965	Munition lourde
-
-; Boss: Dread Captain Lockwood
-272471	Évasif
-269029	Faire place nette
-268752	Retrait
-268230	Balayage cramoisi
-268260	Bordée
-268963	Munition instable
-
-; Boss: Hadal Darkfathom
-261563	Marée déferlante
-257882	Brise-lames
-276068	Vague de marée
-
-; Boss: Viq'Goth
-275014y	Eaux putrides
-270185	Appel des profondeurs
-270605	Invocation d’un démolisseur
-269266	Heurtoir
-269366	Réparation
-
-
-; -------------------------------------
-;    Zone: Temple of Sethraliss
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Adderis and Aspix
-263246	Bouclier de foudre
-263371	Conduction
-263573	Frappe du cyclone
-
-; Boss: Merektha
-263912	Souffle nauséabond
-263927	Bassin toxique
-263914	Sable aveuglant
-264239	Éclosion
-264206	Fouir
-263958	Nœud de serpents
-
-; Boss: Galvazzt
-266923	Galvaniser
-266512	Consommer la charge
-
-; Boss: Avatar of Sethraliss
-269688	Pluie de crapauds
-273677	Infection
-268024	Impulsion
-269686	Peste
-
-
-; -------------------------------------
-;    Zone: MOTHERLODE
-; -------------------------------------
-
-; Boss: Trash
-
-; Boss: Coin-operated Crowd Pummeler
-269493	Lancement de bomballe
-256493	Azérite incandescente
-262347	Impulsion statique
-257337	Griffe de choc
-
-; Boss: Tik'ali
-257593	Appel d’enrageterre
-257582y	Regard enragé
-271698	Imprégnation d’azérite
-258622	Impulsion résonante
-
-; Boss: Rixxa Fluxflame
-270042	Catalyseur d’azérite
-259853	Brûlure chimique
-260669	Déflagration de propulseur
-
-; Boss: Mogul Razdunk
-260280	Mitrailleuse
-260829y	Projectile guidé
-271456	Coup de foreuse
-
-
-; -------------------------------------
-;    Zone: Tol Dagor
-; -------------------------------------
-
-; Boss: Trash
-258079	Mâchouille violente
-258128	Cri débilitant
-258153	Dôme d’eau
-258634	Allume-mèche
-258313	Menotte
-258864	Tir de suppression
-258917	Flammes vertueuses
-258935	Flammes intérieures
-
-; Boss: The Sand Queen
-257092	Piège de sable
-257495	Tempête de sable
-257608	Soulèvement
-257609	Enrager
-
-; Boss: Jes Howlis
-257785	Dagues expéditives
-257777	Couteau estropiant
-257791	Peur hurlante
-257793	Poudre de fumée
-257827	Cri de motivation
-
-; Boss: Knight Captain Valyri
-256970	Embrasement
-256955	Braiseflamme
-257028	Allume-mèche
-
-; Boss: Overseer Korgus
-256198	Munitions en azérite : incendiaires
-256199	Munitions en azérite : explosives
-256083	Double embrasement
-256101y	Explosion détonante
-256038	Fin tireur
-263345	Déflagration violente
-
-
-; -------------------------------------
-;    Zone: Operation: Mechagon
+; Zone: Operation: Mechagon
 ; -------------------------------------
 
 ; Boss: Trash
@@ -458,7 +185,7 @@ healing_tide_totem	Totem de marée de soins
 300171	Protocole de réparation
 299525	Grenade à ferraille
 299438	Marteau-pilon
-300188y	Canon à limaille
+300188	Canon à limaille
 300207	Bobine foudroyante
 300764	Boulon gélatineux
 300777	Vague de gelée
@@ -467,7 +194,7 @@ healing_tide_totem	Totem de marée de soins
 299588	Suralimenter
 300087	Réparation
 299475	K.A.S.S.
-284219y	Rapetisser
+284219	Rapetisser
 301667	Tir rapide
 301681	Charge
 299502	Nano-tranchoir
@@ -489,6 +216,7 @@ healing_tide_totem	Totem de marée de soins
 293930	Suralimenter
 293670	Tronçonneuse
 293683	Générateur de bouclier
+294180	Rebut enflammé
 
 ; Boss: King Gobbamak
 297254	Violent coup chargé
@@ -502,7 +230,7 @@ healing_tide_totem	Totem de marée de soins
 298259	Recouvert de substance visqueuse
 298212	Trait de vase
 
-; Boss: Trizie & Naeno
+; Boss: Trixie & Naeno
 299153	Turbo Boost
 302682	Méga zap
 298946	Accident de la route
@@ -518,31 +246,407 @@ healing_tide_totem	Totem de marée de soins
 301351	Relais de renfort
 296522	Autodestruction
 296080	Détraquée
+303885	Explosion fulminante
 
 ; Boss: Tussle Tonks
 282801	Placage en platine
 285020	Tranchant tourbillonnant
 285344	Poser une mine
-285152y	Retourneur d’adversaire
+285152	Retourneur d’adversaire
 285388	Jets d’écope
-283421y	Poussée maximum
+283422	Poussée maximum
 
 ; Boss: K.U.-J.0.
-291918	Largage aérien
+291930	Largage aérien
 291946	Expulsion de flammes
 291973	Bond explosif
 294929	Mâchoire ardente
 
 ; Boss: Machinist's Garden
-294853	Activation de la plante
 294855	Floraison explosive
 285440	Canon lance-flammes « caché »
 285454	Discom-BOMBE-ulateur
 
 ; Boss: King Mechagon
 291865	Recalibrage
-291928y	Giga-décharge
+291928	Giga-décharge
 291613	Décollage !
 291626	Rayon coupant
 283551	Magnéto-bras
 292290	Protocole : quatre-vingt-dix-neuf
+
+
+; -------------------------------------
+; Zone: Shrine of the Storm
+; -------------------------------------
+
+; Boss: Trash
+276268	Coup projeté
+267977	Vague de marée
+267981	Aura de défense
+268050	Ancre de lien
+276265	Rapidité
+268030	Rapides guérisseurs
+274437	Tempête
+268027	Marées hautes
+268177	Coup de vent
+268187	Grands vents
+268184	Espace de rapidité mineure
+274631	Bénédiction mineure de Côtefer
+274633	Coup destructeur
+276292	Heurtoir tourbillonnant
+268211	Espace de renforcement mineur
+268214	Découper la chair
+268239	Tempête naufrageuse
+268233	Choc électrisant
+268273	Choc benthique
+268309	Ténèbres sans fin
+276297	Graine du Vide
+268391	Assaut mental
+268375	Détection mentale
+268322	Toucher des noyés
+
+; Boss: Aqu'sirr
+265001	Explosion marine
+264560	Eau salée asphyxiante
+264101	Charge déferlante
+264166	Ressac
+264526	Étreinte des profondeurs
+
+; Boss: Tidesage Council
+267891	Espace de rapidité
+267818	Déflagration tranchante
+267830	Bénédiction de la tempête
+267905	Espace de renforcement
+267899	Enchaînement entravant
+267901	Bénédiction de Côtefer
+
+; Boss: Lord Stormsong
+268347	Éclair de Vide
+269097	Éveil du Vide
+269131	Ancien torve-esprit
+274714	Vide distordu
+268896	Lacération de l’esprit
+
+; Boss: Vol'zith the Whisperer
+267037	Murmures de puissance
+269399	Porte béante
+267385	Frappe tentaculaire
+267360	Étreinte de la cité engloutie
+
+
+; -------------------------------------
+; Zone: Siege of Boralus
+; -------------------------------------
+
+; Boss: Trash
+268260	Bordée
+272874	Piétiner
+275826	Cri galvanisant
+275835	Enduit de venin cuisant
+272421	Marquage d’artillerie
+257169	Rugissement terrifiant
+272711	Heurt écrasant
+272827	Bave visqueuse
+274569	Brume revitalisante
+272546	Saccage de bananes
+257170	Tempête sauvage
+256957	Enveloppe étanche
+256627	Heurtoir écumeux
+257288	Entaille profonde
+257641	Balle en fusion
+256897	Mâchoires compressantes
+256866	Embuscade de fer
+257036	Charge farouche
+256640	Goudron brûlant
+256673	Immolation
+
+; Boss: Chopper Redhook
+
+; Boss: Dread Captain Lockwood
+272471	Évasif
+269029	Faire place nette
+273470	Tir aux boyaux
+268752	Retrait
+268230	Balayage cramoisi
+;268260	Bordée
+268963	Munition instable
+
+; Boss: Hadal Darkfathom
+261563	Marée déferlante
+257882	Brise-lames
+276068	Vague de marée
+
+; Boss: Viq'Goth
+275014	Eaux putrides
+270185	Appel des profondeurs
+269366	Réparation
+269266	Heurtoir
+270590	Broyeur de coque
+
+
+; -------------------------------------
+; Zone: Temple of Sethraliss
+; -------------------------------------
+
+; Boss: Trash
+265968	Afflux de soins
+264574	Tir de puissance
+273563	Neurotoxine
+258908	Déluge de lames
+272659	Écailles électrifiées
+272657	Souffle nauséabond
+272700	Potion de soins supérieure
+267237	Drain
+273995	Déflagration pyrrhique
+265912	Accumulation de charge
+268008	Charmer le serpent
+
+; Boss: Adderis and Aspix
+263246	Bouclier de foudre
+263257	Horion statique
+263371	Conduction
+263424	Ruée arquée
+263309	Frappe du cyclone
+
+; Boss: Merektha
+263912	Souffle nauséabond
+263927	Bassin toxique
+263914	Sable aveuglant
+264239	Éclosion
+264206	Fouir
+263958	Nœud de serpents
+
+; Boss: Galvazzt
+266923	Galvaniser
+266512	Consommer la charge
+
+; Boss: Avatar of Sethraliss
+268024	Impulsion
+274149	Force vitale
+269688	Pluie de crapauds
+269686	Peste
+;268008	Charmer le serpent
+268007	Attaque cardiaque
+
+
+; -------------------------------------
+; Zone: The MOTHERLOAD!!
+; -------------------------------------
+
+; Boss: Trash
+268846	Lame échoïque
+268865	Canon de souffle
+269302	Lames toxiques
+267433	Activation du méca
+281621	Charge traumatisante
+268709	Bouclier de terre
+263202	Javelot de pierre
+268702	Secousse furieuse
+263215	Bouclier tectonique
+263066	Sérum de transfiguration
+263103	Chalumeau
+262540	Surcharge
+262554	Réparation
+262947	Injection d’azérite
+268797	Transmutation : ennemi en masse visqueuse
+269313	Bouquet final
+268362	Charge excavatrice
+280605	Gel mental
+280604	Vaporisation de glace
+268129	Kaja’Cola bien frais
+268415	Passer en force
+262092	Inhalation de vapeurs
+269090	Barrage d’artillerie
+263601	Mesures désespérées
+269429	Tir chargé
+262412	Bouclier d’énergie
+263628	Griffe chargée
+
+; Boss: Coin-Operated Crowd Pummeler
+269493	Lancement de bomballe
+256493	Azérite incandescente
+262347	Impulsion statique
+257337	Griffe de choc
+271784	Lancer de pièces
+271867	Payer pour gagner
+
+; Boss: Azerokk
+271698	Imprégnation d’azérite
+258622	Impulsion résonante
+257593	Appel d’enrageterre
+257582	Regard enragé
+275907	Frappe tectonique
+
+; Boss: Rixxa Fluxflame
+270028	Catalyseur d’azérite
+259853	Brûlure chimique
+260669	Déflagration de propulseur
+
+; Boss: Mogul Razdunk
+260280	Mitrailleuse
+260829	Projectile guidé
+276229	Micro-missiles
+271456	Coup de foreuse
+
+
+; -------------------------------------
+; Zone: The Underrot
+; -------------------------------------
+
+; Boss: Trash
+265568	Sombre présage
+265089	Sombre régénération
+265091	Don de G’huun
+265540	Bile pourrie
+265019	Enchaînement sauvage
+265081	Cri de guerre
+278961	Esprit déliquescent
+266107	Soif de sang
+266106	Hurlement sonore
+265668	Vague de putréfaction
+272183	Réanimation morbide
+266209	Frénésie pernicieuse
+413044	Échos sombres
+265487	Salve de traits de l’ombre
+265433	Malédiction flétrissante
+265523	Invocation de totem de drain d’esprit
+272592	Emprise abyssale
+272609	Regard aliénant
+
+; Boss: Elder Leaxa
+260879	Trait de sang
+260894	Putréfaction insidieuse
+264603	Miroir de sang
+264757	Festin sanguin
+
+; Boss: Cragmaw the Infested
+260292	Charge
+260793	Indigestion
+260333	Crise de colère
+
+; Boss: Sporecaller Zancha
+259732	Récolte purulente
+259830	Pourriture infinie
+272457	Onde de choc
+259718	Soulèvement
+273285	Bogues volatiles
+
+; Boss: Unbound Abomination
+269301	Sanie
+269843	Expulsion vile
+269310	Lumière purifiante
+
+
+; -------------------------------------
+; Zone: Tol Dagor
+; -------------------------------------
+
+; Boss: Trash
+258079	Mâchouille violente
+258128	Cri débilitant
+258153	Dôme d’eau
+258634	Allume-mèche
+258313	Menotte
+258864	Tir de suppression
+258917	Flammes vertueuses
+258935	Flammes intérieures
+
+; Boss: The Sand Queen
+257092	Piège de sable
+257495	Tempête de sable
+257608	Soulèvement
+257609	Enrager
+
+; Boss: Jes Howlis
+257791	Peur hurlante
+257785	Dagues expéditives
+257777	Couteau estropiant
+257793	Poudre de fumée
+257827	Cri de motivation
+260067	Mutilation vicieuse
+
+; Boss: Knight Captain Valyri
+256970	Embrasement
+256955	Braiseflamme
+257028	Allume-mèche
+
+; Boss: Overseer Korgus
+256198	Munitions en azérite : incendiaires
+256199	Munitions en azérite : explosives
+256083	Double embrasement
+256105	Explosion détonante
+256038	Fin tireur
+263345	Déflagration violente
+
+
+; -------------------------------------
+; Zone: Waycrest Manor
+; -------------------------------------
+
+; Boss: Trash
+265407	Cloche de dîner
+271174	Vomissure
+264456	Explosif autoguidé
+263943	Gravure
+263905	Enchaînement marquant
+263891	Épines avides
+264525	Piège à mitraille
+264520	Sectionnement du serpent
+265759	Pointe fracturée
+265760	Salve épineuse
+265741	Drain d’essence d’âme
+264050	Épine infectée
+278474	Reconstruction d’effigie
+264038	Déracinement
+264556	Frappe déchirante
+264150	Fracasser
+265352	Chancre de crapaud
+265346	Regard blafard
+263959	Salve d’âmes
+263961	Bougies de protection
+265368	Défense fougueuse
+264396	Talisman spectral
+264390	Sort-lié
+264105	Marque runique
+265876	Volée ruineuse
+265880	Marque de l’effroi
+265881	Toucher putréfié
+
+; Boss: Heartsbane Triad
+260805	Iris de focalisation
+260773	Rituel redoutable
+260907	Manipulation d’âme
+260703	Marque runique instable
+268086	Aura d’effroi
+260741	Orties acérées
+
+; Boss: Soulbound Goliath
+260508	Écrasement
+260512	Récolte d’âmes
+267907	Épines de l’âme
+260541	Broussailles ardentes
+260569	Feu de brousse
+
+; Boss: Raal the Gluttonous
+264734	Tout consumer
+264931	Appel de serviteur
+265005	Consumer un serviteur
+264923	Attendrir
+264694	Expulsion putride
+
+; Boss: Lord and Lady Waycrest
+268306	Cadence discordante
+268278	Accord insupportable
+261438	Frappe terrassante
+261440	Pathogène virulent
+261447	Vitalité putride
+
+; Boss: Gorak Tul
+266181	Essence d’effroi
+266266	Invocation d’esclavagiste touché par la mort
+266225	Foudre assombrie
+266198	Feu alchimique
+268202	Lentille mortelle
+
+

@@ -1,11 +1,40 @@
 ; Type: Dragonflight Raid
 
 ; -------------------------------------
-;	Zone: Vault of the Incarnates
+; Zone: Dragon Isles
+; -------------------------------------
+
+; Boss: Strunraan, The Sky's Misery
+383496	Orage renforcé
+387199	Tempête de Strunraan
+387265	Surcharge
+387216	Choc aquatique
+385980	Vortex de tonnerre
+389951	Expulsion en arc
+
+; Boss: Basrikron, The Shale Wing
+386259	Impact fracassant
+386059	Éveil des roches
+385270	Secousse fracturante
+385137	Souffle de schiste
+
+; Boss: Bazual, The Dreaded Flame
+389514	Souffle de lave
+389725	Éruption de magma
+389431	Flamme dissuasive
+391247	Imprégnation de flammes
+390635	Pluie de destruction
+
+; Boss: Liskanoth, The Futurebane
+391026	Congélation
+389960	Glace liante
+
+
+; -------------------------------------
+; Zone: Vault of the Incarnates
 ; -------------------------------------
 
 ; Boss: Trash
-; TODO
 
 ; Boss: Eranog
 390715	Faille enflammée
@@ -61,7 +90,7 @@
 
 ; Boss: Dathea, Ascended
 387849	Tempête coalescente
-387943	Essence détournée
+397431	Essence détournée
 385812	Entaille aérienne
 395501	Renvoi
 384273	Éclair de tempête
@@ -80,6 +109,7 @@
 382563	Explosion de magma
 373329	Rupture en fusion
 374023	Carnage incendiaire
+374554	Flaque de magma
 373678	Frisson mordant
 391019	Torrent glacé
 372458	Zéro absolu
@@ -93,18 +123,22 @@
 374427	Éclatement du sol
 374430	Soulèvement violent
 374623	Liens glaciaux
-374622	Tempête voyageuse
 374624	Tempête givrante
+374622	Tempête voyageuse
 391696	Courant mortel
 396241	Communion primordiale
 400473	Rage élémentaire
-393309	Châtiment des flammes
+393314	Éradicateur de flammes forgées
 394416	Brasier infernal
-393296	Châtiment du givre
+393309	Châtiment des flammes
+393295	Dominateur forge-glace
 391425	Tempête de glace
+393296	Châtiment du givre
+392098	Pilonneur forge-fer
 391268	Châtiment de la terre
-393429	Châtiment de l’orage
+393459	Spoliateur forgené
 394719	Foudre en boule
+393429	Châtiment de l’orage
 
 ; Boss: Broodkeeper Diurna
 375809	Lien de la garde-couvée
@@ -130,11 +164,12 @@
 392194	Grand bâton renforcé
 380483	Courroux du grand bâton renforcé
 388918	Voile gelé
+396779	Fissure de la tempête
 396269	Coup rocailleux mortel
 396266	Souffrance mortelle
 396264	Coup rocailleux explosif
 
-; Boss: Raszageth the Storm Eater
+; Boss: Raszageth the Storm-Eater
 377612	Aile ouragan
 381615	Charge statique
 388643	Courant instable
@@ -160,6 +195,160 @@
 395929	Rancune de la tempête
 399713	Charge magnétique
 386410	Explosion tonitruante
-391285	Armure fondue
+391285	Armure foudroyée
 394584	Inversion
 395885	Mange-tempêtes
+
+
+; -------------------------------------
+; Zone: Aberrus, the Shadowed Crucible
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Kazzara, the Hellforged
+401319	Carnage d’acier infernal
+407196	Failles effroyables
+406530	Brûlure de faille
+407069	Rayons d’angoisse
+402421	Balafre en fusion
+400430	Rayon infernal
+403326	Ailes de destruction
+404743	Griffes terrifiantes
+
+; Boss: The Amalgamation Chamber
+401809	Ombre corruptrice
+403459	Vide amalgamé
+405036	Détonation ombreuse
+405084	Ombre rémanente
+407640	Convergence des ombres
+403699	Pointe d’ombre
+402617	Chaleur ardente
+404732	Météorite ardente
+403101	Éruption de magma
+404896	Flamme tourbillonnante
+403203	Entaille de flammes
+405394	Contamination d’ombreflamme
+405437	Déflagration obscure
+405642	Crépuscule incendiaire
+405645	Chaleur enveloppante
+408193	Éruption convergente
+405914	Vulnérabilité faiblissante
+406783	Explosion d’ombreflamme
+409385	Ombre et flamme
+
+; Boss: The Forgotten Experiments
+406311	Frappes imprégnées
+407302	Explosion imprégnée
+406358	Charge tranchante
+404472	Heurt massif
+404713	Rugissement puissant
+407327	Essence instable
+405492	Crachat explosif
+405375	Violente éruption
+406227	Souffle profond
+407552	Anomalie temporelle
+405392	Désintégration
+
+; Boss: Assault of the Zaqali
+404382	Soutien des Zaqalis
+404687	Retour de flammes de barrière
+408959	Bond dévastateur
+401258	Casse-tête lourd
+397383	Barrière de la fournaise
+409275	Coulée de magma
+397386	Trait de lave
+401401	Lance embrasée
+408620	Rugissement brûlant
+401867	Bouclier volcanique
+401108	Assaut de phénix
+401381	Concentration enflammée
+407017	Bourrasque vigoureuse
+406585	Fureur d’Ignara
+410516	Frappe catastrophique
+410351	Casse-tête enflammé
+
+; Boss: Rashok, the Elder
+410070	Déferlement d’ombreflamme
+410075	Énergie d’Ombreflamme
+405316	Fureur des anciens
+405821	Heurt incendiaire
+403543	Vague de lave
+406851	Flammes funestes
+406333	Explosion d’ombrelave
+400777	Violent coup chargé
+407641	Courroux de Djaruun
+407547	Entaille enflammée
+407597	Broyage terrestre
+401419	Conduit de l’Ancien
+405091	Rune fumante
+
+; Boss: The Vigilant Steward, Zskarn
+409942	Protocole d’élimination
+405736	Pièges de feu draconique
+405812	Animation de golems
+405592	Pièces détachées
+406678	Destruction tactique
+406725	Bombe à fragmentation
+404010	Braises instables
+403978	Vague explosive
+404942	Griffes incendiaires
+
+; Boss: Magmorax
+408358	Éruption catastrophique
+402994	Molten Spittle
+408839	Chaleur ardente
+407879	Colère ardente
+403740	Rugissement incendiaire
+403671	Piétinement surpuissant
+409093	Souffle ardent
+404846	Gueules incendiaires
+406712	Lave
+411633	Chaînes ardentes
+411182	Magma explosif
+
+; Boss: Echo of Neltharion
+410953	Cœur volcanique
+407221	Ténèbres fulgurantes
+401998	Frappe calamiteuse
+402902	Terre corrompue
+402115	Fissure résonnante
+403057	Abandon à la corruption
+401010	Corruption
+405433	Annihilation ombreuse
+407790	Ombre fracturée
+403049	Barrière d’ombre
+407936	Réalité fracturée
+407919	Réalité fracturée
+407917	Destruction d’ébène
+
+; Boss: Scalecommander Sarkareth
+401951	Oubli
+401215	Vide interstellaire
+403997	Fragment d’esprit
+407576	Embrasement astral
+410625	Existence terminée
+401383	Hurlement oppressant
+401810	Intensification scintillante
+401500	Bombe brûlante
+406989	Sol brûlant
+401680	Désintégration de masse
+402050	Souffle incendiaire
+401330	Griffes brûlantes
+401340	Explosion enflammée
+404027	Bombe de Vide
+404218	Fracture du Vide
+404456	Souffle abyssal
+404754	Hurlement détonant
+404403	Fleur de désolation
+404288	Pression infinie
+411241	Griffes du Vide
+411238	Trait de Vide
+403771	Ascension cosmique
+405486	Barrage rapide
+403625	Éternité décapante
+403520	Étreinte du néant
+408429	Entaille du Vide
+408457	Trait de Vide
+
+
