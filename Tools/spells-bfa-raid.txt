@@ -328,14 +328,14 @@
 285416	Déferlante du Vide
 285376	Yeux de N’Zoth
 285345	Yeux de N’Zoth plongeant dans la folie
-285453	Don de N’Zoth : obscurité
+285453	Don de N’Zoth : obscurité
 285820	Appel de gardien immortel
-285638	Don de N’Zoth : hystérie
+285638	Don de N’Zoth : hystérie
 -19118	Torve-esprit primordial
 285427	Consommer l’essence
 285562	Terreur inexplicable
 285652	Tourment insatiable
-285685	Don de N’Zoth : démence
+285685	Don de N’Zoth : démence
 293653	Résonance instable
 285307	Nourrir
 
@@ -349,9 +349,9 @@
 ; Boss: Abyssal Commander Sivara
 294726	Marques chimériques
 295332	Réverbération écrasante
--20300	Section 22
+-20300	Section 22
 296551	Barrage accablant
--20006	Section 9
+-20006	Section 9
 295601	Traits gelés et empoisonnés
 295791	Inversion
 
@@ -383,7 +383,7 @@
 298056	Giclée
 296725	Frappe des balanes
 296752	Corail tranchant
--20096	Section 14
+-20096	Section 14
 
 ; Boss: Orgozoa
 298156	Piqûre insensibilisante

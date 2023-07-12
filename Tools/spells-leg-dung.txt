@@ -264,7 +264,7 @@
 196127	Projection de sable
 195284	Ressac
 196027	Geyser aquatique
-197105	Métamorphose : poisson
+197105	Métamorphose : poisson
 
 ; Boss: Warlord Parjesh
 192094	Lance perforante
@@ -405,7 +405,9 @@
 ; -------------------------------------
 
 ; Boss: Trash
+183407	Éclaboussure d’acide
 183465	Bile visqueuse
+226388	Limon rance
 202181	Regard de pierre
 226296	Éclats perforants
 193505	Fracture
@@ -418,14 +420,17 @@
 183548	Appel de ver
 193803	Métamorphose
 183539	Langue barbelée
+188587	Peau-de-charbon
+200154	Haine ardente
 193585	Lié
 226406	Balayage de braise
 201983	Frénésie
 
 ; Boss: Rokmora
-188169	Éclats tranchants
 188114	Fracasser
 192800	Poussière asphyxiante
+188169	Éclats tranchants
+198024	Sol cristallin
 
 ; Boss: Ularogg Cragshaper
 198564	Posture de la montagne
@@ -448,7 +453,7 @@
 200404	Vague de magma
 200551	Pointes de cristal
 216407	Geyser de lave
-200154	Haine ardente
+;200154	Haine ardente
 200672	Cristal fissuré
 
 
@@ -474,7 +479,7 @@
 227477	Invocation d'assistants
 227447	Défi à la gravité
 227410	Sublime éclat
-227776	Fantasmagique !
+227776	Fantasmagique !
 
 ; Boss: Opera Hall: Westfall Story
 227568	Coup de pied ardent
@@ -486,9 +491,9 @@
 228025	Vague de chaleur
 228019	Restes
 228221	Époussetage brutal
-228225	Chaud devant !
+228225	Chaud devant !
 227985	Cabossage d’armure
-227987	Cloche de dîner !
+227987	Cloche de dîner !
 232153	Kara Kazham !
 
 ; Boss: Maiden of Virtue
@@ -542,7 +547,7 @@
 229151	Désintégration
 229159	Ombres chaotiques
 229083	Explosion brûlante
-229284	Ordre : Bombardement
+229284	Ordre : Bombardement
 229248	Gangrerayon
 229905	Récolte d’âmes
 230084	Stabilisation de la faille
@@ -603,7 +608,7 @@
 211745	Frappe gangrenée
 226285	Ascension démoniaque
 211632	Marque de la Légion
-211757	Portail : Argus
+211757	Portail : Argus
 
 ; Boss: Ivanyr
 196805	Lien du Néant

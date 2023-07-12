@@ -6,7 +6,7 @@
 
 ; Boss: Trash
 163966	Activation
-164192	50 000 volts
+164192	50 000 volts
 164168	Célérité
 166675	Pétoire à mitraille
 176032	Langue de feu
@@ -23,7 +23,7 @@
 163947	Récupérer
 162171	Meilleure position
 162500	Eliminateur de cible VX18-B
-161091	Nouveau plan !
+161091	Nouveau plan !
 161090	Course effrénée
 162617	Heurtoir
 161092	Agressivité débridée
@@ -101,7 +101,7 @@
 
 ; Boss: Trash
 152818	Guérison de l’ombre
-152819	Mot de l’ombre : Fragilité
+152819	Mot de l’ombre : Fragilité
 164907	Entaille du Vide
 152964	Impulsion de vide
 394512	Éruptions du Vide

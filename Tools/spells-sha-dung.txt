@@ -32,7 +32,7 @@
 ; Boss: The Manastorms
 320787	Invocation de cristal de puissance
 323877	Laser digital X-trême Echo
-320141	Damnation diabolique !
+320141	Damnation diabolique !
 320823	Bombe-écureuil expérimentale
 320132	Furie de l’ombre
 321061	Barrage aérien de poulet-fusée
@@ -390,7 +390,7 @@
 ; Boss: Timecap'n Hooktail
 347149	Souffle infini
 347151	Coup de crochet
-354334	Embroché !
+354334	Embroché !
 352345	Tir d’ancre
 347371	Tir de mitraille
 350517	Chronodoublement

@@ -216,7 +216,7 @@
 326851	Prix du sang
 327039	Festin
 327796	Chasseur nocturne
-327227	Ordre : Ravage
+327227	Ordre : Ravage
 327122	Ravage
 327992	Désolation
 328276	Marche du pénitent
@@ -227,13 +227,13 @@
 335873	Rancune
 329181	Douleur insupportable
 333932	Main de la destruction
-330042	Ordre : Massacre
+330042	Ordre : Massacre
 332585	Dédain
 332619	Souffrance destructrice
 332794	Finesse fatale
 336008	Courroux fumant
-332849	Reflet : Ravage
-333980	Reflet : Massacre
+332849	Reflet : Ravage
+333980	Reflet : Massacre
 344776	Gémissement vengeur
 338738	À travers le miroir
 333979	Reflet sinistre
@@ -254,9 +254,9 @@
 347286	Effroi lancinant
 347679	Brume affamée
 352368	Vestiges de tourments oubliés
-352382	Vestige : Puissance des étages supérieurs
-352389	Vestige : Échos de Mort’regar
-352398	Vestige : Chaleur de la forge des Âmes
+352382	Vestige : Puissance des étages supérieurs
+352389	Vestige : Échos de Mort’regar
+352398	Vestige : Chaleur de la forge des Âmes
 347668	Emprise de la mort
 347490	Fureur des âges
 347369	Regard du Geôlier
@@ -524,7 +524,7 @@
 365295	Barrière souillée
 365021	Étoile malfaisante
 361815	Brisespoir
-366849	Mot de domination : Douleur
+366849	Mot de domination : Douleur
 364248	Sombre zèle
 362771	Faucheur d’âme
 362862	Armée des morts

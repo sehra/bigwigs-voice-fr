@@ -44,7 +44,7 @@
 396721	Abondance
 
 ; Boss: Crawth
-377182	Engagement !
+377182	Engagement !
 389481	But du brasier incandescent
 376448	Tempête de feu
 389483	But des vents impétueux
@@ -74,12 +74,16 @@
 367500	Ricanement ignoble
 382555	Tempête de rage
 372711	Imprégnation corruptrice
+384854	Coup de poisson !
+384847	Pêche du jour
+374245	Crique pourrissante
 373897	Racines pourrissantes
 373943	Piétinement
 382712	Souffle nécrotique
 374057	Invocation d’un totem
 374544	Décharge de décomposition
 374569	Jaillissement
+372141	Flétrissement !
 373929	Sonner
 388060	Haleine puante
 388046	Tourbillon violent
@@ -107,6 +111,7 @@
 376811	Jet de putréfaction
 377859	Crachat infectieux
 377559	Fouet en liane
+378054	Flétrissement !
 383875	Digestion partielle
 390968	Frénésie affamée
 
@@ -116,6 +121,7 @@
 384416	Lancer de viande
 384633	Appel du maître
 384353	Tir aux boyaux
+384577	Morsure affaiblissante
 
 ; Boss: Decatriarch Wratheye
 373960	Débilitation
@@ -131,7 +137,6 @@
 ; Boss: Trash
 391241	Immortalité limitée
 391471	Spores purifiantes
-374080	Bourrasque explosive
 374073	Heurt sismique
 374045	Expulsion
 374339	Cri démoralisant
@@ -147,12 +152,8 @@
 375384	Terre grondante
 385141	Orage
 376171	Courants rafraîchissants
-375348	Souffle tumultueux
-391610	Chaînes de vent
 375351	Souffle océanique
 391634	Froid absolu
-375327	Souffle tectonique
-391613	Moisissure rampante
 377341	Divergence des marées
 377402	Barrière aqueuse
 390290	Crue subite
@@ -192,22 +193,28 @@
 ; -------------------------------------
 
 ; Boss: Trash
+374451	Chaîne ardente
 382708	Défense volcanique
 384597	Entaille incandescente
 372561	Lance de lien
 395427	Rugissement brûlant
 376186	Broyage éruptif
+372461	Magma imprégné
 372311	Poing de magma
 372223	Argile réparatrice
 372201	Souffle de brûlure
 384161	Granule de combustion
+372225	Hache en os de Dragon
 379406	Jet de lave
 372296	Batterie déflagrante
 373084	Fusillade brûlante
+372971	Heurt retentissant
 376200	Détonation brûlante
 378827	Décoction explosive
 378282	Cœur du Magma
+378818	Déflagration de magma
 381663	Tempête incandescente
+382791	Barrière de la fournaise
 383651	Armée de la fournaise
 
 ; Boss: Chargath, Bane of Scales
@@ -229,6 +236,7 @@
 375068	Lancer de magma
 375251	Projection de lave
 375439	Charge flamboyante
+375535	Vague de lave
 391457	Renforcement de lave
 
 ; Boss: Warlord Sargha
@@ -410,11 +418,16 @@
 386104	Tome perdu de Tyr
 375500	Verrouillage du temps
 369811	Coup brutal
+369675	Chaîne d’éclairs
 369823	Carapace épineuse
+377732	Morsure dentelée
+377738	Puissance des anciens
+377724	Vulnérabilité systémique
+369409	Enchaînement
+369465	Déluge de pierres
 369400	Protection terrestre
 369365	Malédiction de pierre
 369366	En proie à la pierre
-369465	Déluge de pierres
 369335	Heurt fissurant
 369337	Terrain accidenté
 369328	Séisme
@@ -429,7 +442,7 @@
 369791	Brise-crâne
 369677	Bouclier à ricochets
 369602	Rempart défensif
-375924	Attaque de chaloupe !
+375924	Attaque de chaloupe !
 375286	Tir de canon incendiaire
 
 ; Boss: Bromach
@@ -437,7 +450,7 @@
 369700	Totem sismique
 369754	Furie sanguinaire
 369703	Heurt tonitruant
-369675	Chaîne d’éclairs
+;369675	Chaîne d’éclairs
 369660	Secousse
 
 ; Boss: Sentinel Talondras
@@ -459,5 +472,104 @@
 376049	Frappe des ailes
 377405	Puits temporel
 375727	Souffle de sable
+
+
+; -------------------------------------
+; Zone: Dawn of The Infinite
+; -------------------------------------
+
+; Boss: Trash
+411994	Chrono-fonte
+412012	Entaille cadencée
+412063	Déchirure temporelle
+415769	Chrono-jaillissement
+415770	Salve de traits infinis
+415773	Détonation temporelle
+415437	Amollir
+413529	Détortiller
+413544	Floraison
+413621	Malédiction intemporelle
+413622	Fureur infinie
+412806	Crachement de chancre
+413607	Volée corrodante
+412215	Tempête de sable enveloppante
+412922	Emprise aveuglante
+412129	Orbe de contemplation
+412136	Frappe temporelle
+413024	Rempart titanesque
+417481	Déplacement de chronoséquence
+419351	Expiration de bronze
+418200	Brûlure infinie
+419516	Éruption chronologique
+419511	Lien temporel
+407535	Déployer les sapeurs gobelins
+407205	Mortier instable
+407891	Vague de soins
+407124	Appel de ralliement
+407125	Plaquage fracassant
+412378	Sables vertigineux
+
+; Boss: Chronikar
+413105	Éon fracassé
+413013	Chrono-lacération
+401421	Piétinement de sable
+
+; Boss: Manifested Timeways
+405696	Chrono-effacé
+405431	Fragments du temps
+414303	Dérouler
+414307	Radieux
+
+; Boss: Blight of Galakrond
+406886	Imprégnation corrosive
+407406	Corrosion
+418346	Psyché corrompue
+407159	Reconquête du chancre
+407147	Suintement de chancre
+407978	Vents nécrotiques
+408029	Nécrogivre
+408141	Chancresouffle incinérant
+
+; Boss: Iridikron the Stonescaled
+409261	Explosion extinctrice
+414535	Barrage craquepierre
+409456	Afflux de terre
+409635	Expiration pulvérisante
+414184	Oblitération cataclysmique
+
+; Boss: Tyr, the Infinite Keeper
+401248	Coup titanesque
+401482	Annihilation infinie
+400641	Frappe diviseuse
+408183	Renforcement titanesque
+400681	Etincelle de Tyr
+400642	Siphon de pierre de vœu
+406543	Temps volé
+
+; Boss: Morchie
+404916	Explosion de sable
+403891	Encore des problèmes !
+404364	Souffle du dragon
+405279	Des visages familiers
+406481	Pièges temporel
+401667	Stase temporelle
+
+; Boss: Time-Lost Battlefield
+410234	Tempête de lames
+418059	Frappes mortelles
+418054	Onde de choc
+418047	POUR L’ALLIANCE !
+418062	Cri de bataille
+410254	Décapitation
+408227	Onde de choc
+418046	POUR LA HORDE !
+410496	Cri de guerre
+
+; Boss: Chrono-Lord Deios
+416152	Invocation d’un gardien infini
+412027	Brûlure chronologique
+410904	Orbe d’infinité
+416139	Souffle temporel
+416264	Corruption infinie
 
 

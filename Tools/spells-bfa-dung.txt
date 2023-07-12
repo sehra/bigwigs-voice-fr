@@ -104,7 +104,7 @@
 257278	Sabre vent-vif
 257305	Barrage au canon
 413136	Dague tourbillonnante
-257316	Halte là !
+257316	Halte là !
 257314	Bombe de poudre noire
 
 
@@ -236,7 +236,7 @@
 298946	Accident de la route
 298940	Explose-boulon
 298571	Brûlure soudaine
-298898	C’est parti !
+298898	C’est parti !
 298651	Pied au plancher
 
 ; Boss: HK-8 Aerial Oppression Unit
@@ -264,16 +264,16 @@
 
 ; Boss: Machinist's Garden
 294855	Floraison explosive
-285440	Canon lance-flammes « caché »
+285440	Canon lance-flammes « caché »
 285454	Discom-BOMBE-ulateur
 
 ; Boss: King Mechagon
 291865	Recalibrage
 291928	Giga-décharge
-291613	Décollage !
+291613	Décollage !
 291626	Rayon coupant
 283551	Magnéto-bras
-292290	Protocole : quatre-vingt-dix-neuf
+292290	Protocole : quatre-vingt-dix-neuf
 
 
 ; -------------------------------------
@@ -449,7 +449,7 @@
 262540	Surcharge
 262554	Réparation
 262947	Injection d’azérite
-268797	Transmutation : ennemi en masse visqueuse
+268797	Transmutation : ennemi en masse visqueuse
 269313	Bouquet final
 268362	Charge excavatrice
 280605	Gel mental
@@ -496,17 +496,21 @@
 
 ; Boss: Trash
 265568	Sombre présage
+278755	Désespoir poignant
 265089	Sombre régénération
 265091	Don de G’huun
 265540	Bile pourrie
+265016	Récolte sanglante
 265019	Enchaînement sauvage
 265081	Cri de guerre
+265377	Crochet piégé
 278961	Esprit déliquescent
 266107	Soif de sang
 266106	Hurlement sonore
 265668	Vague de putréfaction
 272183	Réanimation morbide
 266209	Frénésie pernicieuse
+266265	Étreinte malveillante
 413044	Échos sombres
 265487	Salve de traits de l’ombre
 265433	Malédiction flétrissante
@@ -572,8 +576,8 @@
 257028	Allume-mèche
 
 ; Boss: Overseer Korgus
-256198	Munitions en azérite : incendiaires
-256199	Munitions en azérite : explosives
+256198	Munitions en azérite : incendiaires
+256199	Munitions en azérite : explosives
 256083	Double embrasement
 256105	Explosion détonante
 256038	Fin tireur

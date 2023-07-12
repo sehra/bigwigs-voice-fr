@@ -205,6 +205,17 @@
 ; -------------------------------------
 
 ; Boss: Trash
+408975	Danse d’acier
+406282	Explosion onirique
+406210	Fleur de soins
+408811	En formation
+411439	Frappe fracturante
+406399	Zone de puissance d’azur
+411900	Liquide obscur
+411905	Bouillonnement incendiaire
+411892	Bile visqueuse
+411808	Éjection de limon
+412498	Flaque stagnante
 
 ; Boss: Kazzara, the Hellforged
 401319	Carnage d’acier infernal
@@ -263,14 +274,12 @@
 401867	Bouclier volcanique
 401108	Assaut de phénix
 401381	Concentration enflammée
-407017	Bourrasque vigoureuse
+407009	Bourrasque vigoureuse
 406585	Fureur d’Ignara
 410516	Frappe catastrophique
 410351	Casse-tête enflammé
 
 ; Boss: Rashok, the Elder
-410070	Déferlement d’ombreflamme
-410075	Énergie d’Ombreflamme
 405316	Fureur des anciens
 405821	Heurt incendiaire
 403543	Vague de lave
@@ -282,9 +291,10 @@
 407597	Broyage terrestre
 401419	Conduit de l’Ancien
 405091	Rune fumante
+410070	Déferlement d’ombreflamme
+410075	Énergie d’Ombreflamme
 
 ; Boss: The Vigilant Steward, Zskarn
-409942	Protocole d’élimination
 405736	Pièges de feu draconique
 405812	Animation de golems
 405592	Pièces détachées
@@ -293,10 +303,11 @@
 404010	Braises instables
 403978	Vague explosive
 404942	Griffes incendiaires
+409942	Protocole d’élimination
 
 ; Boss: Magmorax
 408358	Éruption catastrophique
-402994	Molten Spittle
+402994	Bave de magma
 408839	Chaleur ardente
 407879	Colère ardente
 403740	Rugissement incendiaire
@@ -315,6 +326,7 @@
 402115	Fissure résonnante
 403057	Abandon à la corruption
 401010	Corruption
+407036	Cachées dans le Vide
 405433	Annihilation ombreuse
 407790	Ombre fracturée
 403049	Barrière d’ombre
@@ -331,6 +343,7 @@
 401383	Hurlement oppressant
 401810	Intensification scintillante
 401500	Bombe brûlante
+402746	Braises mouvantes
 406989	Sol brûlant
 401680	Désintégration de masse
 402050	Souffle incendiaire
@@ -344,11 +357,14 @@
 404288	Pression infinie
 411241	Griffes du Vide
 411238	Trait de Vide
-403771	Ascension cosmique
+406428	Particules d’oubli
+403741	Ascension cosmique
 405486	Barrage rapide
 403625	Éternité décapante
 403520	Étreinte du néant
 408429	Entaille du Vide
 408457	Trait de Vide
+404269	Puissance d’ébène
+404769	Frappe vide
 
 
