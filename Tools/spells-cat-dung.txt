@@ -42,7 +42,7 @@
 86911	Champ d'immobilisation instable
 86930	Suprématie de l'orage
 87622	Chaîne d'éclairs
--2434	Etoile tombe-ciel
+413264	Nova tombe-ciel
 87618	Adhérence statique
 
 

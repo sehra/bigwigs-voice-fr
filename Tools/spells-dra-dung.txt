@@ -504,7 +504,9 @@
 419511	Lien temporel
 407535	Déployer les sapeurs gobelins
 407205	Mortier instable
+418684	Déployer les bombardiers nains
 407891	Vague de soins
+417011	Lumière sacrée
 407124	Appel de ralliement
 407125	Plaquage fracassant
 412378	Sables vertigineux

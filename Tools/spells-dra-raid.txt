@@ -206,7 +206,7 @@
 
 ; Boss: Trash
 408975	Danse d’acier
-406282	Explosion onirique
+418113	Explosion onirique
 406210	Fleur de soins
 408811	En formation
 411439	Frappe fracturante
