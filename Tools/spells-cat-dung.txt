@@ -46,3 +46,31 @@
 87618	Adhérence statique
 
 
+; -------------------------------------
+; Zone: Throne of the Tides
+; -------------------------------------
+
+; Boss: Trash
+76820	Maléfice
+76813	Vague de soins
+75992	Explosion de foudre
+76590	Frappe des ombres
+76634	Houle
+
+; Boss: Lady Naz'jar
+75683	Marée haute
+
+; Boss: Commander Ulthok, the Festering Prince
+76047	Fissure sombre
+76026	Écrasement
+76094	Malédiction de fatigue
+76100	Enrager
+
+; Boss: Mindbender Ghur'sha
+76207	Asservir
+76307	Absorption de magie
+76230	Brouillard de l'esprit
+
+; Boss: Ozumat
+
+

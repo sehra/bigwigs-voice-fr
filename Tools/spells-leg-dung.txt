@@ -63,23 +63,30 @@
 ; -------------------------------------
 
 ; Boss: Trash
-200248	Attaque arcanique éclair
-200261	Frappe briseuse d’os
-197974	Frappe broyeuse d’os
-214003	Achèvement
-200343	Barrage de flèches
-200291	Danse des couteaux
+200084	Lame de l’âme
+200105	Sacrifice d’âme
 225573	Guérison ténébreuse
+194966	Échos d’âme
+196916	Lancer de glaive
+225908	Venin de l’âme
+200261	Frappe briseuse d’os
+200291	Danse des couteaux
+200343	Barrage de flèches
+200248	Attaque arcanique éclair
+200913	Indigestion
+204896	Drain de vie
 203163	Lâcher les gangroptères
 227913	Frénésie gangrenée
+214003	Achèvement
+214001	Plongeon du corbeau
 
 ; Boss: The Amalgam of Souls
-196078	Appel des âmes
 194956	Fauchage d’âme
-196587	Explosion d’âmes
-194966	Échos d’âme
 195254	Faux tourbillonnante
+;194966	Échos d’âme
+196078	Appel des âmes
 196930	Gorgé d’âmes
+196587	Explosion d’âmes
 
 ; Boss: Illysanna Ravencrest
 197418	Cisaille vengeresse
@@ -87,22 +94,23 @@
 197546	Glaive brutal
 197696	Rayons accablants
 197797	Attaque arcanique éclair
-;197974	Frappe broyeuse d’os
+197974	Frappe broyeuse d’os
 
 ; Boss: Smashspite the Hateful
 198073	Piétinement trembleterre
-198245	Coup brutal
 198079	Regard haineux
+224188	Charge haineuse
+198245	Coup brutal
 198446	Gangrevomi
 
 ; Boss: Lord Kur'talos Ravencrest
 198635	Cisaille infaillible
-198820	Trait noir
 198641	Lame tourbillonnante
-199193	Fourberie de seigneur de l’effroi
-202019	Salve de traits de l’ombre
+198820	Trait noir
 201733	Essaim d’insectes
 199143	Nuage hypnotique
+199193	Fourberie de seigneur de l’effroi
+202019	Salve de traits de l’ombre
 
 
 ; -------------------------------------
@@ -218,37 +226,51 @@
 ; -------------------------------------
 
 ; Boss: Trash
+200630	Hurlement perturbant
 200658	Pluie d’étoiles
 200684	Toxine du Cauchemar
 200768	Charge propulsante
 200580	Braillement exaspérant
 218759	Flaque de corruption
+201129	Jaillissement de racines
+198904	Lance de poison
+198910	Champignon infâme
+204243	Œil tourmenteur
+204246	Peur tourmenteuse
 201226	Assaut de sang
 201272	Bombe de sang
 225562	Métamorphose de sang
+201839	Sort d’isolement
 201399	Brasier de l’effroi
+201365	Drain ténébrâme
 
 ; Boss: Archdruid Glaidalis
 198379	Saccage primordial
-198408	Crépuscule
+212464	Crépuscule
+196354	Bond cruel
 196376	Lacération cruelle
+198477	Fixer
 
 ; Boss: Oakheart
-204646	Poigne écrasante
+204611	Poigne écrasante
+212786	Déracinement
 204574	Racines étrangleuses
 204667	Souffle cauchemardesque
 204666	Terre brisée
 
 ; Boss: Dresaron
+191325	Souffle de corruption
+199389	Rugissement sismique
 199345	Courant descendant
 199460	Chute de pierres
-191325	Souffle de corruption
 
 ; Boss: Shade of Xavius
-200050	Cauchemar apocalyptique
-200289	Paranoïa croissante
-200185	Éclair de cauchemar
+200182	Déchirure purulente
 200238	Nourri par les faibles
+200185	Éclair de cauchemar
+200243	Cauchemar éveillé
+200289	Paranoïa croissante
+200050	Cauchemar apocalyptique
 
 
 ; -------------------------------------
@@ -443,8 +465,9 @@
 210150	Vomi toxique
 199178	Langue à pointes
 199775	Frénésie
--12527	Dévot parlever
+199817	Appel de serviteurs
 199246	Vorace
+198963	Cieux putrides
 
 ; Boss: Dargrul the Underking
 200700	Glissement de terrain

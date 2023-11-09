@@ -15,23 +15,27 @@
 253544	Mantelet de Bwonsamdi
 253517	Mot de soins
 253583	Enchantement flamboyant
+255626	Éruption purulente
 
 ; Boss: Priestess Alun'za
 255558	Corruption sanguine
 255577	Transfusion
 255579	Griffes dorées
 255582	Or en fusion
-258709	Or corrompu
+277072	Or corrompu
+259205	Esprit d’or
 
 ; Boss: Vol'kaal
 250258	Bond toxique
 259572	Puanteur nocive
+259531	Réanimer
 250241	Décomposition rapide
 250585	Bassin toxique
 
 ; Boss: Rezan
 255371	Visage terrifiant
 257407	Poursuite
+255421	Dévorer
 255434	Dents de scie
 
 ; Boss: Yazma
@@ -73,6 +77,7 @@
 
 ; Boss: Skycap'n Kragg
 255952	Charrrrrge
+256056	Apparition de perroquet
 256005	Bombardement répugnant
 256016	Vil enduit
 272046	Bombardement en piqué
@@ -589,41 +594,45 @@
 ; -------------------------------------
 
 ; Boss: Trash
-265407	Cloche de dîner
-271174	Vomissure
-264456	Explosif autoguidé
 263943	Gravure
 263905	Enchaînement marquant
+265368	Défense fougueuse
+265372	Enchaînement d’ombre
+266036	Drain d’essence
+265352	Chancre de crapaud
+265346	Regard blafard
 263891	Épines avides
-264525	Piège à mitraille
-264520	Sectionnement du serpent
-265759	Pointe fracturée
-265760	Salve épineuse
-265741	Drain d’essence d’âme
+264396	Talisman spectral
+264390	Sort-lié
 264050	Épine infectée
 278474	Reconstruction d’effigie
 264038	Déracinement
 264556	Frappe déchirante
 264150	Fracasser
-265352	Chancre de crapaud
-265346	Regard blafard
-263959	Salve d’âmes
-263961	Bougies de protection
-265368	Défense fougueuse
-264396	Talisman spectral
-264390	Sort-lié
+265759	Pointe fracturée
+265760	Salve épineuse
+265741	Drain d’essence d’âme
+278444	Infestation
+271174	Vomissure
+265407	Cloche de dîner
+264456	Explosif autoguidé
+264525	Piège à mitraille
+264520	Sectionnement du serpent
+264407	Visage terrifiant
 264105	Marque runique
 265876	Volée ruineuse
 265880	Marque de l’effroi
 265881	Toucher putréfié
+263959	Salve d’âmes
+263961	Bougies de protection
 
 ; Boss: Heartsbane Triad
-260805	Iris de focalisation
-260773	Rituel redoutable
-260907	Manipulation d’âme
+260741	Orties acérées
 260703	Marque runique instable
 268086	Aura d’effroi
-260741	Orties acérées
+260907	Manipulation d’âme
+260805	Iris de focalisation
+260773	Rituel redoutable
 
 ; Boss: Soulbound Goliath
 260508	Écrasement
@@ -635,7 +644,7 @@
 ; Boss: Raal the Gluttonous
 264734	Tout consumer
 264931	Appel de serviteur
-265005	Consumer un serviteur
+265005	Bien nourri
 264923	Attendrir
 264694	Expulsion putride
 

@@ -138,3 +138,49 @@
 154469	Rituel des ossements
 
 
+; -------------------------------------
+; Zone: The Everbloom
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Witherbark
+164275	Ecorce fragile
+164438	Dynamiser
+164357	Halètement desséché
+164294	Croissance non contenue
+-10098	Croissance non contenue
+
+; Boss: Ancient Protectors
+168082	Revitalisation
+168105	Flots rapides
+168041	Peau de ronces
+167977	Buisson de ronces
+168383	Entaille
+168520	Robustesse du Façonneur
+
+; Boss: Archmage Sol
+168885	Croissance de parasite
+166492	Fleur de feu
+166726	Pluie gelée
+
+; Boss: Xeri'tac
+172643	Descente
+169376	Aiguillon venimeux
+169382	Salve gazeuse
+169248	Consommer
+-10502	Blafard affolé par le venin
+169233	Inhalation
+-10492	Jeune araignée toxique
+173080	Fixer
+
+; Boss: Yalnu
+169179	Coup colossal
+169120	Fontaine de vie
+169613	Genèse
+169240	Enchevêtrement
+170132	Enchevêtrement
+169878	Souffle nauséabond
+169929	Balayage chancelant
+
+

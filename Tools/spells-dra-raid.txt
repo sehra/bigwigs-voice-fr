@@ -216,6 +216,8 @@
 411892	Bile visqueuse
 411808	Éjection de limon
 412498	Flaque stagnante
+409576	Liens sombres
+409612	Torrent ombreux
 
 ; Boss: Kazzara, the Hellforged
 401319	Carnage d’acier infernal
@@ -366,5 +368,165 @@
 408457	Trait de Vide
 404269	Puissance d’ébène
 404769	Frappe vide
+
+
+; -------------------------------------
+; Zone: Amirdrassil, the Dream's Hope
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Gnarlroot
+421898	Pestilence enflammée
+422053	Épines ombreuses
+421972	Incendie contrôlé
+422023	Terre brûlée par l’ombre
+424352	Barrage de feu effroyable
+422026	Cri torturé
+422039	Enchaînement d’ombreflamme
+421038	Calcination de braises
+424970	Terreau toxique
+421840	Agonie déracinée
+425816	Pollen flamboyant
+425820	Sève enflammée
+
+; Boss: Igira the Cruel
+414340	Lames trempées
+414888	Lance suppurante
+414770	Tourment caustique
+416996	Lame distordue
+422776	Victime désignée du supplice
+414367	Tourment rassemblé
+419462	Mortification de la chair
+419048	Fin désastreuse
+416048	Destruction ombreuse
+424456	Éclatement de viscères
+415623	Cœur immobile
+426056	Rupture vitale
+
+; Boss: Volcoross
+421082	Furoncle infernal
+421672	Fureur du serpent
+421207	Flammes enroulées
+420933	Inondation des terres de Feu
+421616	Régurgitation volcanique
+420415	Impact de Brûlequeue
+423494	Flots embrasés
+419054	Venin en fusion
+423117	Mâchoires du cataclysme
+421703	Courroux du serpent
+424218	Rage incinérante
+
+; Boss: Council of Dreams
+418187	Renaissance
+420525	Rage aveugle
+425114	Rage ursine
+420948	Charge incontrôlable
+423420	Charge incontrôlable
+421022	Griffes déchirantes
+421570	Bond
+421292	Fourré étrangleur
+420937	Barrage implacable
+420671	Floraison nocive
+426390	Pollen corrosif
+420858	Javelot empoisonné
+421029	Chant draconique
+421032	Finale captivant
+418720	Bombe de métamorphose
+421024	Vents d’émeraude
+423551	Tourbillon de vent fantasque
+
+; Boss: Larodar, Keeper of the Flame
+417653	Force de la nature embrasée
+418520	Échardes suppurantes
+426524	Grand geste embrasé
+422614	Racines brûlantes
+420544	Poursuite brûlante
+426387	Roncépine brûlante
+418637	Charge furieuse
+423719	Fureur de la nature
+426206	Épines ardentes
+426249	Coalescence flamboyante
+426256	Coalescence flamboyante
+417634	Brasier infernal
+417632	Sol brûlant
+421316	Flamme consumante
+427252	Chute de braises
+427299	Flammèche
+427306	Enfermement dans la cendre
+427343	Tourbillon de feu
+421318	Retour fumant
+421594	Suffocation ardente
+421325	Appel des cendres
+421407	Cendre incendiaire
+
+; Boss: Nymue, Weaver of the Cycle
+420554	Matrice verdoyante
+423195	Inflorescence
+420846	Continuum
+429615	Métier à tisser imminent
+420907	Pluie viridienne
+426519	Fardeau de la trame
+426855	Pleine floraison
+429108	Heurt chancelant
+425370	Épanouissement radial
+
+; Boss: Smolderon
+421343	Marque de damnation
+421656	Blessure cautérisante
+422577	Conséquences incandescentes
+421455	Surchauffe
+421969	Vagues de flammes
+422691	Geysers de lave
+421532	Sol fumant
+426725	Destruction envahissante
+422277	Dévorer l’essence
+421858	Essence enflammée
+422172	Monde en flammes
+425885	Brasier chercheur
+
+; Boss: Tindral Sageswift, Seer of the Flame
+422000	Colère incendiaire
+423260	Champignon flamboyant
+424581	Croissance enflammée
+424499	Sol brûlant
+420236	Étoile filante
+422503	Fragments d’étoile
+424495	Enchevêtrement de masse
+420540	Incarnation : sélénien
+421398	Rayon de feu
+424258	Essence du Rêve
+422509	Plume renforcée
+421939	Panache brûlant
+424140	Supernova
+422115	Incarnation : Arbre de la Flamme
+424579	Braise répressive
+423265	Germination flamboyante
+424665	Graine de flamme
+422325	Arbre enflammé
+424582	Braise persistante
+
+; Boss: Fyrakk the Blazing
+419506	Tempête de feu
+419504	Flammes violentes
+420422	Feu de brousse
+417455	Déchirure du Rêve
+425483	Incinération
+414186	Brasier
+417807	En feu
+417431	Morsure de Fyr’alath
+417443	Marque de Fyr’alath
+419144	Corruption
+410223	Souffle d’ombreflamme
+412761	Incarnation
+421937	Orbes d’ombreflamme
+429866	Souffle d’ombreflamme
+422518	Tempête de feu supérieure
+419123	Descente en flammes
+422524	Dévastation d’ombreflamme
+423717	Floraison
+422935	Tempête de feu éternelle
+422837	Rugissement apocalyptique
+425492	Gueule infernale
 
 
