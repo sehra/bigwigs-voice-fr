@@ -53,24 +53,44 @@
 ; Boss: Trash
 76820	Maléfice
 76813	Vague de soins
+426663	Poursuite vorace
+426741	Brise-carapace
+428542	Profondeurs écrasantes
+426684	Éclair volatil
+426645	Barrage d’acide
 75992	Explosion de foudre
+426783	Fouet mental
+426808	Explosion vide
 76590	Frappe des ombres
+429021	Écrasement
 76634	Houle
 
 ; Boss: Lady Naz'jar
 75683	Marée haute
+428054	Horion explosif
+427771	Geysers
+428374	Tempête focalisée
+428263	Trait d’eau
+428293	Déluge de tridents
 
 ; Boss: Commander Ulthok, the Festering Prince
-76047	Fissure sombre
-76026	Écrasement
-76094	Malédiction de fatigue
-76100	Enrager
+427672	Fissure bouillonnante
+427456	Limon éveillé
+427668	Onde de choc putrescente
+427670	Griffe écrasante
 
 ; Boss: Mindbender Ghur'sha
-76207	Asservir
-76307	Absorption de magie
-76230	Brouillard de l'esprit
+429051	Rage de la terre
+429037	Totem de déluge tempétueux
+429048	Horion de flammes
+429172	Vision terrifiante
 
 ; Boss: Ozumat
+428407	Barrage séchant
+428868	Rugissement putride
+428530	Crachat de boue
+428889	Trait infect
+428668	Flux de purification
+428594	Déluge de crasse
 
 

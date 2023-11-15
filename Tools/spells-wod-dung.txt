@@ -153,16 +153,15 @@
 
 ; Boss: Ancient Protectors
 168082	Revitalisation
-168105	Flots rapides
-168041	Peau de ronces
-167977	Buisson de ronces
-168383	Entaille
-168520	Robustesse du Façonneur
+427498	Fureur torrentielle
+427459	Floraison toxique
+427509	Fureur terrestre
+427510	Charge néfaste
 
 ; Boss: Archmage Sol
-168885	Croissance de parasite
-166492	Fleur de feu
-166726	Pluie gelée
+427899	Tempête d’éclairs cendrés
+428082	Fusion glaciale
+428139	Compression spatiale
 
 ; Boss: Xeri'tac
 172643	Descente
@@ -176,11 +175,8 @@
 
 ; Boss: Yalnu
 169179	Coup colossal
-169120	Fontaine de vie
+428823	Éruption verdoyante
 169613	Genèse
-169240	Enchevêtrement
-170132	Enchevêtrement
-169878	Souffle nauséabond
 169929	Balayage chancelant
 
 

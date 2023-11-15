@@ -104,7 +104,6 @@
 
 ; Boss: Kurog Grimtotem
 371981	Afflux élémentaire
-374861	Variation élémentaire
 372158	Frappe fracturante
 382563	Explosion de magma
 373329	Rupture en fusion
@@ -326,7 +325,6 @@
 401998	Frappe calamiteuse
 402902	Terre corrompue
 402115	Fissure résonnante
-403057	Abandon à la corruption
 401010	Corruption
 407036	Cachées dans le Vide
 405433	Annihilation ombreuse
@@ -517,7 +515,6 @@
 417431	Morsure de Fyr’alath
 417443	Marque de Fyr’alath
 419144	Corruption
-410223	Souffle d’ombreflamme
 412761	Incarnation
 421937	Orbes d’ombreflamme
 429866	Souffle d’ombreflamme
@@ -525,8 +522,8 @@
 419123	Descente en flammes
 422524	Dévastation d’ombreflamme
 423717	Floraison
-422935	Tempête de feu éternelle
 422837	Rugissement apocalyptique
+410223	Souffle d’ombreflamme
 425492	Gueule infernale
 
 
