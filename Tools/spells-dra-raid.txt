@@ -395,7 +395,6 @@
 416996	Lame distordue
 422776	Victime désignée du supplice
 414367	Tourment rassemblé
-419462	Mortification de la chair
 419048	Fin désastreuse
 416048	Destruction ombreuse
 424456	Éclatement de viscères
@@ -420,16 +419,16 @@
 420525	Rage aveugle
 425114	Rage ursine
 420948	Charge incontrôlable
-423420	Charge incontrôlable
 421022	Griffes déchirantes
-421570	Bond
 421292	Fourré étrangleur
 420937	Barrage implacable
+421570	Bond
 420671	Floraison nocive
 426390	Pollen corrosif
 420858	Javelot empoisonné
 421029	Chant draconique
 421032	Finale captivant
+421501	Transfert
 418720	Bombe de métamorphose
 421024	Vents d’émeraude
 423551	Tourbillon de vent fantasque
@@ -445,29 +444,32 @@
 423719	Fureur de la nature
 426206	Épines ardentes
 426249	Coalescence flamboyante
-426256	Coalescence flamboyante
 417634	Brasier infernal
 417632	Sol brûlant
+425889	Croissance incendiaire
+429032	Brasier éternel
 421316	Flamme consumante
 427252	Chute de braises
 427299	Flammèche
 427306	Enfermement dans la cendre
 427343	Tourbillon de feu
-421318	Retour fumant
+429973	Retour fumant
 421594	Suffocation ardente
 421325	Appel des cendres
 421407	Cendre incendiaire
+428896	Dévastation cendreuse
 
 ; Boss: Nymue, Weaver of the Cycle
 420554	Matrice verdoyante
-423195	Inflorescence
 420846	Continuum
 429615	Métier à tisser imminent
 420907	Pluie viridienne
-426519	Fardeau de la trame
+427722	Fardeau de la trame
 426855	Pleine floraison
+413443	Gardien de vie
 429108	Heurt chancelant
-425370	Épanouissement radial
+422721	Épanouissement radial
+429798	Lacération verdoyante
 
 ; Boss: Smolderon
 421343	Marque de damnation
@@ -481,6 +483,7 @@
 422277	Dévorer l’essence
 421858	Essence enflammée
 422172	Monde en flammes
+423896	Flambée
 425885	Brasier chercheur
 
 ; Boss: Tindral Sageswift, Seer of the Flame
@@ -515,13 +518,14 @@
 417431	Morsure de Fyr’alath
 417443	Marque de Fyr’alath
 419144	Corruption
-412761	Incarnation
-421937	Orbes d’ombreflamme
 429866	Souffle d’ombreflamme
+422032	Esprits des Kaldorei
 422518	Tempête de feu supérieure
-419123	Descente en flammes
+412761	Incarnation
 422524	Dévastation d’ombreflamme
+419123	Descente en flammes
 423717	Floraison
+422935	Tempête de feu éternelle
 422837	Rugissement apocalyptique
 410223	Souffle d’ombreflamme
 425492	Gueule infernale
