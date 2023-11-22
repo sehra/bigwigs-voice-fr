@@ -7,9 +7,11 @@
 ; Boss: Trash
 255041	Hurlement terrifiant
 255567	Charge frénétique
+256882	Agitation sauvage
 253721	Rempart de juju
 252781	Maléfice instable
 256849	Puissance de dinosaure
+253239	Assaut impitoyable
 260666	Transfusion
 252687	Frappe croc-venin
 253544	Mantelet de Bwonsamdi
@@ -40,9 +42,9 @@
 
 ; Boss: Yazma
 259187	Déchiqueter l’âme
-250096	Douleur insupportable
 250050	Échos de Shadra
 250036	Restes ténébreux
+250096	Douleur insupportable
 249919	Embrocher
 
 

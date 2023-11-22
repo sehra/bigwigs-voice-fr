@@ -29,6 +29,12 @@
 391026	Congélation
 389960	Glace liante
 
+; Boss: Aurostor, The Hibernator
+420895	Coup étourdi
+420925	Accès de rage destructeur
+421059	Caprice teigneux
+421260	Rugissement endormi
+
 
 ; -------------------------------------
 ; Zone: Vault of the Incarnates
@@ -463,6 +469,8 @@
 420554	Matrice verdoyante
 420846	Continuum
 429615	Métier à tisser imminent
+429983	Croissance fulgurante
+430563	Ephemeral Flora
 420907	Pluie viridienne
 427722	Fardeau de la trame
 426855	Pleine floraison
@@ -470,6 +478,8 @@
 429108	Heurt chancelant
 422721	Épanouissement radial
 429798	Lacération verdoyante
+-28482	Manifested Dream
+428471	Décimation éveillée
 
 ; Boss: Smolderon
 421343	Marque de damnation

@@ -73,6 +73,7 @@
 200291	Danse des couteaux
 200343	Barrage de flèches
 200248	Attaque arcanique éclair
+200784	« Boire » Potion ancienne
 200913	Indigestion
 204896	Drain de vie
 203163	Lâcher les gangroptères
