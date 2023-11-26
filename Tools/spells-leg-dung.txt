@@ -229,6 +229,7 @@
 ; Boss: Trash
 200630	Hurlement perturbant
 200658	Pluie d’étoiles
+200642	Désespoir
 200684	Toxine du Cauchemar
 200768	Charge propulsante
 200580	Braillement exaspérant

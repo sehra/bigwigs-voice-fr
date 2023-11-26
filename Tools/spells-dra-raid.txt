@@ -506,6 +506,7 @@
 424495	Enchevêtrement de masse
 420540	Incarnation : sélénien
 421398	Rayon de feu
+421636	Typhon
 424258	Essence du Rêve
 422509	Plume renforcée
 421939	Panache brûlant
@@ -515,9 +516,13 @@
 423265	Germination flamboyante
 424665	Graine de flamme
 422325	Arbre enflammé
+425576	Bombe éclairante
+425606	Flamme amplificatrice
 424582	Braise persistante
+430583	Germinating Aura
 
 ; Boss: Fyrakk the Blazing
+429872	Amirdrassil brûle
 419506	Tempête de feu
 419504	Flammes violentes
 420422	Feu de brousse
