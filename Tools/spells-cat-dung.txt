@@ -1,6 +1,52 @@
 ; Type: Cataclysm Dungeon
 
 ; -------------------------------------
+; Zone: Grim Batol
+; -------------------------------------
+
+; Boss: Trash
+451871	Secousse de masse
+456696	Piétinement d’obsidienne
+451613	Flamme du Crépuscule
+451939	Vent ombreux
+76711	Incandescence de l’esprit
+451965	Ruée en fusion
+451971	Poing de lave
+451224	Ombreflamme enveloppante
+462216	Ombreflamme flamboyante
+456711	Explosion d’ombrelave
+456713	Éruption sombre
+451387	Sublimation
+451391	Transperceur d’esprit
+
+; Boss: General Umbriss
+448847	Rugissement de commandement
+448877	Pointe rocheuse
+447261	Casse-crâne
+
+; Boss: Forgemaster Throngus
+457664	Forger une arme
+449687	Masse en fusion
+449444	Rafale en fusion
+449474	Étincelle en fusion
+447395	Enchaînement ardent
+
+; Boss: Drahga Shadowburner
+448013	Invocation d’ombreflamme
+450095	Malédiction d’entropie
+456751	Rafale du Crépuscule
+448105	Flamme dévorante
+82850	Concentration enflammée
+
+; Boss: Erudax, the Duke of Below
+449939	Trombe d’ombre
+450077	Afflux de Vide
+450088	Infusion de Vide
+450100	Écraser
+448057	Corruption abyssale
+
+
+; -------------------------------------
 ; Zone: The Vortex Pinnacle
 ; -------------------------------------
 
