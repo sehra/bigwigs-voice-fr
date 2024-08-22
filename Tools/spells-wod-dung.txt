@@ -157,6 +157,7 @@
 427459	Floraison toxique
 427509	Fureur terrestre
 427510	Charge néfaste
+427513	Décharge néfaste
 
 ; Boss: Archmage Sol
 427899	Tempête d’éclairs cendrés

@@ -1,0 +1,370 @@
+; Type: The War Within Dungeon
+
+; -------------------------------------
+; Zone: Ara-Kara, City of Echoes
+; -------------------------------------
+
+; Boss: Trash
+439208	Entoilage de soie
+438622	Rupture toxique
+434793	Barrage de résonance
+434824	Jet de toiles
+434802	Stridulence horrifiante
+438877	Appel de la couvée
+438826	Nuage toxique
+453161	Empaler
+448248	Volée révoltante
+433845	Rets éruptifs
+433841	Volée de venin
+434252	Heurt massif
+
+; Boss: Avanoxx
+438471	Morsure vorace
+438476	Alerte stridente
+438473	Assaut diaphane
+446794	Insatiabilité
+
+; Boss: Anub'zekt
+435012	Empaler
+439506	Charge enfouie
+433740	Infestation
+433766	Œil de l’essaim
+442210	Liens de soie
+
+; Boss: Ki'katal the Harvester
+432117	Singularité cosmique
+432031	Sang avide
+432130	Rets éruptifs
+432227	Volée de venin
+461487	Poisons cultivés
+
+
+; -------------------------------------
+; Zone: Cinderbrew Meadery
+; -------------------------------------
+
+; Boss: Trash
+437721	Flammes bouillonnantes
+437956	Éruption de fournaise
+434761	Piétinement puissant
+434706	Lancer de Brassecendre
+434998	Haute cuisine
+463206	Attendrir
+441627	Miel régénérant
+441434	Cuvée ratée
+448619	Livraison imprudente
+441119	Lance-abeille
+442589	Cire d’abeille
+442995	Surprise grouillante
+440687	Volée de miel
+440876	Pluie de miel
+439467	Tendance baissière
+
+; Boss: Brew Master Aldryr
+442525	La tournée du patron
+431895	Transport de Brassecendre
+432198	Vomissement flamboyant
+432179	Lancer de Brassecendre
+432229	Fracasse-tonneau
+
+; Boss: I'pa
+439365	Bière brune jaillissante
+440147	Remplissage
+439202	Fermentation brûlante
+439031	Hydromel percutant
+
+; Boss: Benk Buzzbee
+438025	Casse-croûte
+439524	Battements d’aile
+440134	Marinade de miel
+
+; Boss: Goldie Baronbottom
+435560	Répandre l’amour !
+435622	Que tombe la grêle !
+436644	Ricochet ardent
+436592	Canon à argent
+
+
+; -------------------------------------
+; Zone: City of Threads
+; -------------------------------------
+
+; Boss: Trash
+443437	Ombres de doute
+443430	Lien de soie
+443500	Choc sismique
+450784	Lancer de parfum
+451423	Barrage diaphane
+441795	Voile de phéromones
+448047	Entoilage
+451543	Heurtoir du néant
+452162	Toile curative
+434137	Projection venimeuse
+445813	Barrage noir
+446086	Vague de Vide
+446717	Tissage ombreux
+447271	Heurt de secousses
+
+; Boss: Orator Krix'vizk
+434722	Subjuguer
+434779	Terroriser
+434829	Endoctrinement vociférant
+434926	Influence rémanente
+448561	Ombres de doute
+
+; Boss: Fangs of the Queen
+441384	Pas synergique
+439621	Entaille d’ombre
+439692	Crépusculaire
+440218	Faux-de-Glace
+440468	Dague glaçante
+441298	Sang givrant
+458741	Congélation
+
+; Boss: The Coaglamation
+441289	Ténèbres visqueuses
+461842	Choc visqueux
+441395	Impulsion noire
+461880	Vague de sang
+
+; Boss: Izo, the Grand Splicer
+439401	Anomalies changeantes
+439341	Épissage
+437700	Heurt de secousses
+438860	Tissage ombreux
+439646	Processus d’élimination
+
+
+; -------------------------------------
+; Zone: Darkflame Cleft
+; -------------------------------------
+
+; Boss: Trash
+423501	Torgnole sauvage
+425536	Taupes frénétiques
+440652	Montée de cire
+424322	Flamme explosive
+426261	Flamme perpétuelle
+426295	Attache enflammée
+426619	Clé à une main
+426260	Pyrotorgnole
+422414	Frappe des ombres
+422541	Drain de lumière
+
+; Boss: Ol' Waxbeard
+422116	Charge téméraire
+422245	Briseur de pierres
+423693	Flammebougie attirante
+
+; Boss: Blazikon
+421817	Barrage brûlemèche
+424212	Inciter les flammes
+423109	Fournaise d’embrasement
+443835	Tempêtes flamboyantes
+425394	Souffle extincteur
+422700	Bourrasque d’extinction
+
+; Boss: The Candle King
+420659	Moules étranges
+422648	Pioche flamme-noire
+426145	Esprit paranoïaque
+420696	Lancer de flamme-noire
+
+; Boss: The Darkness
+426943	Obscurité grandissante
+427157	Appel de ténébreux
+427025	Entaille ombreuse
+427015	Déflagration de l’ombre
+427176	Drain de lumière
+
+
+; -------------------------------------
+; Zone: Priory of the Sacred Flame
+; -------------------------------------
+
+; Boss: Trash
+435088	Bénédiction de la Flamme sacrée
+448485	Heurt de bouclier
+448492	Coup de tonnerre
+427897	Vague de chaleur
+427950	Sceau des flammes
+429091	Feu intérieur
+428150	Bouclier réflecteur
+424621	Coup brutal
+424423	Attaque en fente
+424431	Radiance sacrée
+448515	Jugement divin
+427583	Repentir
+424420	Déflagracendre
+424462	Tempête de braises
+427609	Cri perturbant
+427342	Défense
+427356	Soins supérieurs
+427346	Feu intérieur
+427484	Choc de flammes
+427601	Rafale lumineuse
+444743	Volée de boules de feu
+
+; Boss: Captain Dailcry
+424419	Cri de bataille
+447270	Jeter la lance
+424414	Perce-armure
+447439	Lacération sauvage
+
+; Boss: Baron Braunpyke
+422969	Colère vindicative
+423015	Bouclier de fustigateur
+423051	Lumière ardente
+423062	Marteau de pureté
+
+; Boss: Prioress Murrpray
+423588	Barrière de lumière
+423664	Étreinte de la Lumière
+444546	Purification
+444608	Feu intérieur
+451605	Flamme sacrée
+
+
+; -------------------------------------
+; Zone: The Dawnbreaker
+; -------------------------------------
+
+; Boss: Trash
+449042	Lumière radieuse
+431309	Ombres d’enracinement
+432448	Graine stygienne
+450756	Hurlement abyssal
+451107	Cocon explosif
+451091	Poser une bombe arathie
+451102	Décomposition de l’ombre
+450854	Orbe sombre
+451117	Heurt terrifiant
+451098	Nova collante
+451097	Carapace soyeuse
+431494	Tranchant noir
+432520	Barrière ombreuse
+432565	Grêle noire
+431304	Blocs obscurs
+431349	Éruption tourmentante
+446615	Arrivée de renforts
+
+; Boss: Speaker Shadowcrown
+451026	Approche des ténèbres
+426735	Ombres ardentes
+425264	Rafale d’obsidienne
+445996	Effondrement des ténèbres
+453212	Rayon d’obsidienne
+453140	Effondrement de la nuit
+
+; Boss: Anub'ikkaj
+427001	Heurt terrifiant
+426860	Orbe sombre
+426787	Décomposition de l’ombre
+452127	Animation des ombres
+
+; Boss: Rasha'nan
+434655	Bombes arathies
+434407	Acide roulant
+448888	Vaporisation érosive
+448213	Expulsion de toiles
+435793	Jaillissement collant
+449528	Lumière radieuse
+449332	Ombres envahissantes
+449734	Éruption acide
+434089	Fils de fileur
+
+
+; -------------------------------------
+; Zone: The Rookery
+; -------------------------------------
+
+; Boss: Trash
+426893	Lien du Vide
+450628	Bouclier entropique
+427323	Bombardement chargé
+427404	Tempête localisée
+427260	Freux enragé
+430013	Frappe-tonnerre
+427616	Barrage énergisé
+423979	Implosion
+430754	Carapace du Vide
+430179	Corruption suintante
+430812	Attraction d’ombres
+443854	Instabilité
+432959	Salve du Vide
+432638	Commande du Vide
+432781	Étreinte du Vide
+430288	Ténèbres écrasantes
+
+; Boss: Kyrioss
+444123	Torrent de foudre
+419870	Ruée foudroyante
+424148	Chaîne d’éclairs
+420739	Charge instable
+
+; Boss: Stormguard Gorren
+424737	Corruption chaotique
+425048	Gravité sombre
+424958	Réalité écrasée
+424797	Vulnérabilité chaotique
+
+; Boss: Voidstone Monstrosity
+423305	Bouleversement du Néant
+445262	Carapace du Vide
+429493	Déchaîner la corruption
+445457	Vague d’oubli
+423393	Entropie
+458082	Charge de chevaucheur de tempête
+424371	La vengeance de la tempête
+423839	Électrocution
+
+
+; -------------------------------------
+; Zone: The Stonevault
+; -------------------------------------
+
+; Boss: Trash
+425027	Onde sismique
+447141	Bond pulvérisant
+449455	Peur hurlante
+426308	Infection du Vide
+426771	Explosion de Vide
+445207	Geignement perçant
+429545	Équipement de censure
+426345	Salve de cristal
+429109	Métaux de restauration
+449130	Canon de lave
+449154	Mortier en fusion
+448640	Ruée au bouclier
+429427	Totem d’explosion de terre
+428879	Fracas de roche
+428703	Éruption de granit
+
+; Boss: E.D.N.A.
+424795	Rayon de réfraction
+424888	Fracas sismique
+424889	Réverbération sismique
+424903	Pointe instable
+424879	Fracasse-terre
+
+; Boss: Skarmorak
+422233	Choc cristallin
+423200	Carapace fortifiée
+423538	Impact instable
+423572	Énergie instable
+
+; Boss: Master Machinists
+439577	Mandataire sans voix
+445541	Grilles d’aération
+430097	Métal en fusion
+428202	Chant de ferraille
+428508	Crescendo flamboyant
+428711	Marteau igné
+449167	Canon de lave
+
+; Boss: Void Speaker Eirich
+427461	Corruption du Vide
+427852	Rétribution entropique
+427869	Vide débridé
+
+

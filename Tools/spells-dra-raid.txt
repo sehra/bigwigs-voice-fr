@@ -401,6 +401,7 @@
 416996	Lame distordue
 422776	Victime désignée du supplice
 414367	Tourment rassemblé
+419462	Mortification de la chair
 419048	Fin désastreuse
 416048	Destruction ombreuse
 424456	Éclatement de viscères
@@ -419,6 +420,7 @@
 423117	Mâchoires du cataclysme
 421703	Courroux du serpent
 424218	Rage incinérante
+427201	Éruption enroulée
 
 ; Boss: Council of Dreams
 418187	Renaissance
@@ -444,12 +446,13 @@
 418520	Échardes suppurantes
 426524	Grand geste embrasé
 422614	Racines brûlantes
-420544	Poursuite brûlante
+418655	Ronces calcinées
 426387	Roncépine brûlante
 418637	Charge furieuse
 423719	Fureur de la nature
 426206	Épines ardentes
 426249	Coalescence flamboyante
+426256	Coalescence flamboyante
 417634	Brasier infernal
 417632	Sol brûlant
 425889	Croissance incendiaire
@@ -464,21 +467,22 @@
 421325	Appel des cendres
 421407	Cendre incendiaire
 428896	Dévastation cendreuse
+428946	Cendres asphyxiantes
 
 ; Boss: Nymue, Weaver of the Cycle
 420554	Matrice verdoyante
 420846	Continuum
 429615	Métier à tisser imminent
 429983	Croissance fulgurante
-430563	Ephemeral Flora
+426519	Fardeau de la trame
+430563	Flore éphémère
 420907	Pluie viridienne
-427722	Fardeau de la trame
 426855	Pleine floraison
 413443	Gardien de vie
 429108	Heurt chancelant
 422721	Épanouissement radial
 429798	Lacération verdoyante
--28482	Manifested Dream
+-28482	Rêve manifesté
 428471	Décimation éveillée
 
 ; Boss: Smolderon
@@ -492,11 +496,13 @@
 426725	Destruction envahissante
 422277	Dévorer l’essence
 421858	Essence enflammée
+421859	Essence enflammée
 422172	Monde en flammes
 423896	Flambée
 425885	Brasier chercheur
 
 ; Boss: Tindral Sageswift, Seer of the Flame
+427297	Afflux de flammes
 422000	Colère incendiaire
 423260	Champignon flamboyant
 424581	Croissance enflammée
@@ -519,30 +525,41 @@
 425576	Bombe éclairante
 425606	Flamme amplificatrice
 424582	Braise persistante
-430583	Germinating Aura
+430583	Aura de germination
 
 ; Boss: Fyrakk the Blazing
 429872	Amirdrassil brûle
+414186	Brasier
+417807	En feu
+417431	Morsure de Fyr’alath
+417443	Marque de Fyr’alath
 419506	Tempête de feu
 419504	Flammes violentes
 420422	Feu de brousse
 417455	Déchirure du Rêve
 425483	Incinération
-414186	Brasier
-417807	En feu
-417431	Morsure de Fyr’alath
-417443	Marque de Fyr’alath
+430441	Ombres flammes-noires
+426368	Enchaînement flamme-noire
 419144	Corruption
+421937	Orbes d’ombreflamme
 429866	Souffle d’ombreflamme
+429906	Lien d’ombre
+429903	Lien de flammes
 422032	Esprits des Kaldorei
 422518	Tempête de feu supérieure
+428963	Gantelet de fusion
+428400	Noyau explosif
 412761	Incarnation
 422524	Dévastation d’ombreflamme
 419123	Descente en flammes
-423717	Floraison
+428970	Cage d’ombre
 422935	Tempête de feu éternelle
 422837	Rugissement apocalyptique
 410223	Souffle d’ombreflamme
 425492	Gueule infernale
+423601	Graine d’Amirdrassil
+423717	Floraison
+423598	Graine flamboyante
+430048	Graine corrompue
 
 

@@ -86,8 +86,8 @@
 ; Boss: High Adjudicator Aleez
 323538	Trait de pouvoir
 323552	Salve de puissance
-323650	Fixation obsessive
 329340	Fontaine d’anima
+323650	Fixation obsessive
 
 ; Boss: Lord Chamberlain
 329104	Porte des ombres
@@ -103,30 +103,32 @@
 ; -------------------------------------
 
 ; Boss: Trash
-324909	Lacération furieuse
-324923	Explosion de ronces
+321968	Pollen stupéfiant
+322486	Lacis
 322938	Récolte d’essence
 322569	Main des Ulterres
 322557	Scission d’âme
-331718	Déluge de lances
+324909	Lacération furieuse
+324923	Explosion de ronces
+463256	Gardien de brume
+463248	Expulsion
 340304	Sécrétions empoisonnées
 340305	Bond écrasant
 340300	Langue fouetteuse
-331743	Ruades ravageuses
+463217	Entaille d’anima
 340189	Bassin de radiance
 340160	Souffle radieux
 340208	Déchiqueter l’armure
 340289	Triple morsure
 340279	Décharge empoisonnée
 324776	Protection de roncépine
-324987	Morsure de voile-de-brume
+325021	Déchirure de voile-de-brume
 325224	Injection d’anima
 324914	Nourrir la forêt
 325418	Acide volatil
 340544	Stimulation de régénération
 326046	Stimulation de résistance
-321968	Pollen stupéfiant
-322486	Lacis
+326021	Globule d’acide
 
 ; Boss: Ingra Maloch
 323137	Pollen stupéfiant
@@ -145,15 +147,14 @@
 321891	Fixation de loup glacé
 
 ; Boss: Tred'ova
-322651	Expulsion d’acide
+322654	Expulsion d’acide
 322450	Consommation
+322527	Bouclier vorace
 322550	Incubation accélérée
 322563	Proie marquée
 326309	Acide de décomposition
 322614	Lien de l’esprit
-337235	Pacification parasitaire
-337249	Incapacité parasitaire
-337255	Domination parasitaire
+463602	Poison coalescent
 
 
 ; -------------------------------------
@@ -415,13 +416,14 @@
 323347	Ténèbres tenaces
 322756	Courroux de Zolramus
 321780	Animer les morts
+327396	Destin sinistre
 328667	Salve d’éclairs de givre
 324293	Cri rauque
 343470	Bouclier fracasse-os
 335143	Soin d’os
 320822	Ultime marché
 335141	Voile sombre
-327396	Destin sinistre
+345623	Explosion de mort
 324394	Fracasser
 324387	Pointes glaciales
 324372	Vents ravageurs
@@ -429,7 +431,8 @@
 338456	Estropier
 338357	Attendrir
 327130	Réparation de la chair
-323496	Lancer de fendoir
+323471	Lancer de fendoir
+327240	Brise-vertèbres
 338606	Fixation morbide
 333477	Étripailles
 333479	Crachat septique
@@ -446,16 +449,18 @@
 333488	Souffle nécrotique
 320012	Frénésie impie
 320171	Trait nécrotique
+;328667	Salve d’éclairs de givre
 
 ; Boss: Surgeon Stitchflesh
 320358	Réveil de création
-322681	Crochet à viande
-320376	Estropier
 334476	Ichor d’embaumement
 320200	Aiguille de suture
+327100	Voile nocif
 334488	Tranche chair
-320359	Fuite
 343556	Fixation morbide
+320359	Fuite
+322681	Crochet à viande
+320376	Estropier
 
 ; Boss: Nalthor the Rimebinder
 320772	Tempête de comètes

@@ -108,6 +108,7 @@
 198635	Cisaille infaillible
 198641	Lame tourbillonnante
 198820	Trait noir
+199368	Héritage des Corvaltus
 201733	Essaim d’insectes
 199143	Nuage hypnotique
 199193	Fourberie de seigneur de l’effroi
@@ -304,6 +305,7 @@
 193597	Nova statique
 193611	Éclair focalisé
 193698	Malédiction de la sorcière
+193682	Convocation de tempête
 196610	Mousson
 
 ; Boss: King Deepbeard

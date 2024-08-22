@@ -83,10 +83,12 @@
 429051	Rage de la terre
 429037	Totem de déluge tempétueux
 429048	Horion de flammes
+429878	Fuite
 429172	Vision terrifiante
 
 ; Boss: Ozumat
 428407	Barrage séchant
+428404	Ténèbres séchantes
 428868	Rugissement putride
 428530	Crachat de boue
 428889	Trait infect

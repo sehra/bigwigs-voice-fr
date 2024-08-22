@@ -347,34 +347,35 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268260	Bordée
-272874	Piétiner
-275826	Cri galvanisant
-275835	Enduit de venin cuisant
+256627	Heurtoir écumeux
+256640	Goudron brûlant
+256957	Enveloppe étanche
+257170	Tempête sauvage
+257288	Entaille profonde
+454437	Charge d’azérite
 272421	Marquage d’artillerie
+268260	Bordée
+275826	Cri galvanisant
 257169	Rugissement terrifiant
 272711	Heurt écrasant
-272827	Bave visqueuse
-274569	Brume revitalisante
 272546	Saccage de bananes
-257170	Tempête sauvage
-256957	Enveloppe étanche
-256627	Heurtoir écumeux
-257288	Entaille profonde
-257641	Balle en fusion
-256897	Mâchoires compressantes
-256866	Embuscade de fer
-257036	Charge farouche
-256640	Goudron brûlant
-256673	Immolation
+272571	Risques de noyade
+275835	Enduit de venin cuisant
 
 ; Boss: Chopper Redhook
+257459	Au crochet
+257348	Crochet à viande
+257326	Fracas empalant
+257585	Barrage au canon
+273721	Munition lourde
+;257288	Entaille profonde
 
 ; Boss: Dread Captain Lockwood
-272471	Évasif
 269029	Faire place nette
 273470	Tir aux boyaux
 268752	Retrait
+463185	Bombardement de masse
+463182	Ricochet ardent
 268230	Balayage cramoisi
 ;268260	Bordée
 268963	Munition instable
@@ -387,6 +388,7 @@
 ; Boss: Viq'Goth
 275014	Eaux putrides
 270185	Appel des profondeurs
+269456	Éradication
 269366	Réparation
 269266	Heurtoir
 270590	Broyeur de coque
@@ -467,7 +469,6 @@
 269090	Barrage d’artillerie
 263601	Mesures désespérées
 269429	Tir chargé
-262412	Bouclier d’énergie
 263628	Griffe chargée
 
 ; Boss: Coin-Operated Crowd Pummeler
@@ -607,9 +608,7 @@
 264396	Talisman spectral
 264390	Sort-lié
 264050	Épine infectée
-278474	Reconstruction d’effigie
 264038	Déracinement
-264556	Frappe déchirante
 264150	Fracasser
 265759	Pointe fracturée
 265760	Salve épineuse

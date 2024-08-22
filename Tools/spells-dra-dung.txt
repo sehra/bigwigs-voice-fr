@@ -13,7 +13,6 @@
 388863	Vide de mana
 388911	Entaille tranchante
 396812	Déflagration mystique
-388886	Pluie arcanique
 388976	Soufflefaille
 388984	Embuscade vicieuse
 388392	Cours monotone
@@ -54,6 +53,7 @@
 376997	Coup de bec sauvage
 
 ; Boss: Echo of Doragosa
+439488	Déchaînement d’énergie
 389011	Puissance accablante
 388901	Faille arcanique
 374361	Souffle astral
@@ -66,7 +66,6 @@
 ; -------------------------------------
 
 ; Boss: Trash
-382435	Totem putrechant
 367503	Explosion flétrissante
 368081	Flétrissement
 367484	Estrogriffe cruelle
@@ -89,8 +88,7 @@
 388046	Tourbillon violent
 385832	Assaut sanguinaire
 385827	Rage sanglante
-384974	Viande odorante
-385058	Poison flétrissant
+384974	Viande avariée
 385029	Hurlement
 383399	Recrudescence pourrissante
 383087	Contagion flétrissante
@@ -150,7 +148,7 @@
 375079	Fureur tourbillonnante
 374823	Appel du zéphyr
 375384	Terre grondante
-385141	Orage
+437719	Frappe-tonnerre
 376171	Courants rafraîchissants
 375351	Souffle océanique
 391634	Froid absolu
@@ -273,6 +271,7 @@
 392394	Gueule de feu
 392486	Tempête de foudre
 392451	Flamméclair
+391050	Bouclier de tempête
 
 ; Boss: Melidrussa Chillworn
 373046	Éveil des Dragonnets
@@ -316,6 +315,7 @@
 387067	Coup des arcanes
 391118	Souffle de givre-sort
 396991	Rugissement bestial
+391136	Coup d’épaule
 
 ; Boss: Leymor
 374364	Pousses telluriques
@@ -361,7 +361,7 @@
 387127	Chaîne d’éclairs
 387125	Frappe-tonnerre
 386028	Coup de tonnerre
-387629	Vent putréfiant
+436841	Vent putréfiant
 387614	Chant des morts
 387596	Vent léger
 387440	Rugissement profanateur
@@ -492,22 +492,24 @@
 413621	Malédiction intemporelle
 413622	Fureur infinie
 412806	Crachement de chancre
+411958	Trait de pierre
 413607	Volée corrodante
+412136	Frappe temporelle
+413024	Rempart titanesque
 412215	Tempête de sable enveloppante
 412922	Emprise aveuglante
 412129	Orbe de contemplation
-412136	Frappe temporelle
-413024	Rempart titanesque
 417481	Déplacement de chronoséquence
 419351	Expiration de bronze
 418200	Brûlure infinie
 411300	Volée poissonneuse
+411407	Barrage bouillonnant
 412156	Bombardement
 412200	Giga-explosion électro-survoltée
 419516	Éruption chronologique
 419511	Lien temporel
-407535	Déployer les sapeurs gobelins
 407205	Mortier instable
+407535	Déployer les sapeurs gobelins
 418684	Déployer les bombardiers nains
 407891	Vague de soins
 407906	Séisme
@@ -516,6 +518,7 @@
 407124	Appel de ralliement
 407125	Plaquage fracassant
 412378	Sables vertigineux
+411952	Aide millénaire
 
 ; Boss: Chronikar
 413142	Éon fracassé
@@ -543,6 +546,7 @@
 414535	Barrage craquepierre
 409456	Afflux de terre
 409635	Expiration pulvérisante
+409879	Créations pulvérisantes
 414184	Oblitération cataclysmique
 
 ; Boss: Tyr, the Infinite Keeper
@@ -579,5 +583,6 @@
 410908	Nova d’infinité
 416139	Souffle temporel
 416264	Corruption infinie
+417413	Cicatrice temporelle
 
 
