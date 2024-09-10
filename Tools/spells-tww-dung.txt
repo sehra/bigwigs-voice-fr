@@ -22,6 +22,8 @@
 438471	Morsure vorace
 438476	Alerte stridente
 438473	Assaut diaphane
+434830	Toile infâme
+436614	Entoilage
 446794	Insatiabilité
 
 ; Boss: Anub'zekt
@@ -251,6 +253,7 @@
 ; Boss: Speaker Shadowcrown
 451026	Approche des ténèbres
 426735	Ombres ardentes
+428086	Trait de l’ombre
 425264	Rafale d’obsidienne
 445996	Effondrement des ténèbres
 453212	Rayon d’obsidienne
@@ -324,6 +327,7 @@
 ; -------------------------------------
 
 ; Boss: Trash
+462500	Énergie de fer imprégnée
 425027	Onde sismique
 447141	Bond pulvérisant
 449455	Peur hurlante

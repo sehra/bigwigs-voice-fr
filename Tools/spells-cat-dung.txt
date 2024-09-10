@@ -34,6 +34,7 @@
 ; Boss: Drahga Shadowburner
 448013	Invocation d’ombreflamme
 450095	Malédiction d’entropie
+447966	Trait d’ombreflamme
 456751	Rafale du Crépuscule
 448105	Flamme dévorante
 82850	Concentration enflammée
@@ -43,6 +44,7 @@
 450077	Afflux de Vide
 450088	Infusion de Vide
 450100	Écraser
+450087	Emprise des profondeurs
 448057	Corruption abyssale
 
 
