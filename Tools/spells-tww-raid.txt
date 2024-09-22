@@ -21,13 +21,15 @@
 
 ; Boss: Ulgrax the Devourer
 434803	Jeu carnivore
+434778	Jeu carnivore
 440849	Rage méprisante
 441452	Toile de traqueur
 439419	Filet de traqueur
-435136	Fouet venimeux
 435138	Acide digestif
+435136	Fouet venimeux
 434697	Écrasement brutal
 434705	Chair attendrie
+445123	Impact massif
 445052	Essaim cliquetant
 439037	Étripage
 438657	Gros viscères
@@ -35,9 +37,10 @@
 443842	Ténèbres engloutissantes
 440177	Prêt à nourrir
 438012	Beuglements affamés
-445123	Impact massif
+455831	Filet renforcé
 
 ; Boss: The Bloodbound Horror
+444497	Invoquer la terreur
 444363	Régurgitation sordide
 443612	Régurgitation sordide
 445570	Chancre de l’Invisible
@@ -60,7 +63,6 @@
 439511	Botte de capitaine
 438845	Démasquer
 432969	Fente phasique
-435410	Fente phasique
 439559	Pluie de flèches
 
 ; Boss: Rasha'nan
@@ -108,33 +110,34 @@
 442277	Nuit éternelle
 
 ; Boss: The Silken Court
-438218	Frappe transperçante
-438801	Appel de l’essaim
 440246	Charge téméraire
 440178	Impact téméraire
 440179	Enchevêtrement
 441791	Éruption enfouie
+438801	Appel de l’essaim
 440504	Éruption empalante
 449857	Empalement
-438200	Éclair de poison
-438656	Pluie venimeuse
+438218	Frappe transperçante
 439838	Bombe de toile
+438656	Pluie venimeuse
 440001	Toiles liantes
 450045	Bond grouillant
+438200	Éclair de poison
 450980	Fracassement d’existence
 460600	Barrage entropique
 438677	Essaim d’insectes piqueurs
 456245	Délire piquant
-441772	Éclair de Vide
+438355	Entropie cataclysmique
 441626	Vortex de rets
 450129	Désolation entropique
 441782	Brins de réalité
 450483	Pas du Vide
-438355	Entropie cataclysmique
+441772	Éclair de Vide
 451277	Tempête de pointes
 460364	Soulèvement sismique
 443068	Éruption de pointes
 442994	Essaim déchaîné
+443598	Rage incontrôlable
 455849	Marque de paranoïa
 460359	Dégénérescence du Vide
 455850	Marque de rage
@@ -154,16 +157,19 @@
 440899	Liquéfaction
 437093	Festin
 439299	Lames de toile
-447207	Prédation
+447076	Prédation
 447456	Venin paralysant
 447411	Extirpation
-447950	Déflagration de l’ombre
-464056	Toucher obscur
 443403	Obscurité
+449940	Apocalypse acide
+447950	Déflagration de l’ombre
+448046	Éruption obscure
+447967	Toucher obscur
+462558	Rupture cosmique
+448458	Apocalypse cosmique
 448147	Ouste
 451600	Rayon d’expulsion
 449236	Crocs caustiques
-449986	Communion aphotique
 443888	Infusion abyssale
 455387	Réverbération abyssale
 445422	Gloutonnerie écumante
@@ -172,8 +178,10 @@
 445152	Essence d’acolyte
 445021	Détonation du Néant
 438976	Condamnation royale
+441865	Entraves royales
 443325	Infestation
 443726	Bébé-araignée sinistre
 443336	Gavage
+451832	Évolution cataclysmique
 
 

@@ -348,6 +348,7 @@
 
 ; Boss: Trash
 256627	Heurtoir écumeux
+;257732	Beuglement fracassant
 256640	Goudron brûlant
 256957	Enveloppe étanche
 257170	Tempête sauvage
@@ -363,6 +364,7 @@
 275835	Enduit de venin cuisant
 
 ; Boss: Chopper Redhook
+274002	Appel de Lamineur
 257459	Au crochet
 257348	Crochet à viande
 257326	Fracas empalant

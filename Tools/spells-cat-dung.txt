@@ -8,16 +8,19 @@
 451871	Secousse de masse
 456696	Piétinement d’obsidienne
 451613	Flamme du Crépuscule
+451614	Braise du Crépuscule
 451939	Vent ombreux
 76711	Incandescence de l’esprit
 451965	Ruée en fusion
 451971	Poing de lave
 451224	Ombreflamme enveloppante
 462216	Ombreflamme flamboyante
+451241	Entaille d’ombreflamme
 456711	Explosion d’ombrelave
 456713	Éruption sombre
 451387	Sublimation
 451391	Transperceur d’esprit
+451395	Corruption
 
 ; Boss: General Umbriss
 448847	Rugissement de commandement

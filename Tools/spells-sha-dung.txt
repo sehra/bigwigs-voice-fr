@@ -128,7 +128,9 @@
 325418	Acide volatil
 340544	Stimulation de régénération
 326046	Stimulation de résistance
+460092	Nova d’acide
 326021	Globule d’acide
+326017	Acide de décomposition
 
 ; Boss: Ingra Maloch
 323137	Pollen stupéfiant
@@ -277,8 +279,8 @@
 317985	Frappe déferlante
 328295	Guérison supérieure
 328288	Bénédiction d’arme
-328458	Diminuendo
 328462	Lance chargée
+328458	Diminuendo
 
 ; Boss: Kin-Tara
 320966	Entaille écrasante

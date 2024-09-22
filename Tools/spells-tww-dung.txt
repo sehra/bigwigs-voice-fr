@@ -13,6 +13,8 @@
 438877	Appel de la couvée
 438826	Nuage toxique
 453161	Empaler
+465012	Heurtoir
+432967	Cri d’alerte strident
 448248	Volée révoltante
 433845	Rets éruptifs
 433841	Volée de venin
@@ -55,6 +57,7 @@
 441627	Miel régénérant
 441434	Cuvée ratée
 448619	Livraison imprudente
+441179	Miel dégoulinant
 441119	Lance-abeille
 442589	Cire d’abeille
 442995	Surprise grouillante
@@ -144,12 +147,15 @@
 ; Boss: Trash
 423501	Torgnole sauvage
 425536	Taupes frénétiques
+426883	Bam !
 440652	Montée de cire
+428650	Contrecoup ardent
 424322	Flamme explosive
 426261	Flamme perpétuelle
 426295	Attache enflammée
 426619	Clé à une main
 426260	Pyrotorgnole
+422393	Ténèbres suffocantes
 422414	Frappe des ombres
 422541	Drain de lumière
 
@@ -176,7 +182,7 @@
 426943	Obscurité grandissante
 427157	Appel de ténébreux
 427025	Entaille ombreuse
-427015	Déflagration de l’ombre
+427011	Déflagration de l’ombre
 427176	Drain de lumière
 
 
@@ -205,6 +211,7 @@
 427346	Feu intérieur
 427484	Choc de flammes
 427601	Rafale lumineuse
+424429	Consécration
 444743	Volée de boules de feu
 
 ; Boss: Captain Dailcry
@@ -235,7 +242,9 @@
 449042	Lumière radieuse
 431309	Ombres d’enracinement
 432448	Graine stygienne
+431364	Rayon tourmenteur
 450756	Hurlement abyssal
+431491	Entaille souillée
 451107	Cocon explosif
 451091	Poser une bombe arathie
 451102	Décomposition de l’ombre
@@ -333,6 +342,7 @@
 449455	Peur hurlante
 426308	Infection du Vide
 426771	Explosion de Vide
+459210	Griffe d’ombre
 445207	Geignement perçant
 429545	Équipement de censure
 426345	Salve de cristal
