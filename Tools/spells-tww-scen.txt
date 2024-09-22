@@ -1,0 +1,268 @@
+; Type: The War Within Delves
+
+; -------------------------------------
+; Zone: Delve Trash
+; -------------------------------------
+
+; Boss: Fungarian
+427710	Exporesion
+414944	Rugissement de bataille
+424891	Lance de lierre
+424773	Sporogenèse
+424798	Ballonnement éruptif
+424704	Coups cruels
+425040	Salve de moisissure
+425042	Vague de spores
+424750	Spores infectieuses
+372529	Rire ignoble
+
+; Boss: Kobold
+449071	Mèche flamboyante
+448399	Cri de bataille
+445210	Charge de feu
+445191	Salve brûlemèche
+448528	Lancer de dynamite
+
+; Boss: Kobyss
+455932	Souffle profanateur
+445252	Fin nécrotique
+430037	Harponnage
+440622	Malédiction des profondeurs
+445492	Enchaînement dentelé
+445407	Assoiffé de sang
+445774	Frénésie agitée
+374898	Enrager
+445771	Afflux de bulles
+
+; Boss: Nerubian
+450714	Barbelures dentelées
+450637	Essaim sangsue
+449318	Ombres du conflit
+450546	Égide entoilée
+450509	Grand balayage
+433410	Cri perçant effroyable
+450197	Charge de trotteuse
+433448	Lancement de toile
+
+; Boss: Nightfall
+441129	Repéré !
+434740	Barrière d’ombre
+443292	Frappe ombreuse
+434281	Écho de Renilash
+443482	Bénédiction du crépuscule
+440205	Infliger la mort
+
+; Boss: Underkeep
+451913	Orbe de mornetoile
+;450714	Barbelures dentelées
+;450637	Essaim sangsue
+448179	Carapace cuirassée
+448155	Tremblements d’onde de choc
+448161	Enrager
+453149	Toile diaphane
+
+; Boss: Rares
+445781	Déflagration de lave
+445718	Marteau de magma
+415253	Souffle fongique
+415250	Floraison fongique
+462686	Broyeur de crânes
+400335	Pièges à clous
+461741	Consécration
+459421	Lumière sacrée
+418295	Entaille ombreuse
+418297	Châtier
+458325	Danse d’évitement
+458311	Morsure venimeuse
+458397	Cri d’interruption
+458369	Volée de venin
+458104	Volée de venin
+458090	Tranche-Vide
+458099	Ténèbres avides
+449038	Pals
+450519	Toile de pêche
+450492	Rugissement épouvantable
+450505	Bave affaiblissante
+
+
+; -------------------------------------
+; Zone: Earthcrawl Mines
+; -------------------------------------
+
+; Boss: Web General Ab'enar
+448443	Malédiction d’agonie
+448412	Chariot en flammes
+448444	Entraves runiques
+
+
+; -------------------------------------
+; Zone: Fungal Folly
+; -------------------------------------
+
+; Boss: Spinshroom
+415406	Champête
+415499	Pris de vertige
+415492	Charge fongique
+425315	Champixplosion
+
+
+; -------------------------------------
+; Zone: Kriegval's Rest
+; -------------------------------------
+
+; Boss: Tomb-Raider Drywhisker
+449242	Tempête de flamme
+449295	Heurt terrestre
+449339	Crise de colère noire
+
+
+; -------------------------------------
+; Zone: Mycomancer Cavern
+; -------------------------------------
+
+; Boss: Bogpiper
+454213	Charge boueuse
+470582	Trait des marais
+453897	Chant des spores
+
+
+; -------------------------------------
+; Zone: Nightfall Sanctum
+; -------------------------------------
+
+; Boss: Reformed Fury
+443837	Balayage de l’ombre
+;443482	Bénédiction du crépuscule
+444408	Fureur de mandataire
+444479	Volée de sombrefeu
+;440205	Infliger la mort
+;434281	Écho de Renilash
+
+; Boss: Speaker Halven
+;443837	Balayage de l’ombre
+443908	Feu !
+443840	Afflux de désolation
+
+
+; -------------------------------------
+; Zone: Skittering Breach
+; -------------------------------------
+
+; Boss: Faceless One
+458849	Choc sombrefaille
+458853	Drain de l’ombre
+458867	Appel caché
+
+; Boss: Nerl'athekk the Skulking
+454762	Réduction obscure
+440806	Choc sombrefaille
+
+; Boss: Speaker Xanventh
+458874	Vague de l’ombre
+458834	Tourbillombre
+458879	Bénédiction du crépuscule
+
+
+; -------------------------------------
+; Zone: Tak-Rethan Abyss
+; -------------------------------------
+
+; Boss: Undersea Abomination
+446300	Polype des profondeurs
+446405	Infection fongique
+446230	Déflagration repoussante
+
+
+; -------------------------------------
+; Zone: The Dread Pit
+; -------------------------------------
+
+; Boss: Under-Lord Vik'tis
+448634	Empaler
+448644	Tremblements de fouissement
+448663	Essaim d’insectes piqueurs
+
+
+; -------------------------------------
+; Zone: The Sinkhole
+; -------------------------------------
+
+; Boss: Leviathan Caller
+446079	Appel des abysses
+442422	Étreinte abyssale
+
+; Boss: Mirror Master Murkna
+445860	Illusions noyées
+
+
+; -------------------------------------
+; Zone: The Spiral Weave
+; -------------------------------------
+
+; Boss: Overseer Kaskel
+;449038	Pals
+;448644	Tremblements de fouissement
+449072	Appel d’ouvriers
+
+; Boss: The Puppetmaster
+;451913	Orbe de mornetoile
+;450197	Charge de trotteuse
+;450546	Égide entoilée
+;450509	Grand balayage
+;450714	Barbelures dentelées
+;448663	Essaim d’insectes piqueurs
+
+
+; -------------------------------------
+; Zone: The Underkeep
+; -------------------------------------
+
+; Boss: Researcher Ven'kex
+446832	Imprégnation de poison
+447187	Pourfendre le Vide
+447143	Rets enveloppants
+
+; Boss: Researcher Xik'vi
+;446832	Imprégnation de poison
+;447187	Pourfendre le Vide
+;447143	Rets enveloppants
+
+
+; -------------------------------------
+; Zone: The Waterworks
+; -------------------------------------
+
+; Boss: Waxface
+450330	Jet de cire
+450142	Brûlures lointaines
+450128	Gaz nocif
+
+
+; -------------------------------------
+; Zone: Zekvir's Lair
+; -------------------------------------
+
+; Boss: Zekvir (Tier ?)
+450451	Fracas de griffes
+;450505	Bave affaiblissante
+;450492	Rugissement épouvantable
+;450519	Toile de pêche
+450568	Appel de terreur de toile
+453937	Éclosion…
+450597	Jet de toile
+
+; Boss: Zekvir (Tier ??)
+;450451	Fracas de griffes
+;450505	Bave affaiblissante
+;450492	Rugissement épouvantable
+;450519	Toile de pêche
+450449	Carapace régénérante
+;450568	Appel de terreur de toile
+;453937	Éclosion…
+;450597	Jet de toile
+451003	Sang noir
+450872	Épines infinies
+450914	Carapace imprégnée de sang
+451782	Horreur infinie
+
+
