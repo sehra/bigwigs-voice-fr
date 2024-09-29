@@ -351,6 +351,7 @@
 ;257732	Beuglement fracassant
 256640	Goudron brûlant
 256957	Enveloppe étanche
+272662	Crochet en fer
 257170	Tempête sauvage
 257288	Entaille profonde
 454437	Charge d’azérite

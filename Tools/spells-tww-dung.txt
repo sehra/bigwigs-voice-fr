@@ -131,6 +131,7 @@
 461842	Choc visqueux
 441395	Impulsion noire
 461880	Vague de sang
+461825	Sang noir
 
 ; Boss: Izo, the Grand Splicer
 439401	Anomalies changeantes
@@ -248,6 +249,7 @@
 451107	Cocon explosif
 451091	Poser une bombe arathie
 451102	Décomposition de l’ombre
+451119	Explosion abyssale
 450854	Orbe sombre
 451117	Heurt terrifiant
 451098	Nova collante
@@ -338,6 +340,7 @@
 ; Boss: Trash
 462500	Énergie de fer imprégnée
 425027	Onde sismique
+425974	Sol martelé
 447141	Bond pulvérisant
 449455	Peur hurlante
 426308	Infection du Vide

@@ -219,11 +219,13 @@
 
 ; Boss: Researcher Ven'kex
 446832	Imprégnation de poison
+463408	Imprégnation de givre
 447187	Pourfendre le Vide
 447143	Rets enveloppants
 
 ; Boss: Researcher Xik'vi
 ;446832	Imprégnation de poison
+;463408	Imprégnation de givre
 ;447187	Pourfendre le Vide
 ;447143	Rets enveloppants
 
