@@ -80,6 +80,8 @@
 458090	Tranche-Vide
 458099	Ténèbres avides
 449038	Pals
+457880	Sublimation
+457448	Éruption ombreuse
 450519	Toile de pêche
 450492	Rugissement épouvantable
 450505	Bave affaiblissante

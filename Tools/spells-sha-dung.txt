@@ -108,6 +108,7 @@
 322938	Récolte d’essence
 322569	Main des Ulterres
 322557	Scission d’âme
+322968	Dernier souffle
 324909	Lacération furieuse
 324923	Explosion de ronces
 463256	Gardien de brume
@@ -131,6 +132,7 @@
 460092	Nova d’acide
 326021	Globule d’acide
 326017	Acide de décomposition
+326090	Attaque cinglante
 
 ; Boss: Ingra Maloch
 323137	Pollen stupéfiant
@@ -414,7 +416,6 @@
 
 ; Boss: Trash
 334748	Drain des fluides
-323190	Bouclier de viande
 323347	Ténèbres tenaces
 322756	Courroux de Zolramus
 321780	Animer les morts
@@ -470,6 +471,7 @@
 321368	Égide glaciale
 320788	Étau du froid
 321894	Sombre exil
+328181	Froidure glaciale
 
 
 ; -------------------------------------

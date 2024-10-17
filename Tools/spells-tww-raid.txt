@@ -160,14 +160,15 @@
 447456	Venin paralysant
 447411	Extirpation
 443403	Obscurité
+460369	Portail d’ombre
 449940	Apocalypse acide
 447950	Déflagration de l’ombre
 448046	Éruption obscure
 447967	Toucher obscur
-462558	Rupture cosmique
 448458	Apocalypse cosmique
 448147	Ouste
 451600	Rayon d’expulsion
+455374	Détonation obscure
 449236	Crocs caustiques
 443888	Infusion abyssale
 455387	Réverbération abyssale

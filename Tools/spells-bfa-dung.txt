@@ -353,14 +353,16 @@
 256957	Enveloppe étanche
 272662	Crochet en fer
 257170	Tempête sauvage
+257270	Embuscade de fer
 257288	Entaille profonde
 454437	Charge d’azérite
+275826	Cri galvanisant
 272421	Marquage d’artillerie
 268260	Bordée
-275826	Cri galvanisant
 257169	Rugissement terrifiant
 272711	Heurt écrasant
 272546	Saccage de bananes
+454440	Vomi puant
 272571	Risques de noyade
 275835	Enduit de venin cuisant
 
@@ -368,6 +370,7 @@
 274002	Appel de Lamineur
 257459	Au crochet
 257348	Crochet à viande
+;272662	Crochet en fer
 257326	Fracas empalant
 257585	Barrage au canon
 273721	Munition lourde

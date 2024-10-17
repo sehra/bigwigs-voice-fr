@@ -19,6 +19,7 @@
 433845	Rets éruptifs
 433841	Volée de venin
 434252	Heurt massif
+433821	Frappe audacieuse
 
 ; Boss: Avanoxx
 438471	Morsure vorace
@@ -95,17 +96,22 @@
 ; -------------------------------------
 
 ; Boss: Trash
+448305	Puissance dérobée
 443437	Ombres de doute
+443433	Pensées perverties
 443430	Lien de soie
 443500	Choc sismique
+443507	Essaim vorace
 450784	Lancer de parfum
 451423	Barrage diaphane
 441795	Voile de phéromones
 448047	Entoilage
 451543	Heurtoir du néant
+451222	Ruée du Vide
 452162	Toile curative
 434137	Projection venimeuse
 445813	Barrage noir
+436205	Piétinement féroce
 446086	Vague de Vide
 446717	Tissage ombreux
 447271	Heurt de secousses
@@ -129,8 +135,8 @@
 ; Boss: The Coaglamation
 441289	Ténèbres visqueuses
 461842	Choc visqueux
-441395	Impulsion noire
 461880	Vague de sang
+441395	Impulsion noire
 461825	Sang noir
 
 ; Boss: Izo, the Grand Splicer
