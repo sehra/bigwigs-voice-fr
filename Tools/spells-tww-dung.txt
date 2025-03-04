@@ -5,8 +5,10 @@
 ; -------------------------------------
 
 ; Boss: Trash
+434830	Toile infâme
+436614	Entoilage
 439208	Entoilage de soie
-438622	Rupture toxique
+438622	Amplification !
 434793	Barrage de résonance
 434824	Jet de toiles
 434802	Stridulence horrifiante
@@ -15,9 +17,11 @@
 453161	Empaler
 465012	Heurtoir
 432967	Cri d’alerte strident
+433002	Frappe d’extraction
 448248	Volée révoltante
 433845	Rets éruptifs
 433841	Volée de venin
+433785	Entaille saisissante
 434252	Heurt massif
 433821	Frappe audacieuse
 
@@ -25,8 +29,6 @@
 438471	Morsure vorace
 438476	Alerte stridente
 438473	Assaut diaphane
-434830	Toile infâme
-436614	Entoilage
 446794	Insatiabilité
 
 ; Boss: Anub'zekt
@@ -51,15 +53,17 @@
 ; Boss: Trash
 437721	Flammes bouillonnantes
 437956	Éruption de fournaise
-434761	Piétinement puissant
+463218	Baril instable
 434706	Lancer de Brassecendre
-434998	Haute cuisine
 463206	Attendrir
+434998	Haute cuisine
 441627	Miel régénérant
 441434	Cuvée ratée
 448619	Livraison imprudente
 441179	Miel dégoulinant
+441242	Des échantillons gratuits ?
 441119	Lance-abeille
+441351	Courroux d’abeille
 442589	Cire d’abeille
 442995	Surprise grouillante
 440687	Volée de miel
@@ -72,12 +76,14 @@
 432198	Vomissement flamboyant
 432179	Lancer de Brassecendre
 432229	Fracasse-tonneau
+432196	Miel chaud
 
 ; Boss: I'pa
 439365	Bière brune jaillissante
 440147	Remplissage
 439202	Fermentation brûlante
 439031	Hydromel percutant
+;441179	Miel dégoulinant
 
 ; Boss: Benk Buzzbee
 438025	Casse-croûte
@@ -99,6 +105,7 @@
 448305	Puissance dérobée
 443437	Ombres de doute
 443433	Pensées perverties
+443397	Frappe de venin
 443430	Lien de soie
 443500	Choc sismique
 443507	Essaim vorace
@@ -109,6 +116,7 @@
 451543	Heurtoir du néant
 451222	Ruée du Vide
 452162	Toile curative
+452151	Direct rigoureux
 434137	Projection venimeuse
 445813	Barrage noir
 436205	Piétinement féroce
@@ -153,43 +161,51 @@
 
 ; Boss: Trash
 423501	Torgnole sauvage
+428066	Rugissement bouleversant
 425536	Taupes frénétiques
+428019	Poudrière
 426883	Bam !
-440652	Montée de cire
+440652	Flamme jaillissante
+430171	Rafale d’extinction
 428650	Contrecoup ardent
 424322	Flamme explosive
-426261	Flamme perpétuelle
 426295	Attache enflammée
+1218131	Bougies enflammées
+426261	Flamme perpétuelle
 426619	Clé à une main
+1218117	Piétinement violent
 426260	Pyrotorgnole
 422393	Ténèbres suffocantes
-422414	Frappe des ombres
 422541	Drain de lumière
 
 ; Boss: Ol' Waxbeard
 422116	Charge téméraire
 422245	Briseur de pierres
-423693	Flammebougie attirante
+422163	Flammebougie attirante
+429093	Tactique vis-cieuse
 
 ; Boss: Blazikon
 421817	Barrage brûlemèche
 424212	Inciter les flammes
 423109	Fournaise d’embrasement
-443835	Tempêtes flamboyantes
 425394	Souffle extincteur
-422700	Bourrasque d’extinction
+443835	Tempêtes flamboyantes
+421910	Bourrasque d’extinction
 
 ; Boss: The Candle King
 420659	Moules étranges
 422648	Pioche flamme-noire
 426145	Esprit paranoïaque
 420696	Lancer de flamme-noire
+421067	Cire fondue
+421653	Cire maudite
 
 ; Boss: The Darkness
 426943	Obscurité grandissante
 427157	Appel de ténébreux
 427025	Entaille ombreuse
 427011	Déflagration de l’ombre
+428266	Ténèbres éternelles
 427176	Drain de lumière
 
 
@@ -203,23 +219,29 @@
 448492	Coup de tonnerre
 427897	Vague de chaleur
 427950	Sceau des flammes
-429091	Feu intérieur
+427900	Bassin de magma
 428150	Bouclier réflecteur
 424621	Coup brutal
 424423	Attaque en fente
 424431	Radiance sacrée
 448515	Jugement divin
-427583	Repentir
 424420	Déflagracendre
 424462	Tempête de braises
 427609	Cri perturbant
 427342	Défense
+453458	Chausse-trapes
+462859	Tir au pot
+446776	Traquenard
 427356	Soins supérieurs
-427346	Feu intérieur
 427484	Choc de flammes
+448787	Purification
 427601	Rafale lumineuse
 424429	Consécration
+448791	Glas sacré
+444728	Courroux du templier
+427596	Sceau de furie de la Lumière
 444743	Volée de boules de feu
+435165	Frappe embrasée
 
 ; Boss: Captain Dailcry
 424419	Cri de bataille
@@ -232,13 +254,18 @@
 423015	Bouclier de fustigateur
 423051	Lumière ardente
 423062	Marteau de pureté
+446368	Bûcher sacrificiel
+446403	Flamme sacrificielle
+446525	Bûcher déchaîné
 
 ; Boss: Prioress Murrpray
 423588	Barrière de lumière
 423664	Étreinte de la Lumière
 444546	Purification
+425556	Terre sanctifiée
 444608	Feu intérieur
 451605	Flamme sacrée
+428169	Lumière aveuglante
 
 
 ; -------------------------------------
@@ -261,7 +288,9 @@
 451098	Nova collante
 451097	Carapace soyeuse
 431494	Tranchant noir
+451112	Rage tacticienne
 432520	Barrière ombreuse
+431637	Ruée ombreuse
 432565	Grêle noire
 431304	Blocs obscurs
 431349	Éruption tourmentante
@@ -301,42 +330,42 @@
 ; Boss: Trash
 426893	Lien du Vide
 450628	Bouclier entropique
-427323	Bombardement chargé
+474018	Éclair sauvage
 427404	Tempête localisée
-427260	Freux enragé
-430013	Frappe-tonnerre
+427260	Explosion de foudre
 427616	Barrage énergisé
-423979	Implosion
-430754	Carapace du Vide
+474031	Écrasement du Vide
 430179	Corruption suintante
 430812	Attraction d’ombres
+430805	Arc du Vide
 443854	Instabilité
-432959	Salve du Vide
-432638	Commande du Vide
-432781	Étreinte du Vide
-430288	Ténèbres écrasantes
+1214546	Vague ombreuse
+1214523	Vide dévorant
+472764	Extraction de Vide
+1214628	Déchaînement de ténèbres
 
 ; Boss: Kyrioss
 444123	Torrent de foudre
+1214325	Tonnerre fracassant
+;474018	Éclair sauvage
 419870	Ruée foudroyante
-424148	Chaîne d’éclairs
-420739	Charge instable
 
 ; Boss: Stormguard Gorren
 424737	Corruption chaotique
 425048	Gravité sombre
 424958	Réalité écrasée
+424966	Vide persistant
 424797	Vulnérabilité chaotique
 
 ; Boss: Voidstone Monstrosity
 423305	Bouleversement du Néant
 445262	Carapace du Vide
-429493	Déchaîner la corruption
+429493	Corruption instable
+433067	Corruption suintante
 445457	Vague d’oubli
 423393	Entropie
 458082	Charge de chevaucheur de tempête
 424371	La vengeance de la tempête
-423839	Électrocution
 
 
 ; -------------------------------------
@@ -359,6 +388,7 @@
 449130	Canon de lave
 449154	Mortier en fusion
 448640	Ruée au bouclier
+428894	Frappe brise-pierre
 429427	Totem d’explosion de terre
 428879	Fracas de roche
 428703	Éruption de granit
@@ -388,6 +418,66 @@
 ; Boss: Void Speaker Eirich
 427461	Corruption du Vide
 427852	Rétribution entropique
+457465	Entropie
 427869	Vide débridé
+
+
+; -------------------------------------
+; Zone: Operation: Floodgate
+; -------------------------------------
+
+; Boss: Trash
+474337	Destruction
+465754	Lance-flammes
+1214468	Tir précis
+465120	Remonter
+463058	Ricanement sanguinaire
+1216039	R.P.G.G.
+465682	Inspection surprise
+465827	Distorsion sanguine
+465813	Venin léthargique
+462771	Rayon d’inspection
+465408	Construction rapide
+468726	Placer la charge d’hydroglycérine
+468631	Harpon
+471736	Éjection de varech
+471733	Algue curative
+1214337	Placer les bombes
+469818	Rot de bulles
+1217496	Splitch splatch
+469721	Ressac
+469799	Supercharge
+465666	Heurtoir fulgurant
+
+; Boss: Big M.O.M.M.A.
+460156	Démarreur
+473287	Électrification excessive
+471585	Mobilisation des mécadrones
+473351	Écrasement foudroyant
+473220	Grondement sonore
+469981	Barrière bloque-mort
+1214780	Distorsion maximale
+472452	Tempête funeste
+
+; Boss: Demolition Duo
+470090	Duo divisé
+460867	Gros badaBOUM !
+1217653	B.B.B.F.G.
+473690	Gel explosif cinétique
+459779	Charge incontrôlable
+459799	Torgnole
+
+; Boss: Swampface
+473070	Éveil du marais
+473114	Coulée de boue
+469478	Griffes de vase
+470039	Lianes étrangle-lames
+
+; Boss: Geezle Gigazap
+465463	Charge turbo
+468841	Étincelles bondissantes
+468813	Gigazap
+466190	Coup de poing tonnerre
+468723	Eau électrifiée
 
 

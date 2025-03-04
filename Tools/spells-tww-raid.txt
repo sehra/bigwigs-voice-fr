@@ -115,6 +115,7 @@
 440179	Enchevêtrement
 441791	Éruption enfouie
 438801	Appel de l’essaim
+438749	Fixation de scarabée
 440504	Éruption empalante
 449857	Empalement
 438218	Frappe transperçante
@@ -183,5 +184,166 @@
 443726	Bébé-araignée sinistre
 443336	Gavage
 451832	Évolution cataclysmique
+
+
+; -------------------------------------
+; Zone: Liberation of Undermine
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Vexie and the Geargrinders
+466615	Plaque protectrice
+471403	Carambolage incessant
+459943	Appel des motards
+459678	Jet de naphte
+459683	Nappe de naphte
+468216	Feu incendiaire
+459978	Bombe voyage !
+465865	Exploseur de tank
+468147	Gaz d’échappement
+460116	Mise au point
+
+; Boss: Cauldron of Carnage
+465833	Fracas colossal
+471660	Posture de garde
+471557	Roi du carnage
+1221826	Petite bagarre
+472222	Hargne caustique
+473650	Bombe à ferrailles
+1214039	Bassin de magma
+1213690	Mucus en fusion
+472233	Canon rugissant à déflagration
+1214190	Piétinement d’éruption
+472225	Hargne galvanisée
+474159	Charge statique
+463900	Salve de baril du tonnerre
+1213994	Image voltaïque
+463925	Électricité rémanente
+466178	Frappe foudroyante
+
+; Boss: Rik Reverb
+473748	Amplification !
+1217122	Tension résiduelle
+468119	Échos résonnants
+1214598	En transe
+466093	Détraquement
+466866	Chant résonnant
+467606	Canon à son
+466979	Décharge défectueuse
+472306	Ignition d’étincexplosion
+1214164	Excitation
+464518	Acouphène
+473260	Drop tonitruant
+473655	Engouement !
+
+; Boss: Stix Bunkjunker
+464399	Tri électromagnétique
+461536	Déchet roulant
+465741	Décharge
+465611	Coup de boule !
+464854	Tas de détritus
+465747	Explosion fatale étouffée
+1217975	Explosion fatale
+1219384	Recyclage de roquettes
+1220648	Porte la marque de « recyclage »
+466748	Morsure infectieuse
+464149	Incinérateur
+472893	Incinération
+464248	Détritus chauds
+464112	Démolissage
+1217954	Fusion
+467117	Surmultiplicateur
+467135	Compacteur de déchets
+1218704	Prototype de bobine énergétique
+
+; Boss: Sprocketmonger Lockenstock
+1216802	Générateur de polarisation
+1216911	Posi-polarisation
+1216934	Néga-polarisation
+1219047	Catastr’explosion polarisée
+473276	Activation d’inventions !
+1217231	Pulvéropied
+1218342	Shrapnel instable
+1218418	Transfert électrique
+1216509	Vissiés
+465232	Badaboum sonore
+1214878	Pyro-sacoche
+465917	Gravicrasses
+466860	Techno de pointe
+1218319	Explovide
+468791	Gigamort
+
+; Boss: The One-Armed Bandit
+460181	Combinaison gagnante
+460444	Flambe !
+469993	Échappement polluant
+460472	Coup de jus
+461060	Activer pour gagner !
+461068	Fraude détectée !
+465009	Regard explosif
+474665	Aimant en fer à cheval
+464705	Ticket doré
+460582	Surcharge !
+471927	Flammes flétrissantes
+465765	Cycle de maintenance
+465432	Machines liées
+465322	Chaleur écrasante
+465580	Paiement dispersé
+465587	Jackpot explosif
+
+; Boss: Mug’Zee, Heads of Security
+466385	Moxie
+1216142	Fureur duobsessionnelle
+472631	Geôle du Trembleterre
+1214623	Rage
+472782	Rendre hommage
+470910	Évasion de geôle
+466476	Bottes fracasse-givre
+466480	Lance fracasse-givre
+466509	Doigt-pistolet furie-des-tempêtes
+466518	Phalanges d’or en fusion
+467202	Or dégoulinant
+466539	Mines rampantes instables
+469043	Shrapnel brûlant
+467380	Fusée à guidage gobelin
+466545	Tir à l’aveugle
+-31766	Électrochoqueur mod. II
+1215595	Mauvais câblage
+469491	Double coup dur
+469391	Plaie perforante
+1215953	Charge statique
+471574	Pluie de balles
+463967	Furie sanguinaire
+
+; Boss: Chrome King Gallywix
+1220761	Cartouches du Mékingénieur
+466340	Cartouches à fragmentation
+465952	Bardée de bombes balèzes
+466154	Brûlures explosives
+466165	« Obus » de 1 500 livres
+466246	Détonation focalisée
+1217292	Crépitement à décalage
+467182	Suppression
+466751	Chaleur diffusée
+1220290	Tirs piégés
+469286	Gigabobines
+469327	Giga-explosion
+469404	Giga-BOUM !
+1220846	Défaillance des commandes
+1215209	Zone de sabotage
+466341	Cartouches fusionnées
+-31482	Technicien imprégné de ténèbres
+469362	Gigabombe chargée
+471352	Alimentez-la !
+466834	Barrage foudroyant
+1216845	Clé à molette
+1216852	Rage chancelante
+1214226	Cratérisation
+1214229	Blindage de classe Armageddon
+1214369	DESTRUCTION ABSOLUE !!!
+1214607	Boum de bombes bien balèzes
+466342	Cartouches tic-tac
+466958	Ego sous contrôle
 
 

@@ -7,10 +7,12 @@
 ; Boss: Trash
 451871	Secousse de masse
 456696	Piétinement d’obsidienne
+451364	Frappe brutale
 451612	Flamme du Crépuscule
 451614	Braise du Crépuscule
 451939	Vent ombreux
-76711	Incandescence de l’esprit
+451378	Dislocation
+76711	Esprit enchaîné
 451965	Ruée en fusion
 451971	Poing de lave
 451224	Ombreflamme enveloppante

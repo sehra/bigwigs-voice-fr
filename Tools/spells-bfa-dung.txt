@@ -208,22 +208,21 @@
 303941	Contre-mesure défensive
 301088	Explosion
 294103	Barrage de fusées
-294324	Méga foreuse
-294290	Traitement des déchets
-294349	Déchets instables
+1215409	Méga foreuse
+1215411	Percer
+1215412	Bouillie corrosive
+1217819	Mâchoires ardentes
 293827	Giga-torgnole
+293854	Activation de l’écureuil antipersonnel
 293861	Écureuil antipersonnel
 294195	Arc électrique
 297133	Contre-mesure défensive
 297128	Court-circuit
-294015	Lancement de roquettes hautement explosives
 293986	Impulsion sonique
 295169	Décharge du condensateur
 293729	Régler
 293930	Suralimenter
-293670	Tronçonneuse
 293683	Générateur de bouclier
-294180	Rebut enflammé
 
 ; Boss: King Gobbamak
 297254	Violent coup chargé
@@ -256,30 +255,34 @@
 303885	Explosion fulminante
 
 ; Boss: Tussle Tonks
+1216443	Orage électrique
 282801	Placage en platine
-285020	Tranchant tourbillonnant
-285344	Poser une mine
-285152	Retourneur d’adversaire
-285388	Jets d’écope
+1215065	Frappe de platine
+1215102	Sol martelé
 283422	Poussée maximum
+1216431	Mine de C0M84T
+285152	Retourneur d’adversaire
 
 ; Boss: K.U.-J.0.
 291930	Largage aérien
 291946	Expulsion de flammes
+291937	À l’abri derrière la ferraille
 291973	Bond explosif
 294929	Mâchoire ardente
 
 ; Boss: Machinist's Garden
+294853	Activation de la plante
 294855	Floraison explosive
 285440	Canon lance-flammes « caché »
 285454	Discom-BOMBE-ulateur
 
 ; Boss: King Mechagon
 291865	Recalibrage
-291928	Giga-décharge
+291928	Mégadécharge
 291613	Décollage !
 291626	Rayon coupant
 283551	Magnéto-bras
+292264	Mégadécharge
 292290	Protocole : quatre-vingt-dix-neuf
 
 
@@ -349,14 +352,17 @@
 ; Boss: Trash
 256627	Heurtoir écumeux
 ;257732	Beuglement fracassant
+256616	Casseur de dents
 256640	Goudron brûlant
 256957	Enveloppe étanche
 272662	Crochet en fer
 257170	Tempête sauvage
 257270	Embuscade de fer
+256709	Acier chantant
 257288	Entaille profonde
 454437	Charge d’azérite
 275826	Cri galvanisant
+257168	Entaille maudite
 272421	Marquage d’artillerie
 268260	Bordée
 257169	Rugissement terrifiant
@@ -364,6 +370,7 @@
 272546	Saccage de bananes
 454440	Vomi puant
 272571	Risques de noyade
+272588	Blessures putréfiées
 275835	Enduit de venin cuisant
 
 ; Boss: Chopper Redhook
@@ -450,56 +457,56 @@
 ; -------------------------------------
 
 ; Boss: Trash
-268846	Lame échoïque
-268865	Canon de souffle
-269302	Lames toxiques
-267433	Activation du méca
-281621	Charge traumatisante
-268709	Bouclier de terre
-263202	Javelot de pierre
-268702	Secousse furieuse
-263215	Bouclier tectonique
-263066	Sérum de transfiguration
-263103	Chalumeau
-262540	Surcharge
-262554	Réparation
-262947	Injection d’azérite
-268797	Transmutation : ennemi en masse visqueuse
-269313	Bouquet final
-268362	Charge excavatrice
-280605	Gel mental
 280604	Vaporisation de glace
-268129	Kaja’Cola bien frais
-268415	Passer en force
+267433	Activation du méca
+263628	Bouclier chargé
+472041	Gaz lacrymogène
 262092	Inhalation de vapeurs
-269090	Barrage d’artillerie
-263601	Mesures désespérées
+1217279	Uppercut
+269302	Lames toxiques
+267354	Éventail de couteaux
+473168	Extraction rapide
+;1215411	Percer
+263202	Javelot de pierre
+268362	Charge excavatrice
+269313	Bouquet final
+268712	Chapelet de bombes
+268702	Secousse furieuse
+1214754	Heurt massif
+1213139	Prolongation !
+268846	Lame échoïque
+473304	Tempête cérébrale
+268797	Transmutation : ennemi en masse visqueuse
 269429	Tir chargé
-263628	Griffe chargée
+262383	Déploiement de mine rampante
+262377	Frappe ciblée
+269090	Barrage d’artillerie
 
 ; Boss: Coin-Operated Crowd Pummeler
 269493	Lancement de bomballe
 256493	Azérite incandescente
-262347	Impulsion statique
-257337	Griffe de choc
-271784	Lancer de pièces
+271903	Aimant en fer à cheval
 271867	Payer pour gagner
+262347	Impulsion statique
+1217294	Griffe de choc
+271784	Lancer de pièces
 
 ; Boss: Azerokk
 271698	Imprégnation d’azérite
-258622	Impulsion résonante
+258622	Secousse résonante
 257593	Appel d’enrageterre
 257582	Regard enragé
 275907	Frappe tectonique
 
 ; Boss: Rixxa Fluxflame
-270028	Catalyseur d’azérite
-259853	Brûlure chimique
-260669	Déflagration de propulseur
+270042	Catalyseur d’azérite
+259940	Déflagration de propulseur
+275992	Projection de catalyseur
+259856	Brûlure chimique
 
 ; Boss: Mogul Razdunk
 260280	Mitrailleuse
-260829	Projectile guidé
+260813	Projectile guidé
 276229	Micro-missiles
 271456	Coup de foreuse
 

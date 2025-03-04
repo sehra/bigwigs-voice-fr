@@ -5,7 +5,7 @@
 ; -------------------------------------
 
 ; Boss: Fungarian
-427710	Exporesion
+1217589	Exporesion
 414944	Rugissement de bataille
 424891	Lance de lierre
 424773	Sporogenèse
@@ -15,6 +15,15 @@
 425042	Vague de spores
 424750	Spores infectieuses
 372529	Rire ignoble
+
+; Boss: Goblin
+473684	Tempête de boulons
+473550	Barrage de fusées
+474001	Baignade de sang
+473995	Bain de sang
+473972	Charge téméraire
+474004	Secousse foreuse
+1213656	Prolongation !
 
 ; Boss: Kobold
 449071	Mèche flamboyante
@@ -52,6 +61,15 @@
 443482	Bénédiction du crépuscule
 440205	Infliger la mort
 
+; Boss: Old God
+474325	Emprise abyssale
+474482	Attrait du Vide
+474511	Frappe des ombres
+474206	Piétinement de l’ombre
+474223	Choc commotionnant
+474155	Traînée de gelée
+474228	Déflagration d’ombre
+
 ; Boss: Underkeep
 451913	Orbe de mornetoile
 ;450714	Barbelures dentelées
@@ -61,7 +79,28 @@
 448161	Enrager
 453149	Toile diaphane
 
-; Boss: Rares
+; Boss: Underpin Rares
+1216790	Charge en avant
+1216794	Canon alpha
+1214246	Pincement broyeur
+1214238	Durcissement de carapace
+1216805	Zap !
+1216806	Voici la porte
+1217361	Adorations vaines
+1217326	Un petit selfie !
+433045	Attaque sournoise
+1217418	Appelez mon agent
+1217449	Appelez mon courtier
+1217452	Appelez ma mère
+1217510	Appel rapide
+1218061	Mèche d’or
+1218017	Barrage de crabe-à-bombes
+1218039	Grenades tissées
+1213497	Moi en rogne
+1220869	Brise-os
+1217301	Charge insouciante
+
+; Boss: Zekvir Rares
 445781	Déflagration de lave
 445718	Marteau de magma
 415253	Souffle fongique
@@ -105,6 +144,7 @@
 415406	Champête
 415499	Pris de vertige
 415492	Charge fongique
+415495	Champignon gluant
 425315	Champixplosion
 
 
@@ -225,9 +265,7 @@
 447187	Pourfendre le Vide
 447143	Rets enveloppants
 
-; Boss: Researcher Xik'vi
-;446832	Imprégnation de poison
-;463408	Imprégnation de givre
+; Boss: Researcher Xik'vik
 ;447187	Pourfendre le Vide
 ;447143	Rets enveloppants
 

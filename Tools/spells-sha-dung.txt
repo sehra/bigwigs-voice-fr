@@ -416,13 +416,16 @@
 
 ; Boss: Trash
 334748	Drain des fluides
+320696	Griffe d’os
 323347	Ténèbres tenaces
 322756	Courroux de Zolramus
 321780	Animer les morts
 327396	Destin sinistre
 328667	Salve d’éclairs de givre
+321807	Fouet osseux
 324293	Cri rauque
 343470	Bouclier fracasse-os
+324323	Enchaînement atroce
 335143	Soin d’os
 320822	Ultime marché
 320464	Puits d’ombre
@@ -443,9 +446,11 @@
 
 ; Boss: Blightbone
 320596	Relent écœurant
-320630	Gavage de sang
 320637	Gaz fétide
 320655	Crac
+320717	Appétit sanglant
+320630	Gavage de sang
+320631	Éruption putride
 
 ; Boss: Amarth, The Harvester
 321226	Royaume des morts
@@ -479,65 +484,67 @@
 ; -------------------------------------
 
 ; Boss: Trash
+341902	Ferveur impie
 333241	Crise de colère noire
-319290	Bouclier de viande
-330700	Fléau putréfiant
-341969	Décharge flétrissante
+341977	Bouclier de viande
+330697	Frappe putréfiée
+321039	Explosion abjecte
 341949	Chancre de flétrissement
+341969	Décharge flétrissante
 330586	Dévorer la chair
-332836	Découpe
 330614	Éruption infâme
-342139	Transe de bataille
-342125	Bond brutal
-342135	Rugissement d’interruption
+342103	Bile rance
+1215850	Brise-terre
+331316	Rafale sauvage
 317605	Tourbillon
-337037	Lame tourbillonnante
-332708	Onde de choc
+342135	Rugissement d’interruption
+336995	Lame tourbillonnante
+331288	Frappe du colosse
 333861	Lame à ricochets
+333845	Coup déséquilibrant
 334023	Assaut sanguinaire
 330562	Cri démoralisant
+330565	Coup de bouclier
 333827	Piétinement tellurique
-331275	Défense imprenable
-333845	Coup déséquilibrant
 330716	Tempête d’âme
 330725	Vulnérabilité à l’Ombre
 330868	Salve de traits nécrotiques
-333708	Corruption de l’âme
 342675	Lance d’os
 333294	Vents de mort
+333299	Malédiction de désolation
 331223	Tempête d’os
 331237	Pointes d’os
 
 ; Boss: An Affront of Challengers
-320063	Heurtoir
+1215741	Impact puissant
 320069	Frappe mortelle
-324085	Enrager
-326892	Fixer
-320248	Transformation génétique
+320182	Spores nocives
+1215738	Souffle putréfié
 333231	Mort incendiaire
-320293	Harmonie avec la mort
-320272	Transfert spectral
-333540	Frappes d’opportunité
+1215600	Toucher flétrissant
 
 ; Boss: Gorechop
-323515	Frappe haineuse
 322795	Crochets à viande
+323515	Frappe haineuse
+323750	Gaz abominable
 318406	Choc attendrisseur
+321447	Limon coagulant
 
 ; Boss: Xav the Unfallen
-320644	Combo violent
-320102	Sang et gloire
+320114	Sang et gloire
 331618	Bannière oppressante
+320644	Combo violent
 320050	Puissance de Maldraxxus
 320729	Gigantesque fendoir
 317231	Heurt écrasant
 339415	Choc assourdissant
 
 ; Boss: Kul'tharok
-319521	Attirer l’âme
-319637	Âme réappropriée
-319626	Parasite fantasmatique
-319669	Portée spectrale
+474087	Éruption nécrotique
+1223803	Puits des ténèbres
+474298	Attirer l’âme
+473513	Festin des damnés
+1215787	Spirale funeste
 
 ; Boss: Mordretha, the Endless Empress
 324079	Faux ravageuse
