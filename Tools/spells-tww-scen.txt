@@ -24,6 +24,9 @@
 473972	Charge téméraire
 474004	Secousse foreuse
 1213656	Prolongation !
+473541	Déluge de poings
+473696	Cocktail Molotov
+472842	Détruire
 
 ; Boss: Kobold
 449071	Mèche flamboyante
@@ -42,6 +45,7 @@
 445774	Frénésie agitée
 374898	Enrager
 445771	Afflux de bulles
+433040	Pas d’illusion
 
 ; Boss: Nerubian
 450714	Barbelures dentelées
@@ -69,6 +73,7 @@
 474223	Choc commotionnant
 474155	Traînée de gelée
 474228	Déflagration d’ombre
+455662	Ombres saisissantes
 
 ; Boss: Underkeep
 451913	Orbe de mornetoile
@@ -80,10 +85,12 @@
 453149	Toile diaphane
 
 ; Boss: Underpin Rares
-1216790	Charge en avant
-1216794	Canon alpha
+418295	Entaille ombreuse
+418297	Châtier
 1214246	Pincement broyeur
 1214238	Durcissement de carapace
+1216790	Charge en avant
+1216794	Canon alpha
 1216805	Zap !
 1216806	Voici la porte
 1217361	Adorations vaines
@@ -99,6 +106,10 @@
 1213497	Moi en rogne
 1220869	Brise-os
 1217301	Charge insouciante
+1216937	Grande entrée du Père Foreur
+1213852	Écrasement
+1217371	Lance-flammes
+1214147	Lanceur de bombe à retardement
 
 ; Boss: Zekvir Rares
 445781	Déflagration de lave
@@ -109,8 +120,8 @@
 400335	Pièges à clous
 461741	Consécration
 459421	Lumière sacrée
-418295	Entaille ombreuse
-418297	Châtier
+;418295	Entaille ombreuse
+;418297	Châtier
 458325	Danse d’évitement
 458311	Morsure venimeuse
 458397	Cri d’interruption
@@ -127,18 +138,77 @@
 
 
 ; -------------------------------------
+; Zone: Demolition Done
+; -------------------------------------
+
+; Boss: The Underpin (Tier 8)
+;1213852	Écrasement
+;1217371	Lance-flammes
+;1214147	Lanceur de bombe à retardement
+1215521	Signal aux acolytes
+1214052	Redirection d’énergie vers les boucliers
+1214053	Recharge
+1214043	Canon en fusion
+1218153	Débris enflammés
+
+; Boss: The Underpin (Tier 11)
+;1213852	Écrasement
+;1217371	Lance-flammes
+;1214147	Lanceur de bombe à retardement
+1217661	Signal aux acolytes
+1217667	Redirection d’énergie vers les boucliers
+1217666	Recharge
+;1214043	Canon en fusion
+;1218153	Débris enflammés
+
+
+; -------------------------------------
 ; Zone: Earthcrawl Mines
 ; -------------------------------------
+
+; Boss: Maklin Drillstab
+1217905	Appel de taupe mécanique
+1217903	Éclair de feu
+1217913	Brûlure sombre
 
 ; Boss: Web General Ab'enar
 448443	Malédiction d’agonie
 448412	Chariot en flammes
 448444	Entraves runiques
 
+; Boss: The Biggest Bug
+;448443	Malédiction d’agonie
+;448444	Entraves runiques
+
+
+; -------------------------------------
+; Zone: Excavation Site 9
+; -------------------------------------
+
+; Boss: Craggle Fritzbrains
+1214135	Tombe la pluie !
+1214504	Inventivité gobeline
+
+; Boss: Harbinger Ul'thul
+1213776	Malédiction désespérée
+1213785	Démolition
+1213700	Appel sans réponse
+
+; Boss: Xel'anegh The Many
+1213804	Barrage d’ombre
+1213426	Frappe tentaculaire
+1213425	Rugissement terrifiant
+
 
 ; -------------------------------------
 ; Zone: Fungal Folly
 ; -------------------------------------
+
+; Boss: Maulspike
+1214614	Lacérer et déchirer
+1214620	Ralliement hilare
+1214656	Grondement exaspérant
+1214680	Ricanement ignoble
 
 ; Boss: Spinshroom
 415406	Champête
@@ -172,6 +242,11 @@
 ; Zone: Nightfall Sanctum
 ; -------------------------------------
 
+; Boss: Cult Leaders
+;434740	Barrière d’ombre
+458874	Vague de l’ombre
+;443482	Bénédiction du crépuscule
+
 ; Boss: Reformed Fury
 443837	Balayage de l’ombre
 ;443482	Bénédiction du crépuscule
@@ -184,6 +259,25 @@
 ;443837	Balayage de l’ombre
 443908	Feu !
 443840	Afflux de désolation
+
+
+; -------------------------------------
+; Zone: Sidestreet Sluice
+; -------------------------------------
+
+; Boss: Geargrave
+1215957	Griffe ébranlante
+1215905	Canon à carnage
+1215912	Sang noir
+1215975	Mettez le jus !
+
+; Boss: Gold Elemental
+;473696	Cocktail Molotov
+
+; Boss: Vindle Snapcrank
+1215870	Frappe mécanique
+1215337	Bombe ferrailleuse
+1215374	Entretien express
 
 
 ; -------------------------------------
@@ -200,7 +294,7 @@
 440806	Choc sombrefaille
 
 ; Boss: Speaker Xanventh
-458874	Vague de l’ombre
+;458874	Vague de l’ombre
 458834	Tourbillombre
 458879	Bénédiction du crépuscule
 
@@ -228,6 +322,11 @@
 ; -------------------------------------
 ; Zone: The Sinkhole
 ; -------------------------------------
+
+; Boss: Cragpie
+470612	Bile corrosive
+359016	Rapidité
+390943	Cataclysme électrique
 
 ; Boss: Leviathan Caller
 446079	Appel des abysses
@@ -269,10 +368,24 @@
 ;447187	Pourfendre le Vide
 ;447143	Rets enveloppants
 
+; Boss: Torque Clankfire and Sprok
+1215033	Missiles à mèche lente
+1215090	Tactique d’esquive
+1215084	Cocktail imprégné de ténèbres
+1215015	Comme ça, patron ?
+
 
 ; -------------------------------------
 ; Zone: The Waterworks
 ; -------------------------------------
+
+; Boss: Shroomsprew
+;415406	Champête
+;415499	Pris de vertige
+;415495	Champignon gluant
+;415492	Charge fongique
+363194	Traînée de gelée
+;425315	Champixplosion
 
 ; Boss: Waxface
 450330	Jet de cire
@@ -284,7 +397,7 @@
 ; Zone: Zekvir's Lair
 ; -------------------------------------
 
-; Boss: Zekvir (Tier ?)
+; Boss: Zekvir (Tier 8)
 450451	Fracas de griffes
 ;450505	Bave affaiblissante
 ;450492	Rugissement épouvantable
@@ -293,7 +406,7 @@
 453937	Éclosion…
 450597	Jet de toile
 
-; Boss: Zekvir (Tier ??)
+; Boss: Zekvir (Tier 11)
 ;450451	Fracas de griffes
 ;450505	Bave affaiblissante
 ;450492	Rugissement épouvantable

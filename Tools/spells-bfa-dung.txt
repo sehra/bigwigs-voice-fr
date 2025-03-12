@@ -472,6 +472,7 @@
 269313	Bouquet final
 268712	Chapelet de bombes
 268702	Secousse furieuse
+263215	Bouclier tectonique
 1214754	Heurt massif
 1213139	Prolongation !
 268846	Lame échoïque

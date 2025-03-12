@@ -245,6 +245,7 @@
 464854	Tas de détritus
 465747	Explosion fatale étouffée
 1217975	Explosion fatale
+473119	Mèche courte
 1219384	Recyclage de roquettes
 1220648	Porte la marque de « recyclage »
 466748	Morsure infectieuse
@@ -309,7 +310,8 @@
 467380	Fusée à guidage gobelin
 466545	Tir à l’aveugle
 -31766	Électrochoqueur mod. II
-1215595	Mauvais câblage
+1215591	Mauvais câblage
+1222948	Bouclier électrochargé
 469491	Double coup dur
 469391	Plaie perforante
 1215953	Charge statique
@@ -318,32 +320,33 @@
 
 ; Boss: Chrome King Gallywix
 1220761	Cartouches du Mékingénieur
-466340	Cartouches à fragmentation
 465952	Bardée de bombes balèzes
 466154	Brûlures explosives
+466153	Mauvais boum tardif
 466165	« Obus » de 1 500 livres
 466246	Détonation focalisée
 1217292	Crépitement à décalage
 467182	Suppression
 466751	Chaleur diffusée
-1220290	Tirs piégés
+1222831	Bobines surchargées
+466340	Cartouches à fragmentation
 469286	Gigabobines
 469327	Giga-explosion
+469362	Gigabombe chargée
 469404	Giga-BOUM !
-1220846	Défaillance des commandes
+469795	Détonation de la gigabombe
+1220669	Commandes sabotées
 1215209	Zone de sabotage
 466341	Cartouches fusionnées
--31482	Technicien imprégné de ténèbres
-469362	Gigabombe chargée
-471352	Alimentez-la !
 466834	Barrage foudroyant
 1216845	Clé à molette
 1216852	Rage chancelante
-1214226	Cratérisation
 1214229	Blindage de classe Armageddon
 1214369	DESTRUCTION ABSOLUE !!!
 1214607	Boum de bombes bien balèzes
+1214755	Fusées surchargées
 466342	Cartouches tic-tac
+1219333	Dernière explosion de gallybrouzoufs
 466958	Ego sous contrôle
 
 
