@@ -42,7 +42,7 @@
 106864	Coup de pied du dragon de jade
 118540	Onde du Serpent de jade
 396907	Souffle de jade
-107110	Feu de jade
+107045	Feu de jade
 
 ; Boss: Sha of Doubt
 106113	Toucher de néant

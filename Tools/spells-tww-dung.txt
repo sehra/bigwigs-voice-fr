@@ -8,21 +8,19 @@
 434830	Toile infâme
 436614	Entoilage
 439208	Entoilage de soie
-438622	Amplification !
 434793	Barrage de résonance
 434824	Jet de toiles
 434802	Stridulence horrifiante
 438877	Appel de la couvée
 438826	Nuage toxique
 453161	Empaler
-465012	Heurtoir
+1241693	Nuée de sauterelles
 432967	Cri d’alerte strident
 433002	Frappe d’extraction
 448248	Volée révoltante
 433845	Rets éruptifs
 433841	Volée de venin
-433785	Entaille saisissante
-434252	Heurt massif
+1241785	Corruption sanguine
 433821	Frappe audacieuse
 
 ; Boss: Avanoxx
@@ -36,6 +34,7 @@
 439506	Charge enfouie
 433740	Infestation
 433766	Œil de l’essaim
+433781	Essaim perpétuel
 442210	Liens de soie
 
 ; Boss: Ki'katal the Harvester
@@ -53,7 +52,10 @@
 ; Boss: Trash
 437721	Flammes bouillonnantes
 437956	Éruption de fournaise
+434773	Vilaine chope
 463218	Baril instable
+434756	Lancer de chaise
+441408	Soif
 434706	Lancer de Brassecendre
 463206	Attendrir
 434998	Haute cuisine
@@ -61,6 +63,7 @@
 441434	Cuvée ratée
 448619	Livraison imprudente
 441179	Miel dégoulinant
+441214	Renversement de boisson
 441242	Des échantillons gratuits ?
 441119	Lance-abeille
 441351	Courroux d’abeille
@@ -83,12 +86,13 @@
 440147	Remplissage
 439202	Fermentation brûlante
 439031	Hydromel percutant
-;441179	Miel dégoulinant
+440087	Miel dégoulinant
 
 ; Boss: Benk Buzzbee
 438025	Casse-croûte
 439524	Battements d’aile
 440134	Marinade de miel
+438971	Piqûre déchiqueteuse
 
 ; Boss: Goldie Baronbottom
 435560	Répandre l’amour !
@@ -177,6 +181,7 @@
 426260	Pyrotorgnole
 422393	Ténèbres suffocantes
 422541	Drain de lumière
+469620	Ombre rampante
 
 ; Boss: Ol' Waxbeard
 422116	Charge téméraire
@@ -225,9 +230,9 @@
 424423	Attaque en fente
 424431	Radiance sacrée
 448515	Jugement divin
-424420	Déflagracendre
 424462	Tempête de braises
 427609	Cri perturbant
+427621	Empaler
 427342	Défense
 453458	Chausse-trapes
 462859	Tir au pot
@@ -245,7 +250,7 @@
 
 ; Boss: Captain Dailcry
 424419	Cri de bataille
-447270	Jeter la lance
+1238780	Lance briseterre
 424414	Perce-armure
 447439	Lacération sauvage
 
@@ -274,6 +279,7 @@
 
 ; Boss: Trash
 449042	Lumière radieuse
+1242074	Agressivité croissante
 431309	Ombres d’enracinement
 432448	Graine stygienne
 431364	Rayon tourmenteur
@@ -290,9 +296,7 @@
 431494	Tranchant noir
 451112	Rage tacticienne
 432520	Barrière ombreuse
-431637	Ruée ombreuse
 432565	Grêle noire
-431304	Blocs obscurs
 431349	Éruption tourmentante
 446615	Arrivée de renforts
 
@@ -437,15 +441,13 @@
 465827	Distorsion sanguine
 465813	Venin léthargique
 462771	Rayon d’inspection
+463169	Dynamite EV-Lan III
 465408	Construction rapide
 468726	Placer la charge d’hydroglycérine
 468631	Harpon
 471736	Éjection de varech
 471733	Algue curative
 1214337	Placer les bombes
-469818	Rot de bulles
-1217496	Splitch splatch
-469721	Ressac
 469799	Supercharge
 465666	Heurtoir fulgurant
 
@@ -464,6 +466,7 @@
 460867	Gros badaBOUM !
 1217653	B.B.B.F.G.
 473690	Gel explosif cinétique
+460602	Tir réflexe
 459779	Charge incontrôlable
 459799	Torgnole
 
@@ -479,5 +482,57 @@
 468813	Gigazap
 466190	Coup de poing tonnerre
 468723	Eau électrifiée
+
+
+; -------------------------------------
+; Zone: Eco-Dome Al'dani
+; -------------------------------------
+
+; Boss: Trash
+1236981	Grenade disruptive
+1239229	Éruption k’areshi
+1229474	Gavage
+1221152	Choc vorace
+1221190	Miasme glouton
+1226111	Expulsion instable
+1235368	Entaille arcanique
+1231244	Noyau instable
+1222202	Brûlure arcanique
+1229510	Arc électrique
+1222356	Distorsion
+1221483	Énergie disruptive
+1221532	Rituel erratique
+1248699	Consumer l’esprit
+1226492	Rituel interrompu
+1223000	Étreinte de K’aresh
+1237195	Charge enfouie
+1237220	Tempête de sable piquante
+;1215850	Brise-terre
+1223007	Éruption enfouie
+1222341	Morsure obscure
+
+; Boss: Azhiccar
+1217232	Dévorer
+1217247	Festin
+1217327	Cri envahissant
+1227745	Régurgitation toxique
+1217446	Salivation digestive
+1217664	Rosser
+
+; Boss: Taah'bat and A'wazj
+1236130	Javelot de lien
+1227918	Frappe de téléportation
+1219482	Griffes de faille
+1219700	Attaque arcanique éclair
+1219457	Incorporel
+1219731	Déstabilisation
+
+; Boss: Soul-Scribe
+1224793	Murmures du destin
+1224865	Prédestination
+1226444	Destin blessé
+1236703	Trame éternelle
+1225218	Crainte de l’inconnu
+1225174	Dague de cérémonie
 
 

@@ -255,25 +255,29 @@
 464112	Démolissage
 1217954	Fusion
 467117	Surmultiplicateur
-467135	Compacteur de déchets
+467109	Compacteur de déchets
 1218704	Prototype de bobine énergétique
 
 ; Boss: Sprocketmonger Lockenstock
+468791	Gigamort
 1216802	Générateur de polarisation
 1216911	Posi-polarisation
 1216934	Néga-polarisation
 1219047	Catastr’explosion polarisée
+1216706	Barrage du Vide
 473276	Activation d’inventions !
+1221320	Activation d’inventions !
 1217231	Pulvéropied
+1216406	Explosion instable
 1218342	Shrapnel instable
 1218418	Transfert électrique
+466235	Transfert électrique
 1216509	Vissiés
 465232	Badaboum sonore
 1214878	Pyro-sacoche
 465917	Gravicrasses
-466860	Techno de pointe
+466765	Lancement de la bêta
 1218319	Explovide
-468791	Gigamort
 
 ; Boss: The One-Armed Bandit
 460181	Combinaison gagnante
@@ -287,10 +291,12 @@
 464705	Ticket doré
 460582	Surcharge !
 471927	Flammes flétrissantes
+465309	Tricher pour gagner !
 465765	Cycle de maintenance
+473195	Machines liées
 465432	Machines liées
 465322	Chaleur écrasante
-465580	Paiement dispersé
+465325	Chaleur écrasante
 465587	Jackpot explosif
 
 ; Boss: Mug’Zee, Heads of Security
@@ -329,13 +335,17 @@
 467182	Suppression
 466751	Chaleur diffusée
 1222831	Bobines surchargées
+1217987	Cartouches combinées
+1218488	Cartouches à dispersion
+474130	Cartouches du Mékorganisateur
+1218546	Barrage de bombes bigrement balèzes
+1218696	Chaos de missiles
 466340	Cartouches à fragmentation
 469286	Gigabobines
 469327	Giga-explosion
 469362	Gigabombe chargée
 469404	Giga-BOUM !
 469795	Détonation de la gigabombe
-1220669	Commandes sabotées
 1215209	Zone de sabotage
 466341	Cartouches fusionnées
 466834	Barrage foudroyant
@@ -348,5 +358,178 @@
 466342	Cartouches tic-tac
 1219333	Dernière explosion de gallybrouzoufs
 466958	Ego sous contrôle
+
+
+; -------------------------------------
+; Zone: Manaforge Omega
+; -------------------------------------
+
+; Boss: Trash
+
+; Boss: Plexus Sentinel
+1220679	Transfert de phase
+1219223	Atomisation
+1219248	Radiation des arcanes
+1227794	Foudre arcanique
+1219607	Volée d’éradication
+1219450	Matrices manifestes
+1218625	Matrice de déplacement
+1219354	Résidu de mana puissant
+1219263	Arcanocanon d’oblitération
+1218668	Découpeur énergétique
+1233110	Foudre purificatrice
+1219471	Zone d’expulsion
+
+; Boss: Loom'ithar
+1237272	Tissage d’antre
+1238502	Charme tressé
+1226311	Attache d’imprégnation
+1226366	Soie vivante
+1226721	Entrave soyeuse
+1226395	Explosion de surinfusion
+1237212	Fil transperçant
+1228059	Rage déliée
+1243771	Ichor arcanique
+1227782	Outrage des arcanes
+1227226	Vague frémissante
+1246921	Pylônes d’imprégnation
+
+; Boss: Soulbinder Naazindhri
+1225582	Appel des âmes
+1227048	Lame-du-Vide embusquée
+1227052	Explosion de Vide
+1227276	Démolition d’âme usée
+1223859	Expulsion arcanique
+1225616	Convergence de feu d’âmes
+1226827	Orbe déchiqueteur d’âme
+1241100	Fouet mystique
+1242086	Énergie arcanique
+
+; Boss: Forgeweaver Araz
+1231720	Invocation du collecteur
+1228214	Moisson astrale
+1236207	Afflux astral
+1228216	Oblitération arcanique
+1228219	Marque astrale
+1228188	Tempête de silence
+1228502	Puissance accablante
+1227631	Expulsion arcanique
+1248009	Sombre terminus
+1240705	Brûlure astrale
+1240437	Afflux volatil
+1232412	Iris de focalisation
+1234328	Déflagration photonique
+1232590	Convergence arcanique
+-32596	Auxiliaire protégé
+1238266	Puissance montante
+1233415	Éclat de mana
+1233074	Ténèbres écrasantes
+1243901	Moisson du Vide
+1243641	Afflux de Vide
+1248171	Déchirure du Vide
+1232221	Affres de l’agonie
+
+; Boss: The Soul Hunters
+1222232	Colère dévorante
+1222310	Appétit insatiable
+1227355	Pas du Vide
+1227685	Entaille dévorante
+1235045	Oubli envahissant
+1233105	Résidu sombre
+1233968	Horizon des évènements
+1227809	La traque
+1241306	Danse des lames
+1218103	Rayon accablant
+1221490	Roussissement gangrené
+1225130	Gangrelame
+1240891	Sigil de chaînes
+1241833	Fracture
+1226493	Âme brisée
+1241946	Fragilité
+1242259	Bombe spirituelle
+1242284	Âme meurtrie
+1242304	Âme expulsée
+1233672	Frappe infernale
+1233381	Flammes flétrissantes
+
+; Boss: Fractillus
+1232130	Éclats du nexus
+1247424	Consomption du Vide
+1225673	Fracture enragée
+1233416	Onde de choc cristalline
+1224414	Onde de choc cristalline
+1220394	Revers fracassant
+1227373	Brisecoquille
+1227378	Carcan cristallin
+1231871	Heurt de choc
+1232760	Lacérations cristallines
+
+; Boss: Nexus-King Salhadaar
+1224737	Lien par serment
+1224767	Servitude du roi
+1224776	Règle de subjugation
+1224787	Conquérir
+1224812	Vaincre
+1227549	Bannissement
+1224906	Invocation du serment
+1224827	Décapitation
+1231097	Déchirure cosmique
+1227470	Assiéger
+1227734	Fusionner l’aile du Vide
+1228115	Brise-Néant
+1228163	Souffle dimensionnel
+1234529	Gueule cosmique
+1230302	Autodestruction
+1232399	Mortier effroyable
+1228075	Rayons du nexus
+1230261	Explosion de Néant
+1228265	Faim du roi
+1226648	Choc galactique
+1225444	Atomisation
+1225645	Piques du crépuscule
+1226362	Cicatrice du Crépuscule
+1226413	Brisure stellaire
+1226442	Frappe de fléau stellaire
+1225634	Monde crépusculaire
+1238975	Serment vengeur
+
+; Boss: Dimensius, the All-Devouring
+1230087	Choc massif
+1228206	Masse excédentaire
+1228207	Gravité collective
+1230168	Fragilité mortelle
+1229038	Dévorer
+1230979	Matière noire
+1231002	Énergie noire
+1243690	Espace brisé
+1243702	Antimatière
+1243699	Fragment spatial
+1243577	Gravité inversée
+1243609	En l’air
+1235114	Envol de reshii
+1237097	Projection astrophysique
+1230674	Spaghettification
+1246930	Noyau stellaire
+1238765	Extinction
+1237319	Explosion gamma
+1237690	Éclipse
+1237694	Éjection de masse
+1237696	Champ de débris
+1239262	Croix de conquérant
+1239270	Garde du Vide
+1246541	Lien néantin
+1246145	Toucher de l’oubli
+1237695	Nova de poussière d’étoiles
+1245292	Déstabilisation
+1233292	Disque d’accrétion
+1231716	Anéantir les étoiles
+1232394	Puits de gravité
+1233539	Dévorer
+1234044	Ciel obscurci
+1234054	Tremblement d’ombre
+1234263	Effondrement cosmique
+1234266	Fragilité cosmique
+1232973	Supernova
+1250055	Emprise du Vide
 
 

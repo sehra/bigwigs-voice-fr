@@ -266,7 +266,6 @@
 ; Boss: K.U.-J.0.
 291930	Largage aérien
 291946	Expulsion de flammes
-291937	À l’abri derrière la ferraille
 291973	Bond explosif
 294929	Mâchoire ardente
 
@@ -275,6 +274,8 @@
 294855	Floraison explosive
 285440	Canon lance-flammes « caché »
 285454	Discom-BOMBE-ulateur
+292332	La haie qui se taille
+1213154	Sol électrifié
 
 ; Boss: King Mechagon
 291865	Recalibrage
@@ -459,6 +460,7 @@
 ; Boss: Trash
 280604	Vaporisation de glace
 267433	Activation du méca
+267980	Mitrailleuse
 263628	Bouclier chargé
 472041	Gaz lacrymogène
 262092	Inhalation de vapeurs
@@ -475,8 +477,10 @@
 263215	Bouclier tectonique
 1214754	Heurt massif
 1213139	Prolongation !
+1214751	Charge brutale
 268846	Lame échoïque
 473304	Tempête cérébrale
+262794	Fouet mental
 268797	Transmutation : ennemi en masse visqueuse
 269429	Tir chargé
 262383	Déploiement de mine rampante

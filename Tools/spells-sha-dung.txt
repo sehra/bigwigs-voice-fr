@@ -56,18 +56,21 @@
 
 ; Boss: Trash
 326450	Bêtes loyales
-325799	Tir rapide
-344993	Balayage acéré
-346866	Souffle de pierre
-342171	Vive-pierre loyal
-325523	Poussée mortelle
-325876	Malédiction d’oblitération
-325700	Collecte de vices
+1237602	Blessure hémorragique
+1235060	Armure entachée d’anima
+325876	Marque d’oblitération
 325701	Siphon de vie
+326997	Puissant balayage
+1235326	Hurlement de déconcentration
+1237071	Poing en pierre
 326409	Rosser
 326441	Secousse de vice
-326607	Pétrification
-326997	Puissant balayage
+1235762	Pétrification
+1235766	Frappe mortelle
+326638	Jet de glaive
+326794	Sombre communion
+1236614	Démonstration de puissance
+326847	Dispersion du vice
 326891	Angoisse
 
 ; Boss: Halkias, the Sin-Stained Goliath
@@ -79,23 +82,23 @@
 
 ; Boss: Echelon
 319733	Appel des pierres
-328206	Malédiction de pierre
+328206	Statufication
 319941	Bond fracasse-pierre
 326389	Torrent de sang
 
 ; Boss: High Adjudicator Aleez
-323538	Trait de pouvoir
-323552	Salve de puissance
+323538	Trait d’anima
 329340	Fontaine d’anima
+323597	Procession spectrale
+1236512	Anima instable
 323650	Fixation obsessive
 
 ; Boss: Lord Chamberlain
 329104	Porte des ombres
 328791	Rituel de malheur
-323143	Lancer télékinétique
+323142	Lancer télékinétique
 323236	Souffrance déchaînée
-323437	Stigmate d’orgueil
-327885	Éruption de tourment
+1236973	Éruption de tourment
 
 
 ; -------------------------------------
@@ -313,42 +316,62 @@
 ; -------------------------------------
 
 ; Boss: Trash
-356031	Rayon de stase
-356324	Glyphe d’entrave renforcé
+352796	Frappe par procuration
 356548	Impulsion irradiante
+355900	Grenade disruptive
+355888	Bâton de lumière opaque
+355891	Téléportation
+355915	Glyphe d’entrave
 356001	Faisceau segmenteur
+355934	Barrière de lumière opaque
+355980	Bouclier réfracteur
+356537	Glyphe d’entrave renforcé
 356929	Chaîne de garde à vue
 356942	Clouage
 356404	Souffle de lave
 356407	Terreur ancienne
 357512	Charge frénétique
+357508	Dérouillée sauvage
+355830	Prestelame
+357197	Retraite d’éclats de lumière
 356967	Revers hyperluminique
+357229	Améliorateur de chronolumière
 357029	Bombe hyperluminique
-355980	Bouclier réfracteur
-355934	Barrière de lumière opaque
 347721	Ouverture de la cage
+347775	Filtre anti-spam
+347716	Coupe-papier
+1240821	Heurtoir énergisé
+1240912	Transpercer
+355640	Champ du phalangiste
 355637	Frappe de refoulement
 355642	Salve hyperluminique
-355782	Multiplicateur de force
+1244443	Multiplicateur de force
 355477	Puissant coup de pied
-355480	Force létale
+355479	Force létale
+355473	Mines étourdissantes
 358443	Du sang dans l’eau
 355132	Bâton-poisson revigorant
+355234	Poisson-globe versatile
 355057	Cri de Mrrggllrrgg
+355048	Perce-coque
 355429	Martèlement des marées
+355464	Lancer un rocher
 355584	Impulsion chargée
 355577	Crépitement
 356133	Super cuvée
+1244650	Jaillissement de flots
+368661	Lancer d’épée
 357226	Étoile à la dérive
 357238	Pulsar errant
 357260	Faille instable
-357284	Revigorer
 
 ; Boss: Zo'phex the Sentinel
-347949	Interrogatoire
+348350	Interrogatoire
 345990	Cellule de confinement
 345770	Confisquer la contrebande
 346204	Sécurité armée
+348128	À bras le corps
+1236348	Entaille chargée
 
 ; Boss: The Grand Menagerie
 349627	Gloutonnerie
@@ -358,11 +381,14 @@
 349954	Protocole de purification
 349934	Protocole de flagellation
 349987	Protocole de vidange
+350045	Anima corrosif
+350037	Noyau d’anima exposé
 350101	Chaînes de damnation
 350086	Annihilation tourbillonnante
 
 ; Boss: Mailroom Mayhem
 346286	Liquides dangereux
+346329	Liquides répandus
 346742	Courrier de fan
 346962	Mandat postal
 346947	Marchandise instable
@@ -371,43 +397,49 @@
 ; Boss: Myza's Oasis
 356482	Nourriture pourrie
 353783	Téléportation
-353835	Suppression
 350916	Heurtoir de sécurité
-353706	Bagarreur
 350922	Cri d’intimidation
+353706	Bagarreur
 350919	Contrôle des foules
 355438	Étincelle exterminatrice
 359028	Heurtoir de sécurité
+1241032	Ultime avertissement
+357404	Chant dissonant
+357436	Solo contagieux
+357542	Accord déchirant
 
 ; Boss: So'azmi
-357188	Technique double
-347610	Shuri
-347249	Division
-347623	Prestelame
+1245579	Shuri
+1245634	Division
+1245669	Technique double
+1248209	Entaille phasique
+1245752	Triple technique
 
 ; Boss: Hylbrande
 353312	Explosion purifiante
 346116	Frappes tranchantes
 347094	Fracas titanesque
-346959	Purification par le feu
+346957	Purification par le feu
 346766	Cycle d’assainissement
+358131	Nova de foudre
 
 ; Boss: Timecap'n Hooktail
 347149	Souffle infini
-347151	Coup de crochet
-354334	Embroché !
 352345	Tir d’ancre
-347371	Tir de mitraille
-350517	Chronodoublement
+358947	Goudron brûlant
+1240102	Bombes à retardement
 
 ; Boss: So'leah
-351124	Invocation d’assassins
+350796	Étincelle hyperluminique
 353635	Effondrement d’étoile
 350804	Énergie d’effondrement
-350796	Étincelle hyperluminique
-351086	Puissance accablante
-351096	Fragmentation énergétique
+351124	Invocation d’assassins
 351119	Shurikens éclairs
+351086	Puissance accablante
+350875	Décharge hyperluminique
+351096	Fragmentation énergétique
+351646	Nova hyperluminique
+357190	Vulnérabilité stellaire
 
 
 ; -------------------------------------
@@ -494,6 +526,7 @@
 330586	Dévorer la chair
 330614	Éruption infâme
 342103	Bile rance
+330532	Carreau dentelé
 1215850	Brise-terre
 331316	Rafale sauvage
 317605	Tourbillon
